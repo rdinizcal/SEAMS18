@@ -96,6 +96,7 @@ class BodyHubModule : public TimeTriggeredConferenceClientModule {
         map<uint32_t, string> m_sensor; // registro de sensores e estado atual
         ofstream m_status_log; // arquivo para log
         timespec m_ref; // referencia temporal
+        bool m_emergency; // situacao de emergencia
 };
 
 #endif

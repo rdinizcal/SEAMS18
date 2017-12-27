@@ -12,7 +12,8 @@ SensorNodeModule::SensorNodeModule(const int32_t &argc, char **argv) :
     m_id(getIdentifier()),
     m_sensor_type(),
     m_battery(100.00),
-    m_status("baixo"),
+    m_status("low"),
+    m_collected("low"),
     m_data_queue(),
     m_status_log(),
     m_ref() {}
@@ -29,7 +30,8 @@ void SensorNodeModule::setUp() {
     string path = "output/";
     string filename = "sensornode" + to_string(m_id);
     m_status_log.open(path + filename + "_status_log.csv");
-    m_status_log << "Tempo(s), Risco do Sensor, Nível da Bateria, Diff(s)\n";
+    m_status_log << "Tref:," << (m_ref.tv_sec) << "," << (m_ref.tv_nsec/1E9) << "," << "=B1+C1\n" << "\n";
+    m_status_log << "ID, Battery Level, Actual Sensor Risk Status, Collected Sensor Status, Data Sent?, T sensornode.collected (s), Tinst sensornode.collected (s)\n";
 }
 
 // DESTRUIÇÃO
@@ -39,11 +41,11 @@ void SensorNodeModule::tearDown() {
 bool SensorNodeModule::controllerFSM(int t){
     bool exe = false;
     
-    if(m_status=="baixo"){
+    if(m_status=="low"){
         exe = (t>=10)?true:false;
-    } else if (m_status=="moderado") {
+    } else if (m_status=="moderate") {
         exe = (t>=5)?true:false;
-    } else if (m_status=="alto") {
+    } else if (m_status=="high") {
         exe = (t>=1)?true:false;
     } 
 
@@ -55,63 +57,33 @@ string SensorNodeModule::generateData(string actual_status){
     string category;
     int p = (rand() % 100) + 1;
 
-    if(actual_status == "baixo"){
-        if(1 <= p && p <= 50) {
-            category = "alto";
-        } else if (50 < p && p <= 100) {
-            category = "moderado";
+    if(actual_status == "low"){
+        if(1 <= p && p <= 33) {
+            category = "high";
+        } else if (33 < p && p <= 66) {
+            category = "moderate";
         } else {
             category = actual_status;
         }
-    } else if(actual_status == "moderado") {
-        if(1 <= p && p <= 50) {
-            category = "alto";
-        } else if (50 < p && p <= 100) {
-            category = "baixo";
+    } else if(actual_status == "moderate") {
+        if(1 <= p && p <= 33) {
+            category = "high";
+        } else if (33 < p && p <= 66) {
+            category = "low";
         } else {
             category = actual_status;
         }
-    } else if(actual_status == "alto"){
-        if(1 <= p && p <= 50) {
-            category = "baixo";
-        } else if (50 < p && p <= 100) {
-            category = "moderado";
-        } else {
-            category = actual_status;
-        }
-    } else {
-        category = actual_status;
-    }
-
-    /*
-    if(actual_status == "baixo"){
-        if(1 <= p && p <= 5) {
-            category = "alto";
-        } else if (5 < p && p <= 30) {
-            category = "moderado";
-        } else {
-            category = actual_status;
-        }
-    } else if(actual_status == "moderado") {
-        if(1 <= p && p <= 15) {
-            category = "alto";
-        } else if (15 < p && p <= 30) {
-            category = "baixo";
-        } else {
-            category = actual_status;
-        }
-    } else if(actual_status == "alto"){
-        if(1 <= p && p <= 5) {
-            category = "baixo";
-        } else if (5 < p && p <= 30) {
-            category = "moderado";
+    } else if(actual_status == "high"){
+        if(1 <= p && p <= 33) {
+            category = "low";
+        } else if (33 < p && p <= 66) {
+            category = "moderate";
         } else {
             category = actual_status;
         }
     } else {
         category = actual_status;
     }
-    */
 
     return category;
 }
@@ -120,42 +92,43 @@ string SensorNodeModule::statusAnalysis(string actual_status) {
 
     string new_status = actual_status;
     int l=0, m=0, h=0;
-    //int threshold=5;
+    int threshold=3;
 
     for(uint32_t i = 0; i < m_data_queue.size(); i++) {
-        if(m_data_queue[i]=="baixo"){
+        if(m_data_queue[i]=="low"){
             l++;
-        } else if(m_data_queue[i]=="moderado") {
+        } else if(m_data_queue[i]=="moderate") {
             m++;
-        } else if (m_data_queue[i]=="alto"){
+        } else if (m_data_queue[i]=="high"){
             h++;
         }
-    }
+    } 
 
-    /* 
+     
     // Analisar 3 de 5
     if(l>=threshold){
-        new_status = "baixo";
+        new_status = "low";
     } else if (m>=threshold) {
-        new_status = "moderado";
+        new_status = "moderate";
     } else if (h>=threshold) {
-        new_status = "alto";
+        new_status = "high";
     } else {
         new_status = actual_status;
     }
-    */
-
+    
+    /*
     // Analisar maioria entre sensores
     int max = h;
 
     if(l > max) {
-        new_status = "baixo";
+        new_status = "low";
     } else if (m > max) {
-        new_status = "moderado";
+        new_status = "moderate";
     } else {
-        new_status = "alto";
+        new_status = "high";
     }
-    
+    */
+
     return new_status;
 }
 
@@ -194,11 +167,12 @@ odcore::data::dmcp::ModuleExitCodeMessage::ModuleExitCode SensorNodeModule::body
     int cycles = 0;     // contador de ciclos desde a ultima execução
 
     m_sensor_type = (rand() % 3) + 1;
-    timespec t_old = m_ref;
     timespec t_crab = m_ref;
     string new_status;
 
     int c=0;
+    bool sent=false;
+    int cont=3;
 
     while (getModuleStateAndWaitForRemainingTimeInTimeslice() == odcore::data::dmcp::ModuleStateMessage::RUNNING) {
         
@@ -211,17 +185,16 @@ odcore::data::dmcp::ModuleExitCodeMessage::ModuleExitCode SensorNodeModule::body
             /*GERAR DADOS*/
             
             bool flag = false;
-            for(int i = 0; i < 5; i++){
-
-                string categorized_data;
+            //for(int i = 0; i < 5; i++){
+                
+                string collected;
                 timespec et = elapsedTime(ts, t_crab);
 
                 //cout << "DEBUG ET: " << ((double)((et.tv_sec) + (et.tv_nsec/1E9))) <<endl;
                 if(((double)((et.tv_sec) + (et.tv_nsec/1E9))) <= 10){
-                    categorized_data = m_status;
+                    collected = m_status;
                 } else {
-                    categorized_data = generateData(m_status);
-                    cout << "ESTADO GERADO: " <<categorized_data<<endl;
+                    collected = generateData(m_status);
                     flag = true;
                 }
                 consumeBattery(0.01);
@@ -230,13 +203,11 @@ odcore::data::dmcp::ModuleExitCodeMessage::ModuleExitCode SensorNodeModule::body
                     m_data_queue.pop_front();
                 } 
 
-                m_data_queue.push_back(categorized_data);
-            }
+                m_data_queue.push_back(collected);
+            //}
 
-            if(flag){
-                t_crab = ts;
-                flag=false;
-            }
+            cout << "COLLECTED DATA: " << collected << endl;
+
             /*CAPTURAR INSTANTE DO PROCESSADOR*/
             clock_gettime(CLOCK_REALTIME, &ts);
 
@@ -249,17 +220,43 @@ odcore::data::dmcp::ModuleExitCodeMessage::ModuleExitCode SensorNodeModule::body
                 /*ENVIAR ESTADO*/
                 SensorNodeModule::sendSensorData(SensorData(m_id, m_sensor_type, m_status, ts));
                 consumeBattery(0.01);
-                
-                cout << ++c << "- Actual status: " << m_status /* << " | Data sampled: " << categorized_data */ <<  " at " << TimeStamp().getYYYYMMDD_HHMMSSms() << endl;
-                timespec t_esy = elapsedTime(ts, m_ref);
-                timespec t_hrd = elapsedTime(t_esy, t_old);
-                m_status_log << (double)((t_esy.tv_sec) + (t_esy.tv_nsec/1E9)) << ",";
-                m_status_log << m_status << ",";
-                m_status_log << m_battery << ",";
-                m_status_log <<  (double)((t_hrd.tv_sec) + (t_hrd.tv_nsec/1E9)) << "\n";
-                t_old = t_esy;
+
+                sent = true;
+
+                if(flag){
+                    t_crab = ts;
+                    flag=false;
+                }
             }
+
+
+            cout << ++c << "- Actual status: " << m_status  << " | Data sampled: " << new_status <<  " at " << TimeStamp().getYYYYMMDD_HHMMSSms() << endl;
+
+            //ID
+            m_status_log << m_id << ",";
+
+            //Battery Level
+            m_status_log << m_battery << ",";
+
+            //Actual Sensor Risk Status
+            m_status_log << m_status << ",";
+
+            //Collected Sensor Risk Status
+            m_status_log << collected << ","; 
+
+            //Data Sent?
+            string kk = (sent)?"true":"false";
+            m_status_log << kk << ",";
+
+            //T sensornode.collected
+            timespec tts = elapsedTime(ts,m_ref);
+            m_status_log << (double)((tts.tv_sec) + (tts.tv_nsec/1E9)) << ",";
+
+            //T sensnronode.collcted inst
+            ++cont;
+            m_status_log << "=H" << to_string(cont) << "+ I" << to_string(cont) << "," << (ts.tv_sec) << "," << (ts.tv_nsec/1E9) << "\n";
             
+            sent=false;
             cycles = 0;
         }
     }

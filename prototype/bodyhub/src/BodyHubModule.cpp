@@ -1,5 +1,5 @@
 /*
- * Módulo do Nó Sensor
+ * Módulo do Plataforma Central
  * 
  * @author Ricardo Diniz Caldas
  * @version v1.0
@@ -14,7 +14,8 @@ BodyHubModule::BodyHubModule(const int32_t &argc, char **argv) :
     m_health_status("-"),
     m_sensor(),
     m_status_log(),
-    m_ref() {}
+    m_ref(),
+    m_emergency(false) {}
 
 BodyHubModule::~BodyHubModule() {}
 
@@ -28,7 +29,8 @@ void BodyHubModule::setUp() {
     // Abre arquivo para persistencia de dados
     string path = "output/";    
     m_status_log.open(path+"bodyhub_status_log.csv");
-    m_status_log << "Sensor remetente, Estado do Paciente, Enviado às (s), Processado às (s), Diff (s)\n";
+    m_status_log << "Tref:," << (m_ref.tv_sec) << "," << (m_ref.tv_nsec/1E9) << "," << "=B1+C1\n" << "\n";
+    m_status_log << "Sensor Sender ID, Patient Health Status, Detected Emergency?, T bodyhub.processed (s), T sensornode.collected (s), delta (s)\n";
 }
 
 // DESTRUIÇÃO
@@ -40,20 +42,21 @@ string BodyHubModule::calculateHealthStatus(){
     double hr = 0;
     for(uint32_t i = 0; i < m_sensor.size(); i++){
 
-        if (m_sensor[i] == "baixo") {
+        if (m_sensor[i] == "low") {
             hr += 0.1;
-        } else if (m_sensor[i] == "moderado") {
+        } else if (m_sensor[i] == "moderate") {
             hr += 1;
-        } else if (m_sensor[i] == "alto") {
+        } else if (m_sensor[i] == "high") {
             hr += 5;
         } 
     }
     
-    return (hr<=0)?"unknown":(hr<1)?"bom":(hr<5)?"medio":(hr<20)?"ruim":"unknown";
+    return (hr<=0)?"unknown":(hr<1)?"good":(hr<5)?"medium":(hr<100)?"bad":"unknown";
 }
 
 void BodyHubModule::updateHealthStatus(SensorData sensordata){
-    m_sensor[sensordata.getSensorType()-1] = sensordata.getSensorStatus();
+    //m_sensor[sensordata.getSensorType()-1] = sensordata.getSensorStatus();
+    m_sensor[sensordata.getSensorID()] = sensordata.getSensorStatus();
     m_health_status = BodyHubModule::calculateHealthStatus();
 }
 
@@ -84,8 +87,10 @@ void BodyHubModule::persistHealthStatus(uint32_t sensor_id, timespec t_sen, time
     } */
 
     m_status_log << m_health_status << ",";
-    m_status_log << (double)((sent.tv_sec) + (sent.tv_nsec/1E9)) << ",";
+    string em = (m_emergency)?"true":"false";
+    m_status_log << em << ",";
     m_status_log << (double)((processed.tv_sec) + (processed.tv_nsec/1E9)) << ",";
+    m_status_log << (double)((sent.tv_sec) + (sent.tv_nsec/1E9)) << ",";
 
     timespec result = elapsedTime(t_proc, t_sen);
     m_status_log << (result.tv_sec) + (result.tv_nsec/1E9) << "\n";
@@ -106,7 +111,6 @@ odcore::data::dmcp::ModuleExitCodeMessage::ModuleExitCode BodyHubModule::body() 
     
     timespec ts; // timestamp
 
-    bool is_emergency = false; // variável booleana utilizada para avisar sobre estados de emergencia
     uint32_t sensor_id = 0;    // varável utilizada para capturar e persistir o id do sensor que enviou os dados
 
     while (getModuleStateAndWaitForRemainingTimeInTimeslice() == odcore::data::dmcp::ModuleStateMessage::RUNNING) {
@@ -125,8 +129,8 @@ odcore::data::dmcp::ModuleExitCodeMessage::ModuleExitCode BodyHubModule::body() 
                 sensor_id = container.getData<SensorData>().getSensorID();
 
                 // DETECTA EMERGÊNCIA
-                is_emergency=(container.getData<SensorData>().getSensorStatus() == "alto")?true:false;
-                CLOG1<<"Emergencia?"<<is_emergency<<endl;
+                m_emergency=(container.getData<SensorData>().getSensorStatus() == "high")?true:false;
+                CLOG1<<"Emergencia?"<<m_emergency<<endl;
 
                 // PERSISTE
                 BodyHubModule::persistHealthStatus(sensor_id, container.getData<SensorData>().getSentTimespec(), ts);
@@ -134,6 +138,7 @@ odcore::data::dmcp::ModuleExitCodeMessage::ModuleExitCode BodyHubModule::body() 
 
             //imprime dados atuais
             BodyHubModule::printHealthStatus();
+            m_emergency=false;
         }            
         
     }

@@ -359,7 +359,7 @@ void send() {
 			<name x="-16746" y="-17357">idle</name>
 		</location>
 		<init ref="id18"/>
-		<transition color="#00ff00">
+		<transition>
 			<source ref="id16"/>
 			<target ref="id17"/>
 			<label kind="guard" x="-16838" y="-17093">sn_status[id]
@@ -468,24 +468,28 @@ void send() {
 		<transition>
 			<source ref="id20"/>
 			<target ref="id22"/>
-			<label kind="synchronisation" x="-42" y="76">gen?</label>
-			<label kind="assignment" x="-68" y="93">update(low)</label>
-			<nail x="110" y="68"/>
-			<nail x="68" y="85"/>
-			<nail x="-34" y="93"/>
-			<nail x="-136" y="85"/>
-			<nail x="-178" y="68"/>
+			<label kind="synchronisation" x="-42" y="85">gen?</label>
+			<label kind="assignment" x="-68" y="102">update(low)</label>
+			<nail x="119" y="51"/>
+			<nail x="85" y="76"/>
+			<nail x="34" y="93"/>
+			<nail x="-34" y="102"/>
+			<nail x="-102" y="93"/>
+			<nail x="-153" y="76"/>
+			<nail x="-187" y="51"/>
 		</transition>
 		<transition>
 			<source ref="id22"/>
 			<target ref="id20"/>
-			<label kind="synchronisation" x="-51" y="-93">gen?</label>
-			<label kind="assignment" x="-93" y="-110">update(high)</label>
-			<nail x="-178" y="-68"/>
-			<nail x="-136" y="-85"/>
+			<label kind="synchronisation" x="-59" y="-102">gen?</label>
+			<label kind="assignment" x="-93" y="-119">update(high)</label>
+			<nail x="-187" y="-51"/>
+			<nail x="-153" y="-76"/>
+			<nail x="-102" y="-93"/>
 			<nail x="-34" y="-102"/>
-			<nail x="68" y="-85"/>
-			<nail x="110" y="-68"/>
+			<nail x="34" y="-93"/>
+			<nail x="85" y="-76"/>
+			<nail x="119" y="-51"/>
 		</transition>
 		<transition>
 			<source ref="id20"/>

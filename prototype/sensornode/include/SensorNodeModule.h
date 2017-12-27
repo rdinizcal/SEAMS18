@@ -103,6 +103,7 @@ class SensorNodeModule : public TimeTriggeredConferenceClientModule {
         int32_t m_sensor_type;          // tipo do sensor associado
         double m_battery;               // nivel da bateria
         string m_status;                // estado atual
+        string m_collected;             // estado coletado no ciclo
         deque<string> m_data_queue;     // fila de dados
         ofstream m_status_log;          // arquivo de log
         timespec m_ref;                 // referencia temporal
