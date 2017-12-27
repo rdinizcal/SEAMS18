@@ -1,0 +1,49 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.rules.JRip -F 3 -N 2.0 -O 2 -S 1
+Relation:     sensornode0_Controlado-weka.filters.unsupervised.attribute.Remove-R1,3,5
+Instances:    330
+Attributes:   2
+               Risco do Sensor
+              Delta Bateria
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+JRIP rules:
+===========
+
+(Delta Bateria >= 0.58) =>  Risco do Sensor=baixo (128.0/35.0)
+ =>  Risco do Sensor=moderado (202.0/67.0)
+
+Number of Rules : 2
+
+
+Time taken to build model: 0.01 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         226               68.4848 %
+Incorrectly Classified Instances       104               31.5152 %
+Kappa statistic                          0.4904
+Mean absolute error                      0.3008
+Root mean squared error                  0.3904
+Relative absolute error                 69.2504 %
+Root relative squared error             83.774  %
+Total Number of Instances              330     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,051    0,032    0,333      0,051    0,088      0,043    0,551     0,274     alto
+                 0,774    0,172    0,706      0,774    0,739      0,590    0,817     0,649     baixo
+                 0,978    0,304    0,693      0,978    0,811      0,672    0,854     0,737     moderado
+Weighted Avg.    0,685    0,193    0,611      0,685    0,613      0,493    0,769     0,596     
+
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+   4  36  39 |   a = alto
+   6  89  20 |   b = baixo
+   2   1 133 |   c = moderado

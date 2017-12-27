@@ -1,0 +1,107 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.rules.JRip -F 3 -N 2.0 -O 2 -S 1
+Relation:     BestOfFive RT 20 Sensors-weka.filters.unsupervised.attribute.Remove-R2-4,6-8
+Instances:    5205
+Attributes:   2
+              Sensor remetente
+               Diff (s)
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+JRIP rules:
+===========
+
+( Diff (s) >= 0.09335) and ( Diff (s) <= 0.10971) and ( Diff (s) <= 0.1012) and ( Diff (s) >= 0.09518) and ( Diff (s) <= 0.09878) => Sensor remetente=Sensor12 (150.0/69.0)
+( Diff (s) >= 0.08774) and ( Diff (s) <= 0.1006) and ( Diff (s) <= 0.09388) and ( Diff (s) >= 0.08957) => Sensor remetente=Sensor13 (174.0/80.0)
+( Diff (s) <= 0.08033) and ( Diff (s) >= 0.06441) and ( Diff (s) <= 0.07104) => Sensor remetente=Sensor17 (260.0/116.0)
+( Diff (s) <= 0.06429) and ( Diff (s) >= 0.0525) and ( Diff (s) <= 0.05838) => Sensor remetente=Sensor19 (178.0/11.0)
+( Diff (s) <= 0.06429) and ( Diff (s) >= 0.05852) and ( Diff (s) <= 0.06211) and ( Diff (s) >= 0.06166) => Sensor remetente=Sensor19 (25.0/12.0)
+( Diff (s) <= 0.01814) and ( Diff (s) >= 0.01262) => Sensor remetente=Sensor8 (234.0/3.0)
+( Diff (s) <= 0.03143) and ( Diff (s) >= 0.02411) and ( Diff (s) <= 0.0299) => Sensor remetente=Sensor6 (252.0/24.0)
+( Diff (s) <= 0.0723) and ( Diff (s) >= 0.05847) and ( Diff (s) <= 0.06427) => Sensor remetente=Sensor18 (243.0/78.0)
+( Diff (s) <= 0.09407) and ( Diff (s) >= 0.07596) and ( Diff (s) <= 0.08143) => Sensor remetente=Sensor15 (230.0/110.0)
+( Diff (s) <= 0.08823) and ( Diff (s) >= 0.07107) and ( Diff (s) <= 0.08184) => Sensor remetente=Sensor16 (214.0/77.0)
+( Diff (s) <= 0.04877) and ( Diff (s) >= 0.03616) => Sensor remetente=Sensor4 (286.0/40.0)
+( Diff (s) <= 0.03616) and ( Diff (s) >= 0.03574) and ( Diff (s) <= 0.03587) => Sensor remetente=Sensor4 (8.0/3.0)
+( Diff (s) <= 0.0241) and ( Diff (s) >= 0.01835) => Sensor remetente=Sensor7 (247.0/9.0)
+( Diff (s) >= 0.09905) and ( Diff (s) <= 0.10994) and ( Diff (s) <= 0.10523) and ( Diff (s) >= 0.10073) => Sensor remetente=Sensor11 (158.0/60.0)
+( Diff (s) <= 0.01246) => Sensor remetente=Sensor9 (255.0/0.0)
+( Diff (s) >= 0.11627) and ( Diff (s) <= 0.14974) and ( Diff (s) >= 0.11981) => Sensor remetente=Sensor0 (364.0/166.0)
+( Diff (s) >= 0.16058) and ( Diff (s) <= 0.17177) => Sensor remetente=Sensor3 (120.0/22.0)
+( Diff (s) >= 0.17207) and ( Diff (s) <= 0.19011) and ( Diff (s) >= 0.17342) and ( Diff (s) >= 0.18418) and ( Diff (s) <= 0.18808) => Sensor remetente=Sensor3 (39.0/14.0)
+( Diff (s) >= 0.15229) => Sensor remetente=Sensor2 (393.0/152.0)
+( Diff (s) >= 0.11141) and ( Diff (s) <= 0.11659) and ( Diff (s) >= 0.11372) and ( Diff (s) <= 0.11431) => Sensor remetente=Sensor1 (28.0/10.0)
+( Diff (s) >= 0.11077) and ( Diff (s) <= 0.11659) and ( Diff (s) >= 0.11448) and ( Diff (s) <= 0.11512) => Sensor remetente=Sensor1 (33.0/13.0)
+( Diff (s) >= 0.11057) and ( Diff (s) <= 0.11607) and ( Diff (s) >= 0.11571) => Sensor remetente=Sensor1 (14.0/3.0)
+( Diff (s) <= 0.09946) and ( Diff (s) >= 0.08215) and ( Diff (s) <= 0.08782) and ( Diff (s) >= 0.08404) => Sensor remetente=Sensor14 (150.0/59.0)
+( Diff (s) >= 0.10641) and ( Diff (s) <= 0.11179) and ( Diff (s) >= 0.11014) => Sensor remetente=Sensor10 (61.0/24.0)
+ => Sensor remetente=Sensor5 (1089.0/846.0)
+
+Number of Rules : 25
+
+
+Time taken to build model: 0.31 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances        3113               59.8079 %
+Incorrectly Classified Instances      2092               40.1921 %
+Kappa statistic                          0.5765
+Mean absolute error                      0.0502
+Root mean squared error                  0.1604
+Relative absolute error                 52.8626 %
+Root relative squared error             73.5966 %
+Total Number of Instances             5205     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,676    0,032    0,538      0,676    0,599      0,578    0,937     0,461     Sensor0
+                 0,129    0,011    0,396      0,129    0,195      0,203    0,895     0,268     Sensor1
+                 0,852    0,033    0,594      0,852    0,700      0,693    0,979     0,619     Sensor2
+                 0,412    0,008    0,735      0,412    0,528      0,532    0,979     0,669     Sensor3
+                 0,910    0,009    0,849      0,910    0,878      0,872    0,978     0,811     Sensor4
+                 0,848    0,160    0,232      0,848    0,365      0,391    0,906     0,266     Sensor5
+                 0,884    0,006    0,888      0,884    0,886      0,880    0,980     0,792     Sensor6
+                 0,884    0,002    0,955      0,884    0,918      0,915    0,989     0,888     Sensor7
+                 0,916    0,000    0,991      0,916    0,952      0,950    0,986     0,926     Sensor8
+                 0,934    0,000    1,000      0,934    0,966      0,964    0,981     0,955     Sensor9
+                 0,330    0,021    0,474      0,330    0,389      0,367    0,909     0,343     Sensor10
+                 0,353    0,013    0,601      0,353    0,445      0,439    0,911     0,401     Sensor11
+                 0,306    0,013    0,504      0,306    0,380      0,372    0,908     0,322     Sensor12
+                 0,369    0,017    0,497      0,369    0,423      0,406    0,904     0,333     Sensor13
+                 0,290    0,016    0,513      0,290    0,371      0,361    0,909     0,346     Sensor14
+                 0,420    0,021    0,512      0,420    0,462      0,439    0,916     0,377     Sensor15
+                 0,537    0,018    0,605      0,537    0,569      0,549    0,949     0,519     Sensor16
+                 0,539    0,021    0,546      0,539    0,542      0,521    0,956     0,489     Sensor17
+                 0,647    0,018    0,645      0,647    0,646      0,628    0,973     0,587     Sensor18
+                 0,691    0,004    0,884      0,691    0,776      0,773    0,988     0,797     Sensor19
+Weighted Avg.    0,598    0,022    0,646      0,598    0,598      0,591    0,947     0,558     
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   f   g   h   i   j   k   l   m   n   o   p   q   r   s   t   <-- classified as
+ 186   5   0   1   0  77   0   0   0   0   1   3   2   0   0   0   0   0   0   0 |   a = Sensor0
+  89  36   0   0   0 115   0   0   0   0  26   0   0   9   3   0   0   0   0   0 |   b = Sensor1
+   0   0 236  40   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0 |   c = Sensor2
+   2   0 161 114   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 |   d = Sensor3
+   0   0   0   0 242  13   0   0   0   0   0   0   0   0   0   0   3   4   3   1 |   e = Sensor4
+   0   0   0   0  35 239   4   0   0   0   0   0   0   0   0   0   0   1   2   1 |   f = Sensor5
+   0   0   0   0   2  25 222   2   0   0   0   0   0   0   0   0   0   0   0   0 |   g = Sensor6
+   0   0   0   0   4   4  21 236   0   0   0   0   0   0   0   0   0   0   2   0 |   h = Sensor7
+   0   0   0   0   0   6   1   8 228   0   0   0   0   0   0   0   0   3   3   0 |   i = Sensor8
+   0   0   0   0   2   4   2   1   2 253   0   0   0   0   0   0   0   7   0   0 |   j = Sensor9
+  56  30   0   0   0  88   0   0   0   0  92  11   0   0   2   0   0   0   0   0 |   k = Sensor10
+  13  18   0   0   0  77   0   0   0   0  47  95  10   1   0   7   1   0   0   0 |   l = Sensor11
+   0   2   0   0   0  79   0   0   0   0  26  30  66   6   4   0   2   1   0   0 |   m = Sensor12
+   0   0   0   0   0  77   0   0   0   0   2  17  29  83   6   2   2   7   0   0 |   n = Sensor13
+   0   0   0   0   0 115   0   0   0   0   0   2  24  44  81   8   1   2   2   0 |   o = Sensor14
+   0   0   0   0   0  60   0   0   0   0   0   0   0  22  46 108  12   2   3   4 |   p = Sensor15
+   0   0   0   0   0  21   0   0   0   0   0   0   0   2  16  65 138  12   2   1 |   q = Sensor16
+   0   0   0   0   0  15   0   0   0   0   0   0   0   0   0  21  62 125   6   3 |   r = Sensor17
+   0   0   0   0   0   8   0   0   0   0   0   0   0   0   0   0   7  63 165  12 |   s = Sensor18
+   0   0   0   0   0   5   0   0   0   0   0   0   0   0   0   0   0   2  68 168 |   t = Sensor19
+

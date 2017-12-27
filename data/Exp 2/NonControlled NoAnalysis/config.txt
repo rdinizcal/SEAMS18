@@ -1,0 +1,16 @@
+/**************** Operational System ***************/
+-> OS: Ubuntu 16.04.3 LTS
+-> Kernel: Linux 4.10.0-42-generic (x86_64) 
+
+/**************** OpenDaVINCI ***************/
+-> odv execution command line: odsupercomponent --cid=111 --freq=20 --managed=simulation_rt --verbose=1
+-> Scheduling period: 0,05 s
+-> No Realtime execution
+-> Active modules: 1 sensornode
+
+/**************** SensorNode ***************/
+-> Controller deactivated
+-> Data analysis strategy: no
+ 
+
+

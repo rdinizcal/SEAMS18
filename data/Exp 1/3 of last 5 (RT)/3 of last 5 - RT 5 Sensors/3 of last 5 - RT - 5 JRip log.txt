@@ -1,0 +1,57 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.rules.JRip -F 3 -N 2.0 -O 2 -S 1
+Relation:     RealTime (5 sensors)-weka.filters.unsupervised.attribute.Remove-R2-4
+Instances:    1485
+Attributes:   2
+              Sensor remetente
+               Diff (s)
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+JRIP rules:
+===========
+
+( Diff (s) <= 0.073483) => Sensor remetente=Sensor4 (295.0/0.0)
+( Diff (s) <= 0.079437) => Sensor remetente=Sensor3 (296.0/0.0)
+( Diff (s) <= 0.085333) => Sensor remetente=Sensor2 (297.0/0.0)
+( Diff (s) <= 0.089679) => Sensor remetente=Sensor1 (298.0/0.0)
+ => Sensor remetente=Sensor0 (299.0/0.0)
+
+Number of Rules : 5
+
+
+Time taken to build model: 0.02 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances        1480               99.6633 %
+Incorrectly Classified Instances         5                0.3367 %
+Kappa statistic                          0.9958
+Mean absolute error                      0.0014
+Root mean squared error                  0.0367
+Relative absolute error                  0.4303 %
+Root relative squared error              9.1751 %
+Total Number of Instances             1485     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1,000    0,000    1,000      1,000    1,000      1,000    1,000     1,000     Sensor0
+                 1,000    0,002    0,993      1,000    0,997      0,996    0,999     0,993     Sensor1
+                 0,997    0,003    0,990      0,997    0,993      0,992    0,997     0,986     Sensor2
+                 0,993    0,000    1,000      0,993    0,997      0,996    0,997     0,995     Sensor3
+                 0,993    0,000    1,000      0,993    0,997      0,996    0,997     0,995     Sensor4
+Weighted Avg.    0,997    0,001    0,997      0,997    0,997      0,996    0,998     0,994     
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   <-- classified as
+ 299   0   0   0   0 |   a = Sensor0
+   0 298   0   0   0 |   b = Sensor1
+   0   1 296   0   0 |   c = Sensor2
+   0   1   1 294   0 |   d = Sensor3
+   0   0   2   0 293 |   e = Sensor4
+

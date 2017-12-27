@@ -1,0 +1,53 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.J48 -C 0.25 -M 2
+Relation:     sensornode0_Controlado-weka.filters.unsupervised.attribute.Remove-R1,3,5
+Instances:    330
+Attributes:   2
+               Risco do Sensor
+              Delta Bateria
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+J48 pruned tree
+------------------
+
+Delta Bateria <= 0.5
+|   Delta Bateria <= 0.29: moderado (162.0/36.0)
+|   Delta Bateria > 0.29: alto (31.0/17.0)
+Delta Bateria > 0.5: baixo (137.0/40.0)
+
+Number of Leaves  : 	3
+
+Size of the tree : 	5
+
+
+Time taken to build model: 0 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         237               71.8182 %
+Incorrectly Classified Instances        93               28.1818 %
+Kappa statistic                          0.5523
+Mean absolute error                      0.2791
+Root mean squared error                  0.3778
+Relative absolute error                 64.2463 %
+Root relative squared error             81.0684 %
+Total Number of Instances              330     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,190    0,060    0,500      0,190    0,275      0,193    0,599     0,318     alto
+                 0,835    0,177    0,716      0,835    0,771      0,638    0,821     0,651     baixo
+                 0,926    0,206    0,759      0,926    0,834      0,709    0,871     0,725     moderado
+Weighted Avg.    0,718    0,161    0,682      0,718    0,678      0,561    0,788     0,602     
+
+=== Confusion Matrix ===
+
+   a   b   c   <-- classified as
+  15  37  27 |   a = alto
+   6  96  13 |   b = baixo
+   9   1 126 |   c = moderado

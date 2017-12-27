@@ -1,0 +1,82 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.J48 -C 0.25 -M 2
+Relation:     RealTime (10 sensors)-weka.filters.unsupervised.attribute.Remove-R2-4
+Instances:    2363
+Attributes:   2
+              Sensor remetente
+               Diff (s)
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+J48 pruned tree
+------------------
+
+ Diff (s) <= 0.06739
+|    Diff (s) <= 0.055103
+|   |    Diff (s) <= 0.050104
+|   |   |    Diff (s) <= 0.040696: Sensor9 (231.0)
+|   |   |    Diff (s) > 0.040696: Sensor8 (233.0)
+|   |    Diff (s) > 0.050104: Sensor7 (234.0)
+|    Diff (s) > 0.055103
+|   |    Diff (s) <= 0.06154: Sensor6 (235.0)
+|   |    Diff (s) > 0.06154: Sensor5 (236.0)
+ Diff (s) > 0.06739
+|    Diff (s) <= 0.090256
+|   |    Diff (s) <= 0.078627
+|   |   |    Diff (s) <= 0.071588: Sensor4 (237.0)
+|   |   |    Diff (s) > 0.071588: Sensor3 (238.0)
+|   |    Diff (s) > 0.078627: Sensor1 (240.0)
+|    Diff (s) > 0.090256
+|   |    Diff (s) <= 0.095176: Sensor0 (240.0)
+|   |    Diff (s) > 0.095176: Sensor2 (239.0)
+
+Number of Leaves  : 	10
+
+Size of the tree : 	19
+
+
+Time taken to build model: 0.02 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances        2354               99.6191 %
+Incorrectly Classified Instances         9                0.3809 %
+Kappa statistic                          0.9958
+Mean absolute error                      0.0008
+Root mean squared error                  0.0276
+Relative absolute error                  0.4232 %
+Root relative squared error              9.1999 %
+Total Number of Instances             2363     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,996    0,000    0,996      0,996    0,996      0,995    0,998     0,992     Sensor0
+                 0,996    0,000    0,996      0,996    0,996      0,995    0,998     0,992     Sensor1
+                 1,000    0,000    0,996      1,000    0,998      0,998    1,000     0,996     Sensor2
+                 0,996    0,000    0,996      0,996    0,996      0,995    0,998     0,992     Sensor3
+                 0,996    0,000    0,996      0,996    0,996      0,995    0,998     0,992     Sensor4
+                 0,996    0,000    0,996      0,996    0,996      0,995    0,998     0,992     Sensor5
+                 0,996    0,000    0,996      0,996    0,996      0,995    0,998     0,992     Sensor6
+                 0,996    0,000    0,996      0,996    0,996      0,995    0,998     0,992     Sensor7
+                 0,996    0,000    0,996      0,996    0,996      0,995    0,998     0,992     Sensor8
+                 0,996    0,000    1,000      0,996    0,998      0,998    0,998     0,996     Sensor9
+Weighted Avg.    0,996    0,000    0,996      0,996    0,996      0,996    0,998     0,993     
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   f   g   h   i   j   <-- classified as
+ 239   0   1   0   0   0   0   0   0   0 |   a = Sensor0
+   1 239   0   0   0   0   0   0   0   0 |   b = Sensor1
+   0   0 239   0   0   0   0   0   0   0 |   c = Sensor2
+   0   1   0 237   0   0   0   0   0   0 |   d = Sensor3
+   0   0   0   1 236   0   0   0   0   0 |   e = Sensor4
+   0   0   0   0   1 235   0   0   0   0 |   f = Sensor5
+   0   0   0   0   0   1 234   0   0   0 |   g = Sensor6
+   0   0   0   0   0   0   1 233   0   0 |   h = Sensor7
+   0   0   0   0   0   0   0   1 232   0 |   i = Sensor8
+   0   0   0   0   0   0   0   0   1 230 |   j = Sensor9
+

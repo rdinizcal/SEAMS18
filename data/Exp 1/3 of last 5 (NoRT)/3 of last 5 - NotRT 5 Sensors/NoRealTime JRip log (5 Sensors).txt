@@ -1,0 +1,58 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.rules.JRip -F 3 -N 2.0 -O 2 -S 1
+Relation:     NoRealTime (5 sensors)-weka.filters.unsupervised.attribute.Remove-R2-4
+Instances:    2875
+Attributes:   2
+              Sensor remetente
+               Diff (s)
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+JRIP rules:
+===========
+
+( Diff (s) >= 0.185304) => Sensor remetente=Sensor0 (493.0/0.0)
+( Diff (s) >= 0.140894) and ( Diff (s) <= 0.140949) => Sensor remetente=Sensor0 (2.0/0.0)
+( Diff (s) >= 0.085104) and ( Diff (s) <= 0.093545) and ( Diff (s) >= 0.086641) => Sensor remetente=Sensor1 (413.0/0.0)
+( Diff (s) <= 0.086594) and ( Diff (s) >= 0.08306) and ( Diff (s) >= 0.085643) => Sensor remetente=Sensor1 (53.0/11.0)
+( Diff (s) <= 0.086609) and ( Diff (s) >= 0.073854) => Sensor remetente=Sensor2 (547.0/64.0)
+( Diff (s) <= 0.07385) => Sensor remetente=Sensor4 (591.0/30.0)
+ => Sensor remetente=Sensor3 (776.0/2.0)
+
+Number of Rules : 7
+
+
+Time taken to build model: 0.22 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances        2747               95.5478 %
+Incorrectly Classified Instances       128                4.4522 %
+Kappa statistic                          0.9438
+Mean absolute error                      0.0293
+Root mean squared error                  0.1272
+Relative absolute error                  9.2348 %
+Root relative squared error             31.9199 %
+Total Number of Instances             2875     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,992    0,000    1,000      0,992    0,996      0,995    0,998     0,996     Sensor0
+                 0,892    0,008    0,958      0,892    0,924      0,909    0,983     0,949     Sensor1
+                 0,889    0,024    0,890      0,889    0,890      0,865    0,968     0,881     Sensor2
+                 0,981    0,016    0,940      0,981    0,960      0,950    0,990     0,929     Sensor4
+                 1,000    0,007    0,981      1,000    0,990      0,987    0,997     0,984     Sensor3
+Weighted Avg.    0,955    0,011    0,956      0,955    0,955      0,945    0,988     0,950     
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   <-- classified as
+ 492   0   0   0   4 |   a = Sensor0
+   0 454  47   3   5 |   b = Sensor1
+   0  20 463  33   5 |   c = Sensor2
+   0   0  10 564   1 |   d = Sensor4
+   0   0   0   0 774 |   e = Sensor3

@@ -1,0 +1,141 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.J48 -C 0.25 -M 2
+Relation:     NoRT 20-weka.filters.unsupervised.attribute.Remove-R2-4,6-8
+Instances:    2568
+Attributes:   2
+              Sensor remetente
+               Diff (s)
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+J48 pruned tree
+------------------
+
+ Diff (s) <= 0.07081
+|    Diff (s) <= 0.03303
+|   |    Diff (s) <= 0.02021
+|   |   |    Diff (s) <= 0.01368: Sensor9 (119.0)
+|   |   |    Diff (s) > 0.01368: Sensor8 (126.0)
+|   |    Diff (s) > 0.02021
+|   |   |    Diff (s) <= 0.02642: Sensor7 (119.0/1.0)
+|   |   |    Diff (s) > 0.02642: Sensor6 (151.0/3.0)
+|    Diff (s) > 0.03303
+|   |    Diff (s) <= 0.05188
+|   |   |    Diff (s) <= 0.04629
+|   |   |   |    Diff (s) <= 0.03965: Sensor5 (140.0/2.0)
+|   |   |   |    Diff (s) > 0.03965: Sensor4 (115.0/14.0)
+|   |   |    Diff (s) > 0.04629: Sensor3 (138.0/15.0)
+|   |    Diff (s) > 0.05188
+|   |   |    Diff (s) <= 0.0598: Sensor2 (146.0/22.0)
+|   |   |    Diff (s) > 0.0598
+|   |   |   |    Diff (s) <= 0.06574: Sensor19 (114.0/23.0)
+|   |   |   |    Diff (s) > 0.06574
+|   |   |   |   |    Diff (s) <= 0.06708
+|   |   |   |   |   |    Diff (s) <= 0.06633: Sensor18 (7.0/2.0)
+|   |   |   |   |   |    Diff (s) > 0.06633: Sensor19 (14.0/5.0)
+|   |   |   |   |    Diff (s) > 0.06708: Sensor18 (70.0/6.0)
+ Diff (s) > 0.07081
+|    Diff (s) <= 0.10548
+|   |    Diff (s) <= 0.08604
+|   |   |    Diff (s) <= 0.0793: Sensor17 (163.0/48.0)
+|   |   |    Diff (s) > 0.0793: Sensor16 (117.0/33.0)
+|   |    Diff (s) > 0.08604
+|   |   |    Diff (s) <= 0.09789
+|   |   |   |    Diff (s) <= 0.09222: Sensor15 (106.0/28.0)
+|   |   |   |    Diff (s) > 0.09222
+|   |   |   |   |    Diff (s) <= 0.09354: Sensor15 (25.0/11.0)
+|   |   |   |   |    Diff (s) > 0.09354
+|   |   |   |   |   |    Diff (s) <= 0.0952: Sensor14 (26.0/1.0)
+|   |   |   |   |   |    Diff (s) > 0.0952
+|   |   |   |   |   |   |    Diff (s) <= 0.09557: Sensor15 (3.0)
+|   |   |   |   |   |   |    Diff (s) > 0.09557: Sensor14 (38.0/12.0)
+|   |   |    Diff (s) > 0.09789
+|   |   |   |    Diff (s) <= 0.09999: Sensor14 (44.0/22.0)
+|   |   |   |    Diff (s) > 0.09999: Sensor13 (99.0/33.0)
+|    Diff (s) > 0.10548
+|   |    Diff (s) <= 0.14475
+|   |   |    Diff (s) <= 0.11748
+|   |   |   |    Diff (s) <= 0.11181: Sensor12 (132.0/47.0)
+|   |   |   |    Diff (s) > 0.11181: Sensor11 (121.0/49.0)
+|   |   |    Diff (s) > 0.11748
+|   |   |   |    Diff (s) <= 0.12408
+|   |   |   |   |    Diff (s) <= 0.11979: Sensor11 (48.0/17.0)
+|   |   |   |   |    Diff (s) > 0.11979
+|   |   |   |   |   |    Diff (s) <= 0.12036: Sensor10 (11.0/2.0)
+|   |   |   |   |   |    Diff (s) > 0.12036
+|   |   |   |   |   |   |    Diff (s) <= 0.12102: Sensor11 (11.0/4.0)
+|   |   |   |   |   |   |    Diff (s) > 0.12102: Sensor10 (53.0/20.0)
+|   |   |   |    Diff (s) > 0.12408
+|   |   |   |   |    Diff (s) <= 0.12896: Sensor10 (71.0/29.0)
+|   |   |   |   |    Diff (s) > 0.12896: Sensor1 (94.0/18.0)
+|   |    Diff (s) > 0.14475: Sensor0 (147.0)
+
+Number of Leaves  : 	30
+
+Size of the tree : 	59
+
+
+Time taken to build model: 0.02 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances        2014               78.4268 %
+Incorrectly Classified Instances       554               21.5732 %
+Kappa statistic                          0.7727
+Mean absolute error                      0.0297
+Root mean squared error                  0.1268
+Relative absolute error                 31.3026 %
+Root relative squared error             58.2055 %
+Total Number of Instances             2568     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1,000    0,001    0,987      1,000    0,993      0,993    1,000     0,987     Sensor0
+                 0,745    0,011    0,738      0,745    0,741      0,731    0,976     0,701     Sensor1
+                 0,811    0,009    0,845      0,811    0,828      0,817    0,969     0,733     Sensor2
+                 0,891    0,008    0,865      0,891    0,878      0,871    0,989     0,778     Sensor3
+                 0,875    0,007    0,860      0,875    0,867      0,861    0,982     0,758     Sensor4
+                 0,884    0,002    0,965      0,884    0,923      0,919    0,983     0,897     Sensor5
+                 0,948    0,001    0,980      0,948    0,964      0,962    0,995     0,940     Sensor6
+                 0,937    0,001    0,983      0,937    0,959      0,958    0,991     0,935     Sensor7
+                 0,969    0,000    0,992      0,969    0,980      0,979    0,994     0,973     Sensor8
+                 0,992    0,000    1,000      0,992    0,996      0,996    0,996     0,992     Sensor9
+                 0,525    0,020    0,566      0,525    0,545      0,523    0,966     0,507     Sensor10
+                 0,718    0,034    0,566      0,718    0,633      0,613    0,954     0,491     Sensor11
+                 0,544    0,021    0,618      0,544    0,579      0,556    0,963     0,522     Sensor12
+                 0,635    0,025    0,571      0,635    0,602      0,581    0,957     0,556     Sensor13
+                 0,449    0,011    0,671      0,449    0,538      0,532    0,949     0,583     Sensor14
+                 0,764    0,020    0,632      0,764    0,691      0,680    0,978     0,590     Sensor15
+                 0,618    0,015    0,642      0,618    0,630      0,613    0,967     0,599     Sensor16
+                 0,787    0,021    0,673      0,787    0,725      0,711    0,977     0,681     Sensor17
+                 0,633    0,008    0,775      0,633    0,697      0,689    0,981     0,688     Sensor18
+                 0,853    0,013    0,750      0,853    0,798      0,791    0,976     0,682     Sensor19
+Weighted Avg.    0,784    0,011    0,789      0,784    0,784      0,774    0,977     0,735     
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   f   g   h   i   j   k   l   m   n   o   p   q   r   s   t   <-- classified as
+ 147   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0 |   a = Sensor0
+   1  76   0   0   0   0   0   0   0   0  24   1   0   0   0   0   0   0   0   0 |   b = Sensor1
+   0   0 120   7   0   0   0   0   0   0   0   0   0   0   0   0   2   6   0  13 |   c = Sensor2
+   0   0  11 122   1   0   0   0   0   0   0   0   0   0   0   0   0   3   0   0 |   d = Sensor3
+   0   0   0   7  98   2   0   0   0   0   0   0   0   0   0   0   0   0   3   2 |   e = Sensor4
+   0   0   1   1  12 137   0   0   0   0   0   0   0   0   0   0   0   0   2   2 |   f = Sensor5
+   0   0   5   0   0   3 147   0   0   0   0   0   0   0   0   0   0   0   0   0 |   g = Sensor6
+   0   0   0   4   1   0   3 118   0   0   0   0   0   0   0   0   0   0   0   0 |   h = Sensor7
+   0   0   0   0   2   0   0   2 125   0   0   0   0   0   0   0   0   0   0   0 |   i = Sensor8
+   0   0   0   0   0   0   0   0   1 118   0   0   0   0   0   0   0   0   0   0 |   j = Sensor9
+   1  25   0   0   0   0   0   0   0   0  64  32   0   0   0   0   0   0   0   0 |   k = Sensor10
+   0   2   0   0   0   0   0   0   0   0  24 107  13   1   0   0   0   2   0   0 |   l = Sensor11
+   0   0   0   0   0   0   0   0   0   0   1  47  81  17   0   0   2   1   0   0 |   m = Sensor12
+   0   0   0   0   0   0   0   0   0   0   0   2  34  80   9   1   0   0   0   0 |   n = Sensor13
+   0   0   0   0   0   0   0   0   0   0   0   0   2  40  53  19   1   1   0   2 |   o = Sensor14
+   0   0   0   0   0   0   0   0   0   0   0   0   0   2  16  84   8   0   0   0 |   p = Sensor15
+   0   0   0   0   0   0   0   0   0   0   0   0   1   0   1  29  68  11   0   0 |   q = Sensor16
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  24 107   5   0 |   r = Sensor17
+   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1  27  69  12 |   s = Sensor18
+   0   0   5   0   0   0   0   0   0   0   0   0   0   0   0   0   0   1  10  93 |   t = Sensor19

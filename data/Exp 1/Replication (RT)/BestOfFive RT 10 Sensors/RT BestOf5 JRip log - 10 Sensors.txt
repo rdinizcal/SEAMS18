@@ -1,0 +1,76 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.rules.JRip -F 3 -N 2.0 -O 2 -S 1
+Relation:     BestOfFive RT 10 Sensors-weka.filters.unsupervised.attribute.Remove-R2-4,6-8
+Instances:    5723
+Attributes:   2
+              Sensor remetente
+               Diff (s)
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+JRIP rules:
+===========
+
+( Diff (s) >= 0.07214) and ( Diff (s) <= 0.08102) and ( Diff (s) >= 0.07356) => Sensor remetente=Sensor3 (465.0/1.0)
+( Diff (s) >= 0.07025) and ( Diff (s) <= 0.07352) and ( Diff (s) >= 0.07276) and ( Diff (s) >= 0.07294) => Sensor remetente=Sensor3 (35.0/9.0)
+( Diff (s) >= 0.09122) and ( Diff (s) <= 0.09897) => Sensor remetente=Sensor0 (543.0/4.0)
+( Diff (s) <= 0.06207) and ( Diff (s) >= 0.05053) and ( Diff (s) <= 0.05933) => Sensor remetente=Sensor6 (382.0/33.0)
+( Diff (s) <= 0.06207) and ( Diff (s) >= 0.04985) and ( Diff (s) <= 0.06123) => Sensor remetente=Sensor6 (237.0/58.0)
+( Diff (s) >= 0.12515) and ( Diff (s) <= 0.15691) => Sensor remetente=Sensor7 (560.0/1.0)
+( Diff (s) <= 0.0498) and ( Diff (s) >= 0.04386) => Sensor remetente=Sensor8 (385.0/18.0)
+( Diff (s) >= 0.08291) and ( Diff (s) <= 0.09083) => Sensor remetente=Sensor1 (571.0/4.0)
+( Diff (s) <= 0.06751) and ( Diff (s) >= 0.06124) and ( Diff (s) <= 0.06641) => Sensor remetente=Sensor5 (486.0/60.0)
+( Diff (s) <= 0.0681) and ( Diff (s) >= 0.06642) and ( Diff (s) <= 0.06696) => Sensor remetente=Sensor5 (74.0/24.0)
+( Diff (s) >= 0.06697) and ( Diff (s) <= 0.07354) => Sensor remetente=Sensor4 (559.0/59.0)
+( Diff (s) <= 0.04384) and ( Diff (s) <= 0.0395) => Sensor remetente=Sensor9 (334.0/57.0)
+( Diff (s) <= 0.04384) => Sensor remetente=Sensor9 (462.0/144.0)
+ => Sensor remetente=Sensor2 (630.0/1.0)
+
+Number of Rules : 14
+
+
+Time taken to build model: 0.19 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances        5215               91.1235 %
+Incorrectly Classified Instances       508                8.8765 %
+Kappa statistic                          0.9013
+Mean absolute error                      0.0283
+Root mean squared error                  0.1214
+Relative absolute error                 15.7533 %
+Root relative squared error             40.4787 %
+Total Number of Instances             5723     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,980    0,001    0,993      0,980    0,986      0,985    0,995     0,980     Sensor0
+                 0,989    0,001    0,993      0,989    0,991      0,990    0,997     0,979     Sensor1
+                 0,998    0,004    0,971      0,998    0,984      0,983    0,997     0,963     Sensor2
+                 0,914    0,002    0,976      0,914    0,944      0,939    0,991     0,958     Sensor3
+                 0,846    0,011    0,895      0,846    0,869      0,856    0,982     0,848     Sensor4
+                 0,824    0,017    0,842      0,824    0,833      0,814    0,976     0,794     Sensor5
+                 0,951    0,018    0,846      0,951    0,895      0,885    0,987     0,855     Sensor6
+                 0,993    0,000    0,998      0,993    0,996      0,995    0,996     0,990     Sensor7
+                 0,653    0,006    0,920      0,653    0,764      0,756    0,974     0,809     Sensor8
+                 0,959    0,038    0,751      0,959    0,842      0,829    0,979     0,745     Sensor9
+Weighted Avg.    0,911    0,010    0,917      0,911    0,910      0,903    0,987     0,891     
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   f   g   h   i   j   <-- classified as
+ 536   3   3   0   0   0   5   0   0   0 |   a = Sensor0
+   4 565   2   0   0   0   0   0   0   0 |   b = Sensor1
+   0   0 629   0   0   0   0   1   0   0 |   c = Sensor2
+   0   0   4 486  40   0   0   0   0   2 |   d = Sensor3
+   0   0   1  12 493  72   0   0   0   5 |   e = Sensor4
+   0   0   3   0  17 473  81   0   0   0 |   f = Sensor5
+   0   0   3   0   0  17 522   0   7   0 |   g = Sensor6
+   0   1   2   0   1   0   0 557   0   0 |   h = Sensor7
+   0   0   1   0   0   0   9   0 370 187 |   i = Sensor8
+   0   0   0   0   0   0   0   0  25 584 |   j = Sensor9
+

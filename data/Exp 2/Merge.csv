@@ -1,0 +1,2808 @@
+Tempo(s), Risco do Sensor, Nivel da Bateria, Diff(s),Mode,Cycle Time-Constraint,Confirmation Time-Constraint
+2.3646,baixo,99.02,0.950,(3 out of 5),Violated,Violated
+3.4646,moderado,98.57,1.100,(3 out of 5),Violated,Violated
+6.16464,alto,97.48,2.700,(3 out of 5),Violated,Violated
+8.11546,moderado,96.69,1.951,(3 out of 5),Violated,Violated
+9.41454,alto,96.16,1.299,(3 out of 5),Violated,Violated
+9.81457,moderado,95.99,0.400,(3 out of 5),Violated,Violated
+17.5146,alto,92.9,7.700,(3 out of 5),Violated,Violated
+18.3646,moderado,92.55,0.850,(3 out of 5),Violated,Violated
+18.6646,alto,92.42,0.300,(3 out of 5),Violated,Violated
+21.0145,moderado,91.47,2.350,(3 out of 5),Violated,Violated
+24.9153,alto,89.9,3.901,(3 out of 5),Violated,Violated
+26.2648,moderado,89.35,1.349,(3 out of 5),Violated,Violated
+29.2647,alto,88.14,3.000,(3 out of 5),Violated,Violated
+30.0146,moderado,87.83,0.750,(3 out of 5),Violated,Violated
+30.5645,baixo,87.6,0.550,(3 out of 5),Violated,Violated
+31.8646,moderado,87.07,1.300,(3 out of 5),Violated,Violated
+32.1146,baixo,86.96,0.250,(3 out of 5),Violated,Violated
+33.2153,moderado,86.51,1.101,(3 out of 5),Violated,Violated
+35.2646,baixo,85.68,2.049,(3 out of 5),Violated,Violated
+37.8646,moderado,84.63,2.600,(3 out of 5),Violated,Violated
+45.4646,baixo,81.58,7.600,(3 out of 5),Violated,Violated
+46.2645,moderado,81.25,0.800,(3 out of 5),Violated,Violated
+49.4146,baixo,79.98,3.150,(3 out of 5),Violated,Violated
+49.4647,moderado,79.95,0.050,(3 out of 5),Satisfied,Satisfied
+53.0645,alto,78.5,3.600,(3 out of 5),Violated,Violated
+54.7145,moderado,77.83,1.650,(3 out of 5),Violated,Violated
+54.8153,alto,77.78,0.101,(3 out of 5),Violated,Satisfied
+54.8645,moderado,77.75,0.049,(3 out of 5),Satisfied,Satisfied
+54.9153,alto,77.72,0.051,(3 out of 5),Satisfied,Satisfied
+55.7145,moderado,77.39,0.799,(3 out of 5),Violated,Violated
+56.7645,baixo,76.96,1.050,(3 out of 5),Violated,Violated
+58.2646,moderado,76.35,1.500,(3 out of 5),Violated,Violated
+59.2646,alto,75.94,1.000,(3 out of 5),Violated,Violated
+60.2146,moderado,75.55,0.950,(3 out of 5),Violated,Violated
+60.5146,baixo,75.42,0.300,(3 out of 5),Violated,Violated
+61.7646,moderado,74.91,1.250,(3 out of 5),Violated,Violated
+63.2644,baixo,74.3,1.500,(3 out of 5),Violated,Violated
+63.9645,moderado,74.01,0.700,(3 out of 5),Violated,Violated
+64.6146,alto,73.74,0.650,(3 out of 5),Violated,Violated
+64.6646,moderado,73.71,0.050,(3 out of 5),Satisfied,Satisfied
+70.3645,baixo,71.42,5.700,(3 out of 5),Violated,Violated
+73.4145,moderado,70.19,3.050,(3 out of 5),Violated,Violated
+74.0646,alto,69.92,0.650,(3 out of 5),Violated,Violated
+76.7146,moderado,68.85,2.650,(3 out of 5),Violated,Violated
+78.8646,alto,67.98,2.150,(3 out of 5),Violated,Violated
+78.9653,moderado,67.93,0.101,(3 out of 5),Violated,Satisfied
+80.4158,alto,67.34,1.450,(3 out of 5),Violated,Violated
+81.1145,moderado,67.05,0.699,(3 out of 5),Violated,Violated
+82.2146,alto,66.6,1.100,(3 out of 5),Violated,Violated
+82.6646,moderado,66.41,0.450,(3 out of 5),Violated,Violated
+82.7153,alto,66.38,0.051,(3 out of 5),Satisfied,Satisfied
+83.9146,moderado,65.89,1.199,(3 out of 5),Violated,Violated
+85.2146,baixo,65.36,1.300,(3 out of 5),Violated,Violated
+85.9146,moderado,65.07,0.700,(3 out of 5),Violated,Violated
+88.7646,alto,63.92,2.850,(3 out of 5),Violated,Violated
+89.9647,moderado,63.43,1.200,(3 out of 5),Violated,Violated
+93.3145,baixo,62.08,3.350,(3 out of 5),Violated,Violated
+93.4646,moderado,62.01,0.150,(3 out of 5),Violated,Satisfied
+93.7646,baixo,61.88,0.300,(3 out of 5),Violated,Violated
+94.4645,moderado,61.59,0.700,(3 out of 5),Violated,Violated
+96.7146,alto,60.68,2.250,(3 out of 5),Violated,Violated
+96.9146,moderado,60.59,0.200,(3 out of 5),Violated,Satisfied
+109,baixo,55.94,11.600,(3 out of 5),Violated,Violated
+109,moderado,55.89,0.101,(3 out of 5),Violated,Satisfied
+109,baixo,55.84,0.101,(3 out of 5),Violated,Satisfied
+109,moderado,55.81,0.049,(3 out of 5),Satisfied,Satisfied
+109,baixo,55.68,0.301,(3 out of 5),Violated,Violated
+109,moderado,55.59,0.199,(3 out of 5),Violated,Satisfied
+110,alto,55.38,0.500,(3 out of 5),Violated,Violated
+110,moderado,55.25,0.300,(3 out of 5),Violated,Violated
+112,alto,54.64,1.500,(3 out of 5),Violated,Violated
+112,moderado,54.59,0.101,(3 out of 5),Violated,Satisfied
+113,alto,53.86,1.799,(3 out of 5),Violated,Violated
+114,moderado,53.83,0.050,(3 out of 5),Satisfied,Satisfied
+114,baixo,53.74,0.200,(3 out of 5),Violated,Satisfied
+114,moderado,53.47,0.650,(3 out of 5),Violated,Violated
+115,baixo,53.08,0.950,(3 out of 5),Violated,Violated
+118,moderado,51.97,2.750,(3 out of 5),Violated,Violated
+119,baixo,51.78,0.450,(3 out of 5),Violated,Violated
+119,moderado,51.75,0.051,(3 out of 5),Satisfied,Satisfied
+119,alto,51.66,0.199,(3 out of 5),Violated,Satisfied
+120,moderado,51.35,0.750,(3 out of 5),Violated,Violated
+120,alto,51.32,0.050,(3 out of 5),Satisfied,Satisfied
+122,moderado,50.39,2.300,(3 out of 5),Violated,Violated
+123,alto,50.04,0.850,(3 out of 5),Violated,Violated
+123,moderado,50.01,0.050,(3 out of 5),Satisfied,Satisfied
+123,alto,49.98,0.051,(3 out of 5),Satisfied,Satisfied
+124,moderado,49.61,0.899,(3 out of 5),Violated,Violated
+124,baixo,49.54,0.151,(3 out of 5),Violated,Satisfied
+124,moderado,49.39,0.349,(3 out of 5),Violated,Violated
+126,alto,48.66,1.800,(3 out of 5),Violated,Violated
+127,moderado,48.45,0.500,(3 out of 5),Violated,Violated
+130,baixo,47.2,3.100,(3 out of 5),Violated,Violated
+131,moderado,46.61,1.452,(3 out of 5),Violated,Violated
+133,baixo,45.72,2.198,(3 out of 5),Violated,Violated
+136,moderado,44.71,2.500,(3 out of 5),Violated,Violated
+136,alto,44.66,0.101,(3 out of 5),Violated,Satisfied
+137,moderado,44.25,0.999,(3 out of 5),Violated,Violated
+137,alto,44.1,0.350,(3 out of 5),Violated,Violated
+138,moderado,43.95,0.350,(3 out of 5),Violated,Violated
+138,alto,43.9,0.101,(3 out of 5),Violated,Satisfied
+139,moderado,43.53,0.899,(3 out of 5),Violated,Violated
+140,baixo,42.9,1.550,(3 out of 5),Violated,Violated
+140,moderado,42.79,0.250,(3 out of 5),Violated,Violated
+142,baixo,42.3,1.200,(3 out of 5),Violated,Violated
+142,moderado,42.27,0.050,(3 out of 5),Satisfied,Satisfied
+144,alto,41.48,1.950,(3 out of 5),Violated,Violated
+145,moderado,40.79,1.700,(3 out of 5),Violated,Violated
+146,baixo,40.62,0.400,(3 out of 5),Violated,Violated
+146,moderado,40.31,0.750,(3 out of 5),Violated,Violated
+147,baixo,40.2,0.250,(3 out of 5),Violated,Violated
+148,moderado,39.83,0.900,(3 out of 5),Violated,Violated
+149,alto,39.26,1.400,(3 out of 5),Violated,Violated
+150,moderado,38.99,0.650,(3 out of 5),Violated,Violated
+150,alto,38.96,0.050,(3 out of 5),Satisfied,Satisfied
+152,moderado,38.03,2.300,(3 out of 5),Violated,Violated
+154,alto,37.02,2.500,(3 out of 5),Violated,Violated
+155,moderado,36.75,0.650,(3 out of 5),Violated,Violated
+158,baixo,35.64,2.750,(3 out of 5),Violated,Violated
+158,moderado,35.61,0.050,(3 out of 5),Satisfied,Satisfied
+158,baixo,35.4,0.500,(3 out of 5),Violated,Violated
+159,moderado,35.23,0.400,(3 out of 5),Violated,Violated
+160,alto,34.82,1.000,(3 out of 5),Violated,Violated
+163,moderado,33.61,3.000,(3 out of 5),Violated,Violated
+167,baixo,32.06,3.850,(3 out of 5),Violated,Violated
+168,moderado,31.63,1.050,(3 out of 5),Violated,Violated
+168,baixo,31.48,0.350,(3 out of 5),Violated,Violated
+169,moderado,30.93,1.350,(3 out of 5),Violated,Violated
+170,baixo,30.78,0.350,(3 out of 5),Violated,Violated
+170,moderado,30.51,0.650,(3 out of 5),Violated,Violated
+174,alto,29.02,3.700,(3 out of 5),Violated,Violated
+175,moderado,28.71,0.750,(3 out of 5),Violated,Violated
+177,alto,28.02,1.700,(3 out of 5),Violated,Violated
+177,moderado,27.71,0.750,(3 out of 5),Violated,Violated
+181,baixo,26.24,3.650,(3 out of 5),Violated,Violated
+181,moderado,26.19,0.101,(3 out of 5),Violated,Satisfied
+182,alto,25.74,1.099,(3 out of 5),Violated,Violated
+185,moderado,24.73,2.500,(3 out of 5),Violated,Violated
+185,alto,24.54,0.451,(3 out of 5),Violated,Violated
+189,moderado,22.95,3.949,(3 out of 5),Violated,Violated
+189,alto,22.9,0.101,(3 out of 5),Violated,Satisfied
+189,moderado,22.85,0.100,(3 out of 5),Satisfied,Satisfied
+190,baixo,22.56,0.699,(3 out of 5),Violated,Violated
+190,moderado,22.47,0.200,(3 out of 5),Violated,Satisfied
+192,baixo,21.6,2.150,(3 out of 5),Violated,Violated
+193,moderado,21.49,0.250,(3 out of 5),Violated,Violated
+199,baixo,19,6.200,(3 out of 5),Violated,Violated
+200,moderado,18.63,0.900,(3 out of 5),Violated,Violated
+201,baixo,18.2,1.050,(3 out of 5),Violated,Violated
+201,moderado,17.91,0.700,(3 out of 5),Violated,Violated
+207,alto,15.68,5.550,(3 out of 5),Violated,Violated
+208,moderado,15.31,0.900,(3 out of 5),Violated,Violated
+210,baixo,14.28,2.551,(3 out of 5),Violated,Violated
+212,moderado,13.69,1.449,(3 out of 5),Violated,Violated
+216,alto,12.02,4.150,(3 out of 5),Violated,Violated
+218,moderado,11.21,2.000,(3 out of 5),Violated,Violated
+221,baixo,10.12,2.700,(3 out of 5),Violated,Violated
+224,moderado,8.91,3.000,(3 out of 5),Violated,Violated
+225,baixo,8.56,0.850,(3 out of 5),Violated,Violated
+225,moderado,8.53,0.050,(3 out of 5),Satisfied,Satisfied
+226,alto,8.02,1.250,(3 out of 5),Violated,Violated
+227,moderado,7.75,0.650,(3 out of 5),Violated,Violated
+227,alto,7.72,0.050,(3 out of 5),Satisfied,Satisfied
+227,moderado,7.67,0.101,(3 out of 5),Violated,Satisfied
+234,baixo,4.86,6.999,(3 out of 5),Violated,Violated
+234,moderado,4.59,0.650,(3 out of 5),Violated,Violated
+235,alto,4.38,0.500,(3 out of 5),Violated,Violated
+238,moderado,2.91,3.650,(3 out of 5),Violated,Violated
+242,alto,1.58,3.300,(3 out of 5),Violated,Violated
+243,moderado,1.21,0.900,(3 out of 5),Violated,Violated
+248,baixo,-0.86,5.150,(3 out of 5),Violated,Violated
+248,moderado,-1.01,0.350,(3 out of 5),Violated,Violated
+248,alto,-1.12,0.250,(3 out of 5),Violated,Satisfied
+249,moderado,-1.27,0.352,(3 out of 5),Violated,Violated
+252,alto,-2.64,3.398,(3 out of 5),Violated,Violated
+253,moderado,-2.79,0.350,(3 out of 5),Violated,Violated
+254,baixo,-3.5,1.750,(3 out of 5),Violated,Violated
+255,moderado,-3.79,0.700,(3 out of 5),Violated,Violated
+255,baixo,-3.86,0.150,(3 out of 5),Violated,Satisfied
+255,moderado,-3.89,0.050,(3 out of 5),Satisfied,Satisfied
+257,baixo,-4.5,1.500,(3 out of 5),Violated,Violated
+258,moderado,-4.95,1.100,(3 out of 5),Violated,Violated
+261,baixo,-6.26,3.251,(3 out of 5),Violated,Violated
+261,moderado,-6.29,0.049,(3 out of 5),Satisfied,Satisfied
+262,baixo,-6.68,0.950,(3 out of 5),Violated,Violated
+263,moderado,-7.27,1.450,(3 out of 5),Violated,Violated
+265,alto,-7.86,1.450,(3 out of 5),Violated,Violated
+267,moderado,-8.59,1.800,(3 out of 5),Violated,Violated
+267,alto,-8.62,0.050,(3 out of 5),Satisfied,Satisfied
+270,moderado,-9.87,3.100,(3 out of 5),Violated,Violated
+272,baixo,-10.72,2.100,(3 out of 5),Violated,Violated
+273,moderado,-11.33,1.500,(3 out of 5),Violated,Violated
+274,baixo,-11.36,0.050,(3 out of 5),Satisfied,Satisfied
+274,moderado,-11.47,0.250,(3 out of 5),Violated,Satisfied
+274,baixo,-11.66,0.450,(3 out of 5),Violated,Violated
+275,moderado,-12.05,0.950,(3 out of 5),Violated,Violated
+276,alto,-12.36,0.751,(3 out of 5),Violated,Violated
+276,moderado,-12.53,0.399,(3 out of 5),Violated,Violated
+280,alto,-14.04,3.750,(3 out of 5),Violated,Violated
+280,moderado,-14.07,0.050,(3 out of 5),Satisfied,Satisfied
+284,baixo,-15.5,3.551,(3 out of 5),Violated,Violated
+284,moderado,-15.79,0.699,(3 out of 5),Violated,Violated
+286,baixo,-16.28,1.200,(3 out of 5),Violated,Violated
+287,moderado,-17.01,1.801,(3 out of 5),Violated,Violated
+288,baixo,-17.08,0.149,(3 out of 5),Violated,Satisfied
+288,moderado,-17.33,0.600,(3 out of 5),Violated,Violated
+289,baixo,-17.58,0.600,(3 out of 5),Violated,Violated
+291,moderado,-18.45,2.150,(3 out of 5),Violated,Violated
+292,baixo,-18.86,1.000,(3 out of 5),Violated,Violated
+292,moderado,-19.01,0.350,(3 out of 5),Violated,Violated
+294,alto,-19.58,1.400,(3 out of 5),Violated,Violated
+298,moderado,-21.29,4.250,(3 out of 5),Violated,Violated
+300,baixo,-22.26,2.400,(3 out of 5),Violated,Violated
+300,moderado,-22.29,0.051,(3 out of 5),Satisfied,Satisfied
+302,baixo,-22.92,1.549,(3 out of 5),Violated,Violated
+305,moderado,-24.29,3.400,(3 out of 5),Violated,Violated
+305,alto,-24.38,0.201,(3 out of 5),Violated,Satisfied
+306,moderado,-24.49,0.249,(3 out of 5),Violated,Satisfied
+306,baixo,-24.8,0.750,(3 out of 5),Violated,Violated
+307,moderado,-25.21,1.000,(3 out of 5),Violated,Violated
+309,alto,-25.72,1.250,(3 out of 5),Violated,Violated
+309,moderado,-26.03,0.750,(3 out of 5),Violated,Violated
+310,baixo,-26.22,0.450,(3 out of 5),Violated,Violated
+310,moderado,-26.33,0.250,(3 out of 5),Violated,Violated
+312,baixo,-27.1,1.900,(3 out of 5),Violated,Violated
+313,moderado,-27.43,0.800,(3 out of 5),Violated,Violated
+313,alto,-27.54,0.250,(3 out of 5),Violated,Satisfied
+314,moderado,-27.97,1.050,(3 out of 5),Violated,Violated
+319,baixo,-29.9,4.800,(3 out of 5),Violated,Violated
+321,moderado,-30.55,1.600,(3 out of 5),Violated,Violated
+324,alto,-31.86,3.250,(3 out of 5),Violated,Violated
+326,moderado,-32.57,1.750,(3 out of 5),Violated,Violated
+329,alto,-34.12,3.850,(3 out of 5),Violated,Violated
+330,moderado,-34.27,0.350,(3 out of 5),Violated,Violated
+332,baixo,-35.04,1.900,(3 out of 5),Violated,Violated
+332,moderado,-35.11,0.150,(3 out of 5),Violated,Satisfied
+332,baixo,-35.14,0.050,(3 out of 5),Satisfied,Satisfied
+334,moderado,-35.91,1.900,(3 out of 5),Violated,Violated
+336,baixo,-36.68,1.900,(3 out of 5),Violated,Violated
+337,moderado,-37.05,0.900,(3 out of 5),Violated,Violated
+340,alto,-38.42,3.400,(3 out of 5),Violated,Violated
+340,moderado,-38.57,0.350,(3 out of 5),Violated,Violated
+343,alto,-39.5,2.301,(3 out of 5),Violated,Violated
+346,moderado,-40.73,3.049,(3 out of 5),Violated,Violated
+349,alto,-41.98,3.100,(3 out of 5),Violated,Violated
+352,moderado,-43.21,3.050,(3 out of 5),Violated,Violated
+354,alto,-44.16,2.350,(3 out of 5),Violated,Violated
+355,moderado,-44.45,0.700,(3 out of 5),Violated,Violated
+356,alto,-44.92,1.150,(3 out of 5),Violated,Violated
+356,moderado,-44.97,0.101,(3 out of 5),Violated,Satisfied
+357,alto,-45.44,1.149,(3 out of 5),Violated,Violated
+358,moderado,-45.69,0.600,(3 out of 5),Violated,Violated
+359,baixo,-46.12,1.050,(3 out of 5),Violated,Violated
+360,moderado,-46.45,0.800,(3 out of 5),Violated,Violated
+360,baixo,-46.48,0.050,(3 out of 5),Satisfied,Satisfied
+360,moderado,-46.55,0.150,(3 out of 5),Violated,Satisfied
+361,baixo,-46.96,1.000,(3 out of 5),Violated,Violated
+364,moderado,-48.21,3.100,(3 out of 5),Violated,Violated
+366,alto,-49.06,2.100,(3 out of 5),Violated,Violated
+368,moderado,-49.89,2.050,(3 out of 5),Violated,Violated
+369,alto,-50.1,0.501,(3 out of 5),Violated,Violated
+370,moderado,-50.71,1.499,(3 out of 5),Violated,Violated
+370,alto,-50.74,0.050,(3 out of 5),Satisfied,Satisfied
+371,moderado,-51.03,0.701,(3 out of 5),Violated,Violated
+372,baixo,-51.44,0.999,(3 out of 5),Violated,Violated
+373,moderado,-51.79,0.850,(3 out of 5),Violated,Violated
+373,alto,-51.92,0.300,(3 out of 5),Violated,Violated
+373,moderado,-52.09,0.400,(3 out of 5),Violated,Violated
+374,alto,-52.5,1.000,(3 out of 5),Violated,Violated
+377,moderado,-53.53,2.550,(3 out of 5),Violated,Violated
+377,alto,-53.58,0.101,(3 out of 5),Violated,Satisfied
+378,moderado,-53.95,0.899,(3 out of 5),Violated,Violated
+388,baixo,-58.02,10.150,(3 out of 5),Violated,Violated
+388,moderado,-58.15,0.300,(3 out of 5),Violated,Violated
+389,baixo,-58.18,0.050,(3 out of 5),Satisfied,Satisfied
+389,moderado,-58.49,0.750,(3 out of 5),Violated,Violated
+392,baixo,-59.54,2.600,(3 out of 5),Violated,Violated
+393,moderado,-59.93,0.950,(3 out of 5),Violated,Violated
+395,baixo,-60.8,2.150,(3 out of 5),Violated,Violated
+396,moderado,-61.05,0.600,(3 out of 5),Violated,Violated
+398,baixo,-61.94,2.200,(3 out of 5),Violated,Violated
+399,moderado,-62.49,1.351,(3 out of 5),Violated,Violated
+399,baixo,-62.54,0.100,(3 out of 5),Satisfied,Satisfied
+399,moderado,-62.57,0.049,(3 out of 5),Satisfied,Satisfied
+403,alto,-63.88,3.250,(3 out of 5),Violated,Violated
+403,moderado,-63.99,0.250,(3 out of 5),Violated,Satisfied
+405,baixo,-64.8,2.000,(3 out of 5),Violated,Violated
+405,moderado,-64.95,0.350,(3 out of 5),Violated,Violated
+407,baixo,-65.52,1.401,(3 out of 5),Violated,Violated
+407,moderado,-65.59,0.149,(3 out of 5),Violated,Satisfied
+407,alto,-65.7,0.250,(3 out of 5),Violated,Violated
+409,moderado,-66.45,1.850,(3 out of 5),Violated,Violated
+409,alto,-66.48,0.050,(3 out of 5),Satisfied,Satisfied
+411,moderado,-67.37,2.200,(3 out of 5),Violated,Violated
+412,alto,-67.94,1.400,(3 out of 5),Violated,Violated
+414,moderado,-68.41,1.150,(3 out of 5),Violated,Violated
+415,alto,-68.82,1.000,(3 out of 5),Violated,Violated
+415,moderado,-69.19,0.900,(3 out of 5),Violated,Violated
+417,baixo,-69.82,1.550,(3 out of 5),Violated,Violated
+417,moderado,-69.89,0.150,(3 out of 5),Violated,Satisfied
+418,alto,-70.26,0.900,(3 out of 5),Violated,Violated
+419,moderado,-70.79,1.300,(3 out of 5),Violated,Violated
+426,alto,-73.3,6.250,(3 out of 5),Violated,Violated
+429,moderado,-74.63,3.300,(3 out of 5),Violated,Violated
+430,alto,-74.96,0.800,(3 out of 5),Violated,Violated
+432,moderado,-75.73,1.900,(3 out of 5),Violated,Violated
+434,alto,-76.66,2.300,(3 out of 5),Violated,Violated
+437,moderado,-77.93,3.150,(3 out of 5),Violated,Violated
+441,baixo,-79.38,3.600,(3 out of 5),Violated,Violated
+441,moderado,-79.53,0.350,(3 out of 5),Violated,Violated
+441,baixo,-79.56,0.050,(3 out of 5),Satisfied,Satisfied
+441,moderado,-79.61,0.101,(3 out of 5),Violated,Satisfied
+441,baixo,-79.66,0.101,(3 out of 5),Violated,Satisfied
+441,moderado,-79.69,0.048,(3 out of 5),Satisfied,Satisfied
+444,baixo,-80.66,2.400,(3 out of 5),Violated,Violated
+444,moderado,-80.73,0.150,(3 out of 5),Violated,Satisfied
+445,alto,-81.22,1.200,(3 out of 5),Violated,Violated
+445,moderado,-81.35,0.300,(3 out of 5),Violated,Violated
+446,baixo,-81.58,0.550,(3 out of 5),Violated,Violated
+448,moderado,-82.25,1.650,(3 out of 5),Violated,Violated
+448,baixo,-82.52,0.650,(3 out of 5),Violated,Violated
+450,moderado,-83.11,1.450,(3 out of 5),Violated,Violated
+452,alto,-84.1,2.450,(3 out of 5),Violated,Violated
+453,moderado,-84.43,0.800,(3 out of 5),Violated,Violated
+456,alto,-85.5,2.650,(3 out of 5),Violated,Violated
+456,moderado,-85.61,0.250,(3 out of 5),Violated,Violated
+457,alto,-86.04,1.050,(3 out of 5),Violated,Violated
+458,moderado,-86.57,1.300,(3 out of 5),Violated,Violated
+461,alto,-87.88,3.250,(3 out of 5),Violated,Violated
+463,moderado,-88.33,1.100,(3 out of 5),Violated,Violated
+464,baixo,-88.94,1.500,(3 out of 5),Violated,Violated
+465,moderado,-89.21,0.650,(3 out of 5),Violated,Violated
+471,baixo,-91.68,6.150,(3 out of 5),Violated,Violated
+473,moderado,-92.45,1.900,(3 out of 5),Violated,Violated
+481,alto,-95.92,8.650,(3 out of 5),Violated,Violated
+482,moderado,-96.09,0.400,(3 out of 5),Violated,Violated
+483,alto,-96.58,1.200,(3 out of 5),Violated,Violated
+483,moderado,-96.77,0.450,(3 out of 5),Violated,Violated
+484,baixo,-97.2,1.050,(3 out of 5),Violated,Violated
+485,moderado,-97.29,0.200,(3 out of 5),Violated,Satisfied
+486,baixo,-98.02,1.800,(3 out of 5),Violated,Violated
+487,moderado,-98.17,0.350,(3 out of 5),Violated,Violated
+487,baixo,-98.24,0.150,(3 out of 5),Violated,Satisfied
+487,moderado,-98.43,0.450,(3 out of 5),Violated,Violated
+489,alto,-98.88,1.100,(3 out of 5),Violated,Violated
+490,moderado,-99.31,1.050,(3 out of 5),Violated,Violated
+493,baixo,-100.8,3.700,(3 out of 5),Violated,Violated
+495,moderado,-101.59,1.950,(3 out of 5),Violated,Violated
+498,baixo,-102.76,2.900,(3 out of 5),Violated,Violated
+499,moderado,-102.97,0.500,(3 out of 5),Violated,Violated
+502,baixo,-104.4,3.550,(3 out of 5),Violated,Violated
+506,moderado,-106.03,4.050,(3 out of 5),Violated,Violated
+507,baixo,-106.3,0.650,(3 out of 5),Violated,Violated
+509,moderado,-107.09,1.950,(3 out of 5),Violated,Violated
+515,alto,-109.76,6.650,(3 out of 5),Violated,Violated
+516,moderado,-109.87,0.250,(3 out of 5),Violated,Satisfied
+518,baixo,-110.68,2.000,(3 out of 5),Violated,Violated
+518,moderado,-110.73,0.101,(3 out of 5),Violated,Satisfied
+519,baixo,-111.38,1.599,(3 out of 5),Violated,Violated
+521,moderado,-111.97,1.450,(3 out of 5),Violated,Violated
+522,baixo,-112.42,1.100,(3 out of 5),Violated,Violated
+522,moderado,-112.45,0.050,(3 out of 5),Satisfied,Satisfied
+526,baixo,-114.02,3.900,(3 out of 5),Violated,Violated
+529,moderado,-115.17,2.850,(3 out of 5),Violated,Violated
+529,alto,-115.36,0.450,(3 out of 5),Violated,Violated
+529,moderado,-115.41,0.101,(3 out of 5),Violated,Satisfied
+531,baixo,-116.2,1.949,(3 out of 5),Violated,Violated
+532,moderado,-116.31,0.250,(3 out of 5),Violated,Satisfied
+532,baixo,-116.36,0.101,(3 out of 5),Violated,Satisfied
+533,moderado,-116.85,1.199,(3 out of 5),Violated,Violated
+536,alto,-118.12,3.150,(3 out of 5),Violated,Violated
+538,moderado,-119.09,2.400,(3 out of 5),Violated,Violated
+543,baixo,-120.8,4.250,(3 out of 5),Violated,Violated
+545,moderado,-121.57,1.900,(3 out of 5),Violated,Violated
+546,alto,-122.12,1.350,(3 out of 5),Violated,Violated
+548,moderado,-122.93,2.000,(3 out of 5),Violated,Violated
+548,alto,-123.08,0.350,(3 out of 5),Violated,Violated
+551,moderado,-124.03,2.350,(3 out of 5),Violated,Violated
+553,alto,-124.82,1.950,(3 out of 5),Violated,Violated
+553,moderado,-124.93,0.250,(3 out of 5),Violated,Violated
+554,alto,-125.32,0.950,(3 out of 5),Violated,Violated
+554,moderado,-125.51,0.450,(3 out of 5),Violated,Violated
+555,baixo,-125.86,0.850,(3 out of 5),Violated,Violated
+555,moderado,-125.89,0.050,(3 out of 5),Satisfied,Satisfied
+555,baixo,-125.92,0.051,(3 out of 5),Satisfied,Satisfied
+557,moderado,-126.49,1.399,(3 out of 5),Violated,Violated
+557,alto,-126.7,0.500,(3 out of 5),Violated,Violated
+557,moderado,-126.73,0.050,(3 out of 5),Satisfied,Satisfied
+557,alto,-126.86,0.300,(3 out of 5),Violated,Violated
+559,moderado,-127.43,1.400,(3 out of 5),Violated,Violated
+566,baixo,-130.36,7.300,(3 out of 5),Violated,Violated
+572,moderado,-132.73,5.900,(3 out of 5),Violated,Violated
+575,baixo,-133.76,2.550,(3 out of 5),Violated,Violated
+575,moderado,-133.83,0.150,(3 out of 5),Violated,Satisfied
+575,baixo,-134.08,0.600,(3 out of 5),Violated,Violated
+578,moderado,-135.23,2.850,(3 out of 5),Violated,Violated
+580,baixo,-135.82,1.450,(3 out of 5),Violated,Violated
+580,moderado,-135.89,0.150,(3 out of 5),Violated,Satisfied
+583,baixo,-137.04,2.850,(3 out of 5),Violated,Violated
+584,moderado,-137.77,1.800,(3 out of 5),Violated,Violated
+585,alto,-137.84,0.150,(3 out of 5),Violated,Satisfied
+587,moderado,-138.77,2.300,(3 out of 5),Violated,Violated
+592,baixo,-140.98,5.501,(3 out of 5),Violated,Violated
+592,moderado,-141.03,0.100,(3 out of 5),Satisfied,Satisfied
+593,alto,-141.28,0.599,(3 out of 5),Violated,Violated
+594,moderado,-141.75,1.150,(3 out of 5),Violated,Violated
+595,alto,-141.98,0.550,(3 out of 5),Violated,Violated
+595,moderado,-142.03,0.101,(3 out of 5),Violated,Satisfied
+596,baixo,-142.38,0.849,(3 out of 5),Violated,Violated
+597,moderado,-142.93,1.350,(3 out of 5),Violated,Violated
+599,baixo,-143.84,2.000,(3 out of 5),Violated,Violated
+601,moderado,-144.49,1.599,(3 out of 5),Violated,Violated
+603,baixo,-145.5,2.500,(3 out of 5),Violated,Violated
+604,moderado,-145.65,0.350,(3 out of 5),Violated,Violated
+609,alto,-147.76,5.250,(3 out of 5),Violated,Violated
+610,moderado,-148.05,0.700,(3 out of 5),Violated,Violated
+611,alto,-148.54,1.200,(3 out of 5),Violated,Violated
+612,moderado,-149.01,1.150,(3 out of 5),Violated,Violated
+613,baixo,-149.22,0.500,(3 out of 5),Violated,Violated
+613,moderado,-149.27,0.101,(3 out of 5),Violated,Satisfied
+614,alto,-149.74,1.149,(3 out of 5),Violated,Violated
+614,moderado,-149.95,0.500,(3 out of 5),Violated,Violated
+615,alto,-150.3,0.850,(3 out of 5),Violated,Violated
+615,moderado,-150.43,0.300,(3 out of 5),Violated,Violated
+618,baixo,-151.46,2.550,(3 out of 5),Violated,Violated
+619,moderado,-151.69,0.550,(3 out of 5),Violated,Violated
+619,baixo,-151.72,0.050,(3 out of 5),Satisfied,Satisfied
+620,moderado,-152.19,1.150,(3 out of 5),Violated,Violated
+621,alto,-152.54,0.850,(3 out of 5),Violated,Violated
+621,moderado,-152.87,0.800,(3 out of 5),Violated,Violated
+623,baixo,-153.48,1.500,(3 out of 5),Violated,Violated
+624,moderado,-154.05,1.400,(3 out of 5),Violated,Violated
+626,baixo,-154.6,1.350,(3 out of 5),Violated,Violated
+626,moderado,-154.65,0.101,(3 out of 5),Violated,Satisfied
+626,baixo,-154.82,0.399,(3 out of 5),Violated,Violated
+628,moderado,-155.53,1.750,(3 out of 5),Violated,Violated
+633,alto,-157.6,5.150,(3 out of 5),Violated,Violated
+633,moderado,-157.71,0.250,(3 out of 5),Violated,Satisfied
+638,baixo,-159.66,4.850,(3 out of 5),Violated,Violated
+638,moderado,-159.75,0.200,(3 out of 5),Violated,Satisfied
+641,baixo,-160.94,2.951,(3 out of 5),Violated,Violated
+642,moderado,-161.13,0.449,(3 out of 5),Violated,Violated
+643,baixo,-161.76,1.551,(3 out of 5),Violated,Violated
+644,moderado,-161.91,0.349,(3 out of 5),Violated,Violated
+644,baixo,-162.24,0.800,(3 out of 5),Violated,Violated
+645,moderado,-162.31,0.151,(3 out of 5),Violated,Satisfied
+647,alto,-163.22,2.249,(3 out of 5),Violated,Violated
+648,moderado,-163.73,1.250,(3 out of 5),Violated,Violated
+650,baixo,-164.36,1.550,(3 out of 5),Violated,Violated
+651,moderado,-164.81,1.100,(3 out of 5),Violated,Violated
+652,baixo,-165.52,1.750,(3 out of 5),Violated,Violated
+653,moderado,-165.81,0.700,(3 out of 5),Violated,Violated
+655,alto,-166.66,2.100,(3 out of 5),Violated,Violated
+658,moderado,-167.61,2.350,(3 out of 5),Violated,Violated
+660,alto,-168.54,2.300,(3 out of 5),Violated,Violated
+661,moderado,-169.03,1.200,(3 out of 5),Violated,Violated
+662,alto,-169.5,1.150,(3 out of 5),Violated,Violated
+664,moderado,-170.19,1.700,(3 out of 5),Violated,Violated
+664,baixo,-170.32,0.300,(3 out of 5),Violated,Violated
+665,moderado,-170.59,0.650,(3 out of 5),Violated,Violated
+669,alto,-172.2,4.000,(3 out of 5),Violated,Violated
+669,moderado,-172.23,0.050,(3 out of 5),Satisfied,Satisfied
+669,alto,-172.34,0.250,(3 out of 5),Violated,Violated
+671,moderado,-173.07,1.800,(3 out of 5),Violated,Violated
+673,alto,-173.82,1.850,(3 out of 5),Violated,Violated
+673,moderado,-174.05,0.550,(3 out of 5),Violated,Violated
+675,alto,-174.64,1.450,(3 out of 5),Violated,Violated
+676,moderado,-175.17,1.300,(3 out of 5),Violated,Violated
+680,alto,-176.62,3.601,(3 out of 5),Violated,Violated
+681,moderado,-177.03,0.999,(3 out of 5),Violated,Violated
+687,alto,-179.66,6.550,(3 out of 5),Violated,Violated
+689,moderado,-180.53,2.150,(3 out of 5),Violated,Violated
+692,baixo,-181.68,2.850,(3 out of 5),Violated,Violated
+693,moderado,-182.05,0.900,(3 out of 5),Violated,Violated
+694,alto,-182.38,0.800,(3 out of 5),Violated,Violated
+694,moderado,-182.51,0.300,(3 out of 5),Violated,Violated
+696,baixo,-183.08,1.400,(3 out of 5),Violated,Violated
+696,moderado,-183.35,0.650,(3 out of 5),Violated,Violated
+697,alto,-183.78,1.050,(3 out of 5),Violated,Violated
+698,moderado,-183.85,0.150,(3 out of 5),Violated,Satisfied
+699,alto,-184.56,1.750,(3 out of 5),Violated,Violated
+700,moderado,-184.91,0.850,(3 out of 5),Violated,Violated
+701,alto,-185.24,0.800,(3 out of 5),Violated,Violated
+703,moderado,-185.89,1.600,(3 out of 5),Violated,Violated
+703,alto,-186,0.251,(3 out of 5),Violated,Violated
+705,moderado,-186.79,1.949,(3 out of 5),Violated,Violated
+710,alto,-188.9,5.250,(3 out of 5),Violated,Violated
+711,moderado,-189.29,0.950,(3 out of 5),Violated,Violated
+714,baixo,-190.54,3.100,(3 out of 5),Violated,Violated
+714,moderado,-190.63,0.200,(3 out of 5),Violated,Satisfied
+720,alto,-193.04,6.000,(3 out of 5),Violated,Violated
+721,moderado,-193.31,0.651,(3 out of 5),Violated,Violated
+722,alto,-193.58,0.649,(3 out of 5),Violated,Violated
+722,moderado,-193.71,0.300,(3 out of 5),Violated,Violated
+724,alto,-194.68,2.400,(3 out of 5),Violated,Violated
+725,moderado,-194.95,0.650,(3 out of 5),Violated,Violated
+725,alto,-195.06,0.250,(3 out of 5),Violated,Violated
+726,moderado,-195.55,1.200,(3 out of 5),Violated,Violated
+727,baixo,-195.68,0.300,(3 out of 5),Violated,Violated
+727,moderado,-196.01,0.801,(3 out of 5),Violated,Violated
+733,baixo,-198.06,5.099,(3 out of 5),Violated,Violated
+733,moderado,-198.13,0.150,(3 out of 5),Violated,Satisfied
+733,baixo,-198.34,0.500,(3 out of 5),Violated,Violated
+736,moderado,-199.45,2.750,(3 out of 5),Violated,Violated
+737,baixo,-199.82,0.901,(3 out of 5),Violated,Violated
+739,moderado,-200.59,1.899,(3 out of 5),Violated,Violated
+739,baixo,-200.84,0.600,(3 out of 5),Violated,Violated
+740,moderado,-200.97,0.300,(3 out of 5),Violated,Violated
+742,baixo,-201.84,2.150,(3 out of 5),Violated,Violated
+742,moderado,-202.09,0.600,(3 out of 5),Violated,Violated
+743,baixo,-202.28,0.450,(3 out of 5),Violated,Violated
+746,moderado,-203.41,2.800,(3 out of 5),Violated,Violated
+747,alto,-204.04,1.550,(3 out of 5),Violated,Violated
+748,moderado,-204.39,0.850,(3 out of 5),Violated,Violated
+752,baixo,-205.82,3.550,(3 out of 5),Violated,Violated
+753,moderado,-206.47,1.600,(3 out of 5),Violated,Violated
+754,baixo,-206.62,0.351,(3 out of 5),Violated,Violated
+754,moderado,-206.65,0.049,(3 out of 5),Satisfied,Satisfied
+755,alto,-207.04,0.950,(3 out of 5),Violated,Violated
+756,moderado,-207.51,1.151,(3 out of 5),Violated,Violated
+759,alto,-208.86,3.349,(3 out of 5),Violated,Violated
+760,moderado,-209.31,1.100,(3 out of 5),Violated,Violated
+762,baixo,-210.04,1.800,(3 out of 5),Violated,Violated
+762,moderado,-210.21,0.400,(3 out of 5),Violated,Violated
+763,alto,-210.36,0.350,(3 out of 5),Violated,Violated
+765,moderado,-211.31,2.350,(3 out of 5),Violated,Violated
+766,baixo,-211.64,0.800,(3 out of 5),Violated,Violated
+766,moderado,-211.69,0.101,(3 out of 5),Violated,Satisfied
+771,alto,-213.7,4.999,(3 out of 5),Violated,Violated
+771,moderado,-213.81,0.251,(3 out of 5),Violated,Violated
+775,alto,-215.38,3.899,(3 out of 5),Violated,Violated
+776,moderado,-215.73,0.850,(3 out of 5),Violated,Violated
+776,alto,-215.76,0.050,(3 out of 5),Satisfied,Satisfied
+779,moderado,-216.83,2.651,(3 out of 5),Violated,Violated
+779,baixo,-216.94,0.249,(3 out of 5),Violated,Satisfied
+781,moderado,-217.59,1.600,(3 out of 5),Violated,Violated
+781,baixo,-217.98,0.950,(3 out of 5),Violated,Violated
+783,moderado,-218.67,1.700,(3 out of 5),Violated,Violated
+783,baixo,-218.7,0.050,(3 out of 5),Satisfied,Satisfied
+785,moderado,-219.45,1.850,(3 out of 5),Violated,Violated
+786,baixo,-219.98,1.300,(3 out of 5),Violated,Violated
+788,moderado,-220.45,1.150,(3 out of 5),Violated,Violated
+788,baixo,-220.62,0.400,(3 out of 5),Violated,Violated
+792,moderado,-222.25,4.050,(3 out of 5),Violated,Violated
+796,alto,-223.76,3.750,(3 out of 5),Violated,Violated
+797,moderado,-224.11,0.850,(3 out of 5),Violated,Violated
+798,baixo,-224.76,1.600,(3 out of 5),Violated,Violated
+800,moderado,-225.31,1.351,(3 out of 5),Violated,Violated
+800,alto,-225.38,0.149,(3 out of 5),Violated,Satisfied
+800,moderado,-225.57,0.450,(3 out of 5),Violated,Violated
+808,baixo,-228.82,8.100,(3 out of 5),Violated,Violated
+811,moderado,-230.11,3.200,(3 out of 5),Violated,Violated
+816,alto,-231.84,4.300,(3 out of 5),Violated,Violated
+817,moderado,-232.27,1.052,(3 out of 5),Violated,Violated
+829,baixo,-237.26,12.447,(3 out of 5),Violated,Violated
+831,moderado,-237.79,1.300,(3 out of 5),Violated,Violated
+831,baixo,-237.94,0.350,(3 out of 5),Violated,Violated
+831,moderado,-238.17,0.550,(3 out of 5),Violated,Violated
+839,baixo,-241.28,7.750,(3 out of 5),Violated,Violated
+839,moderado,-241.39,0.250,(3 out of 5),Violated,Satisfied
+841,baixo,-241.88,1.200,(3 out of 5),Violated,Violated
+842,moderado,-242.37,1.200,(3 out of 5),Violated,Violated
+843,baixo,-242.76,0.950,(3 out of 5),Violated,Violated
+843,moderado,-242.87,0.250,(3 out of 5),Violated,Violated
+844,baixo,-243.46,1.450,(3 out of 5),Violated,Violated
+845,moderado,-243.53,0.150,(3 out of 5),Violated,Satisfied
+845,alto,-243.74,0.500,(3 out of 5),Violated,Violated
+845,moderado,-243.81,0.150,(3 out of 5),Violated,Satisfied
+847,alto,-244.54,1.800,(3 out of 5),Violated,Violated
+848,moderado,-244.83,0.700,(3 out of 5),Violated,Violated
+849,alto,-245.2,0.900,(3 out of 5),Violated,Violated
+849,moderado,-245.41,0.500,(3 out of 5),Violated,Violated
+849,alto,-245.44,0.050,(3 out of 5),Satisfied,Satisfied
+850,moderado,-245.67,0.551,(3 out of 5),Violated,Violated
+851,alto,-246.12,1.099,(3 out of 5),Violated,Violated
+851,moderado,-246.29,0.400,(3 out of 5),Violated,Violated
+852,alto,-246.62,0.800,(3 out of 5),Violated,Violated
+852,moderado,-246.79,0.400,(3 out of 5),Violated,Violated
+855,baixo,-247.9,2.750,(3 out of 5),Violated,Violated
+856,moderado,-248.05,0.350,(3 out of 5),Violated,Violated
+857,baixo,-248.76,1.750,(3 out of 5),Violated,Violated
+859,moderado,-249.35,1.450,(3 out of 5),Violated,Violated
+863,alto,-251.08,4.300,(3 out of 5),Violated,Violated
+864,moderado,-251.37,0.700,(3 out of 5),Violated,Violated
+871,alto,-254.34,7.400,(3 out of 5),Violated,Violated
+874,moderado,-255.53,2.950,(3 out of 5),Violated,Violated
+877,baixo,-256.7,2.900,(3 out of 5),Violated,Violated
+878,moderado,-257.03,0.800,(3 out of 5),Violated,Violated
+878,baixo,-257.06,0.050,(3 out of 5),Satisfied,Satisfied
+878,moderado,-257.19,0.300,(3 out of 5),Violated,Violated
+881,alto,-258.36,2.900,(3 out of 5),Violated,Violated
+883,moderado,-259.01,1.600,(3 out of 5),Violated,Violated
+884,alto,-259.68,1.650,(3 out of 5),Violated,Violated
+885,moderado,-259.87,0.450,(3 out of 5),Violated,Violated
+892,alto,-262.94,7.650,(3 out of 5),Violated,Violated
+893,moderado,-263.09,0.350,(3 out of 5),Violated,Violated
+893,alto,-263.22,0.300,(3 out of 5),Violated,Violated
+894,moderado,-263.77,1.350,(3 out of 5),Violated,Violated
+895,alto,-264,0.550,(3 out of 5),Violated,Violated
+895,moderado,-264.03,0.050,(3 out of 5),Satisfied,Satisfied
+899,alto,-265.74,4.250,(3 out of 5),Violated,Violated
+904,moderado,-267.67,4.800,(3 out of 5),Violated,Violated
+911,alto,-270.52,7.100,(3 out of 5),Violated,Violated
+913,moderado,-271.07,1.350,(3 out of 5),Violated,Violated
+913,alto,-271.12,0.101,(3 out of 5),Violated,Satisfied
+913,moderado,-271.15,0.049,(3 out of 5),Satisfied,Satisfied
+913,baixo,-271.34,0.450,(3 out of 5),Violated,Violated
+914,moderado,-271.85,1.250,(3 out of 5),Violated,Violated
+919,baixo,-273.54,4.200,(3 out of 5),Violated,Violated
+920,moderado,-274.13,1.450,(3 out of 5),Violated,Violated
+921,alto,-274.36,0.550,(3 out of 5),Violated,Violated
+928,moderado,-277.21,7.100,(3 out of 5),Violated,Violated
+931,baixo,-278.4,2.950,(3 out of 5),Violated,Violated
+933,moderado,-279.31,2.250,(3 out of 5),Violated,Violated
+935,baixo,-280.26,2.350,(3 out of 5),Violated,Violated
+938,moderado,-281.51,3.100,(3 out of 5),Violated,Violated
+941,alto,-282.7,2.950,(3 out of 5),Violated,Violated
+943,moderado,-283.59,2.200,(3 out of 5),Violated,Violated
+948,baixo,-285.46,4.650,(3 out of 5),Violated,Violated
+950,moderado,-286.09,1.550,(3 out of 5),Violated,Violated
+953,alto,-287.46,3.400,(3 out of 5),Violated,Violated
+954,moderado,-287.93,1.150,(3 out of 5),Violated,Violated
+955,alto,-288.34,1.000,(3 out of 5),Violated,Violated
+960,moderado,-290.31,4.900,(3 out of 5),Violated,Violated
+961,baixo,-290.72,1.000,(3 out of 5),Violated,Violated
+962,moderado,-291.03,0.750,(3 out of 5),Violated,Violated
+968,alto,-293.46,6.050,(3 out of 5),Violated,Violated
+972,moderado,-295.11,4.101,(3 out of 5),Violated,Violated
+972,baixo,-295.3,0.449,(3 out of 5),Violated,Violated
+973,moderado,-295.35,0.101,(3 out of 5),Violated,Satisfied
+974,baixo,-296,1.599,(3 out of 5),Violated,Violated
+975,moderado,-296.41,1.000,(3 out of 5),Violated,Violated
+979,alto,-297.82,3.500,(3 out of 5),Violated,Violated
+980,moderado,-298.19,0.900,(3 out of 5),Violated,Violated
+980,alto,-298.32,0.300,(3 out of 5),Violated,Violated
+980,moderado,-298.45,0.300,(3 out of 5),Violated,Violated
+980,baixo,-298.58,0.300,(3 out of 5),Violated,Violated
+981,moderado,-298.67,0.200,(3 out of 5),Violated,Satisfied
+985,alto,-300.4,4.300,(3 out of 5),Violated,Violated
+985,moderado,-300.59,0.450,(3 out of 5),Violated,Violated
+986,baixo,-300.82,0.551,(3 out of 5),Violated,Violated
+986,moderado,-300.93,0.249,(3 out of 5),Violated,Satisfied
+988,baixo,-301.8,2.150,(3 out of 5),Violated,Violated
+989,moderado,-302.01,0.500,(3 out of 5),Violated,Violated
+992,alto,-303.24,3.050,(3 out of 5),Violated,Violated
+994,moderado,-304.21,2.400,(3 out of 5),Violated,Violated
+998,alto,-305.52,3.250,(3 out of 5),Violated,Violated
+1001.31,moderado,-307.03,3.750,(3 out of 5),Violated,Violated
+1002.51,baixo,-307.52,1.200,(3 out of 5),Violated,Violated
+1002.86,moderado,-307.67,0.350,(3 out of 5),Violated,Violated
+1003.36,alto,-307.88,0.500,(3 out of 5),Violated,Violated
+1004.31,moderado,-308.27,0.950,(3 out of 5),Violated,Violated
+1011.81,alto,-311.28,7.500,(3 out of 5),Violated,Violated
+1012.51,moderado,-311.57,0.700,(3 out of 5),Violated,Violated
+1013.36,alto,-311.92,0.850,(3 out of 5),Violated,Violated
+1014.91,moderado,-312.55,1.550,(3 out of 5),Violated,Violated
+1015.41,baixo,-312.76,0.500,(3 out of 5),Violated,Violated
+1015.91,moderado,-312.97,0.500,(3 out of 5),Violated,Violated
+1016.11,baixo,-313.06,0.200,(3 out of 5),Violated,Satisfied
+1016.81,moderado,-313.35,0.700,(3 out of 5),Violated,Violated
+1017.06,alto,-313.46,0.250,(3 out of 5),Violated,Satisfied
+1017.17,moderado,-313.51,0.101,(3 out of 5),Violated,Satisfied
+1018.41,baixo,-314.02,1.249,(3 out of 5),Violated,Violated
+1018.56,moderado,-314.09,0.150,(3 out of 5),Violated,Satisfied
+1020.86,alto,-315.02,2.300,(3 out of 5),Violated,Violated
+1021.11,moderado,-315.13,0.250,(3 out of 5),Violated,Satisfied
+1023.81,baixo,-316.22,2.700,(3 out of 5),Violated,Violated
+1024.26,moderado,-316.41,0.450,(3 out of 5),Violated,Violated
+1025.41,baixo,-316.88,1.150,(3 out of 5),Violated,Violated
+1026.02,moderado,-317.13,0.601,(3 out of 5),Violated,Violated
+1029.96,alto,-318.72,3.949,(3 out of 5),Violated,Violated
+1030.36,moderado,-318.89,0.400,(3 out of 5),Violated,Violated
+1037.66,alto,-321.82,7.300,(3 out of 5),Violated,Violated
+1037.86,moderado,-321.91,0.200,(3 out of 5),Violated,Satisfied
+1039.37,alto,-322.52,1.501,(3 out of 5),Violated,Violated
+1039.71,moderado,-322.67,0.349,(3 out of 5),Violated,Violated
+1041.86,baixo,-323.54,2.150,(3 out of 5),Violated,Violated
+1043.56,moderado,-324.23,1.700,(3 out of 5),Violated,Violated
+1047.51,alto,-325.82,3.950,(3 out of 5),Violated,Violated
+1047.56,moderado,-325.85,0.050,(3 out of 5),Satisfied,Satisfied
+1049.31,alto,-326.56,1.750,(3 out of 5),Violated,Violated
+1054.51,moderado,-328.65,5.200,(3 out of 5),Violated,Violated
+1059.91,baixo,-330.82,5.400,(3 out of 5),Violated,Violated
+1059.96,moderado,-330.85,0.050,(3 out of 5),Satisfied,Satisfied
+1061.21,alto,-331.36,1.250,(3 out of 5),Violated,Violated
+1061.26,moderado,-331.39,0.050,(3 out of 5),Satisfied,Satisfied
+1062.76,alto,-332,1.500,(3 out of 5),Violated,Violated
+1063.51,moderado,-332.31,0.750,(3 out of 5),Violated,Violated
+1064.76,alto,-332.82,1.250,(3 out of 5),Violated,Violated
+1065.17,moderado,-332.99,0.401,(3 out of 5),Violated,Violated
+1068.26,alto,-334.24,3.099,(3 out of 5),Violated,Violated
+1070.36,moderado,-335.09,2.100,(3 out of 5),Violated,Violated
+1073.46,alto,-336.34,3.100,(3 out of 5),Violated,Violated
+1073.86,moderado,-336.51,0.400,(3 out of 5),Violated,Violated
+1076.06,baixo,-337.4,2.200,(3 out of 5),Violated,Violated
+1078.66,moderado,-338.45,2.600,(3 out of 5),Violated,Violated
+1082.41,baixo,-339.96,3.750,(3 out of 5),Violated,Violated
+1082.97,moderado,-340.19,0.551,(3 out of 5),Violated,Violated
+1083.91,baixo,-340.58,0.949,(3 out of 5),Violated,Violated
+1085.21,moderado,-341.11,1.300,(3 out of 5),Violated,Violated
+1086.91,alto,-341.8,1.700,(3 out of 5),Violated,Violated
+1089.32,moderado,-342.77,2.401,(3 out of 5),Violated,Violated
+1089.66,alto,-342.92,0.349,(3 out of 5),Violated,Violated
+1090.56,moderado,-343.29,0.900,(3 out of 5),Violated,Violated
+1092.16,baixo,-343.94,1.600,(3 out of 5),Violated,Violated
+1094.61,moderado,-344.93,2.450,(3 out of 5),Violated,Violated
+1096.11,alto,-345.54,1.500,(3 out of 5),Violated,Violated
+1098.16,moderado,-346.37,2.050,(3 out of 5),Violated,Violated
+1100.31,baixo,-347.24,2.150,(3 out of 5),Violated,Violated
+1100.71,moderado,-347.41,0.400,(3 out of 5),Violated,Violated
+1105.81,baixo,-349.46,5.100,(3 out of 5),Violated,Violated
+1107.31,moderado,-350.07,1.500,(3 out of 5),Violated,Violated
+1107.42,baixo,-350.12,0.101,(3 out of 5),Violated,Satisfied
+1107.76,moderado,-350.27,0.349,(3 out of 5),Violated,Violated
+1107.81,baixo,-350.3,0.050,(3 out of 5),Satisfied,Satisfied
+1107.92,moderado,-350.35,0.101,(3 out of 5),Violated,Satisfied
+1108.26,baixo,-350.5,0.349,(3 out of 5),Violated,Violated
+1109.26,moderado,-350.91,1.000,(3 out of 5),Violated,Violated
+1111.56,baixo,-351.84,2.300,(3 out of 5),Violated,Violated
+1111.86,moderado,-351.97,0.300,(3 out of 5),Violated,Violated
+1113.26,alto,-352.54,1.400,(3 out of 5),Violated,Violated
+1113.31,moderado,-352.57,0.050,(3 out of 5),Satisfied,Satisfied
+1114.41,alto,-353.02,1.100,(3 out of 5),Violated,Violated
+1115.16,moderado,-353.33,0.750,(3 out of 5),Violated,Violated
+1121.66,baixo,-355.94,6.500,(3 out of 5),Violated,Violated
+1125.12,moderado,-357.33,3.452,(3 out of 5),Violated,Violated
+1126.86,baixo,-358.04,1.748,(3 out of 5),Violated,Violated
+1128.86,moderado,-358.85,2.000,(3 out of 5),Violated,Violated
+1130.11,baixo,-359.36,1.250,(3 out of 5),Violated,Violated
+1131.51,moderado,-359.93,1.400,(3 out of 5),Violated,Violated
+1133.26,baixo,-360.64,1.750,(3 out of 5),Violated,Violated
+1135.11,moderado,-361.39,1.850,(3 out of 5),Violated,Violated
+1141.56,baixo,-363.98,6.450,(3 out of 5),Violated,Violated
+1142.96,moderado,-364.55,1.400,(3 out of 5),Violated,Violated
+1144.12,alto,-365.02,1.151,(3 out of 5),Violated,Violated
+1145.26,moderado,-365.49,1.149,(3 out of 5),Violated,Violated
+1146.11,alto,-365.84,0.850,(3 out of 5),Violated,Violated
+1146.36,moderado,-365.95,0.250,(3 out of 5),Violated,Violated
+1148.81,baixo,-366.94,2.450,(3 out of 5),Violated,Violated
+1149.66,moderado,-367.29,0.850,(3 out of 5),Violated,Violated
+1151.56,alto,-368.06,1.900,(3 out of 5),Violated,Violated
+1153.51,moderado,-368.85,1.950,(3 out of 5),Violated,Violated
+1153.76,baixo,-368.96,0.250,(3 out of 5),Violated,Violated
+1155.26,moderado,-369.57,1.500,(3 out of 5),Violated,Violated
+1155.56,baixo,-369.7,0.300,(3 out of 5),Violated,Violated
+1158.41,moderado,-370.85,2.850,(3 out of 5),Violated,Violated
+1161.11,alto,-371.94,2.700,(3 out of 5),Violated,Violated
+1161.16,moderado,-371.97,0.050,(3 out of 5),Satisfied,Satisfied
+1162.46,baixo,-372.5,1.300,(3 out of 5),Violated,Violated
+1162.81,moderado,-372.65,0.350,(3 out of 5),Violated,Violated
+1164.26,baixo,-373.24,1.450,(3 out of 5),Violated,Violated
+1164.66,moderado,-373.41,0.400,(3 out of 5),Violated,Violated
+1168.46,alto,-374.94,3.800,(3 out of 5),Violated,Violated
+1169.11,moderado,-375.21,0.650,(3 out of 5),Violated,Violated
+1169.36,alto,-375.32,0.250,(3 out of 5),Violated,Violated
+1169.66,moderado,-375.45,0.300,(3 out of 5),Violated,Violated
+1170.01,baixo,-375.6,0.350,(3 out of 5),Violated,Violated
+1170.66,moderado,-375.87,0.650,(3 out of 5),Violated,Violated
+1172.66,alto,-376.68,2.000,(3 out of 5),Violated,Violated
+1173.11,moderado,-376.87,0.450,(3 out of 5),Violated,Violated
+1175.81,baixo,-377.96,2.700,(3 out of 5),Violated,Violated
+1177.46,moderado,-378.63,1.650,(3 out of 5),Violated,Violated
+1177.86,baixo,-378.8,0.400,(3 out of 5),Violated,Violated
+1179.06,moderado,-379.29,1.200,(3 out of 5),Violated,Violated
+1180.51,alto,-379.88,1.450,(3 out of 5),Violated,Violated
+1180.76,moderado,-379.99,0.250,(3 out of 5),Violated,Violated
+1181.76,baixo,-380.4,1.000,(3 out of 5),Violated,Violated
+1181.87,moderado,-380.45,0.101,(3 out of 5),Violated,Satisfied
+1182.36,baixo,-380.66,0.499,(3 out of 5),Violated,Violated
+1182.47,moderado,-380.71,0.101,(3 out of 5),Violated,Satisfied
+1183.46,alto,-381.12,0.999,(3 out of 5),Violated,Violated
+1185.01,moderado,-381.75,1.550,(3 out of 5),Violated,Violated
+1190.16,baixo,-383.82,5.150,(3 out of 5),Violated,Violated
+1190.71,moderado,-384.05,0.550,(3 out of 5),Violated,Violated
+1192.96,baixo,-384.96,2.250,(3 out of 5),Violated,Violated
+1193.36,moderado,-385.13,0.400,(3 out of 5),Violated,Violated
+1193.96,baixo,-385.38,0.600,(3 out of 5),Violated,Violated
+1195.46,moderado,-385.99,1.500,(3 out of 5),Violated,Violated
+1197.36,alto,-386.76,1.900,(3 out of 5),Violated,Violated
+1198.66,moderado,-387.29,1.300,(3 out of 5),Violated,Violated
+1203.36,alto,-389.18,4.700,(3 out of 5),Violated,Violated
+1204.76,moderado,-389.75,1.400,(3 out of 5),Violated,Violated
+1205.81,baixo,-390.18,1.050,(3 out of 5),Violated,Violated
+1205.96,moderado,-390.25,0.150,(3 out of 5),Violated,Satisfied
+1208.21,alto,-391.16,2.250,(3 out of 5),Violated,Violated
+1210.36,moderado,-392.03,2.150,(3 out of 5),Violated,Violated
+1210.66,baixo,-392.16,0.300,(3 out of 5),Violated,Violated
+1211.26,moderado,-392.41,0.600,(3 out of 5),Violated,Violated
+1213.36,alto,-393.26,2.100,(3 out of 5),Violated,Violated
+1213.72,moderado,-393.41,0.351,(3 out of 5),Violated,Violated
+1214.71,baixo,-393.82,0.999,(3 out of 5),Violated,Violated
+1214.82,moderado,-393.87,0.101,(3 out of 5),Violated,Satisfied
+1220.01,alto,-395.96,5.199,(3 out of 5),Violated,Violated
+1220.26,moderado,-396.07,0.250,(3 out of 5),Violated,Violated
+1221.51,alto,-396.58,1.250,(3 out of 5),Violated,Violated
+1224.36,moderado,-397.73,2.850,(3 out of 5),Violated,Violated
+1225.86,alto,-398.34,1.500,(3 out of 5),Violated,Violated
+1229.06,moderado,-399.63,3.200,(3 out of 5),Violated,Violated
+1229.11,alto,-399.66,0.050,(3 out of 5),Satisfied,Satisfied
+1229.17,moderado,-399.69,0.051,(3 out of 5),Satisfied,Satisfied
+1237.26,alto,-402.94,8.099,(3 out of 5),Violated,Violated
+1238.26,moderado,-403.35,1.000,(3 out of 5),Violated,Violated
+1239.21,alto,-403.74,0.950,(3 out of 5),Violated,Violated
+1239.66,moderado,-403.93,0.450,(3 out of 5),Violated,Violated
+1240.86,baixo,-404.42,1.200,(3 out of 5),Violated,Violated
+1242.56,moderado,-405.11,1.700,(3 out of 5),Violated,Violated
+1243.76,alto,-405.6,1.200,(3 out of 5),Violated,Violated
+1244.41,moderado,-405.87,0.650,(3 out of 5),Violated,Violated
+1244.91,alto,-406.08,0.500,(3 out of 5),Violated,Violated
+1246.46,moderado,-406.71,1.550,(3 out of 5),Violated,Violated
+1246.81,baixo,-406.86,0.350,(3 out of 5),Violated,Violated
+1247.27,moderado,-407.05,0.451,(3 out of 5),Violated,Violated
+1249.61,baixo,-408,2.349,(3 out of 5),Violated,Violated
+1250.96,moderado,-408.55,1.350,(3 out of 5),Violated,Violated
+1253.01,alto,-409.38,2.050,(3 out of 5),Violated,Violated
+1253.31,moderado,-409.51,0.300,(3 out of 5),Violated,Violated
+1254.16,baixo,-409.86,0.850,(3 out of 5),Violated,Violated
+1255.07,moderado,-410.23,0.901,(3 out of 5),Violated,Violated
+1256.26,baixo,-410.72,1.199,(3 out of 5),Violated,Violated
+1256.56,moderado,-410.85,0.300,(3 out of 5),Violated,Violated
+1258.46,baixo,-411.62,1.900,(3 out of 5),Violated,Violated
+1259.96,moderado,-412.23,1.500,(3 out of 5),Violated,Violated
+1265.26,baixo,-414.36,5.300,(3 out of 5),Violated,Violated
+1265.31,moderado,-414.39,0.050,(3 out of 5),Satisfied,Satisfied
+1267.71,baixo,-415.36,2.400,(3 out of 5),Violated,Violated
+1268.36,moderado,-415.63,0.650,(3 out of 5),Violated,Violated
+1271.51,alto,-416.9,3.150,(3 out of 5),Violated,Violated
+1272.41,moderado,-417.27,0.900,(3 out of 5),Violated,Violated
+1277.71,alto,-419.4,5.300,(3 out of 5),Violated,Violated
+1279.36,moderado,-420.07,1.650,(3 out of 5),Violated,Violated
+1282.07,baixo,-421.16,2.702,(3 out of 5),Violated,Violated
+1282.31,moderado,-421.27,0.247,(3 out of 5),Violated,Satisfied
+1283.51,alto,-421.76,1.200,(3 out of 5),Violated,Violated
+1284.71,moderado,-422.25,1.200,(3 out of 5),Violated,Violated
+1288.56,baixo,-423.8,3.850,(3 out of 5),Violated,Violated
+1289.16,moderado,-424.05,0.600,(3 out of 5),Violated,Violated
+1290.61,baixo,-424.64,1.450,(3 out of 5),Violated,Violated
+1291.51,moderado,-425.01,0.900,(3 out of 5),Violated,Violated
+1292.06,baixo,-425.24,0.550,(3 out of 5),Violated,Violated
+1293.91,moderado,-425.99,1.850,(3 out of 5),Violated,Violated
+1294.11,alto,-426.08,0.200,(3 out of 5),Violated,Satisfied
+1294.46,moderado,-426.23,0.350,(3 out of 5),Violated,Violated
+1294.96,baixo,-426.44,0.500,(3 out of 5),Violated,Violated
+1297.47,moderado,-427.45,2.501,(3 out of 5),Violated,Violated
+1297.71,alto,-427.56,0.249,(3 out of 5),Violated,Satisfied
+1298.76,moderado,-427.99,1.050,(3 out of 5),Violated,Violated
+1298.87,alto,-428.04,0.101,(3 out of 5),Violated,Satisfied
+1299.61,moderado,-428.35,0.749,(3 out of 5),Violated,Violated
+1299.86,baixo,-428.46,0.250,(3 out of 5),Violated,Satisfied
+1303.71,moderado,-430.01,3.850,(3 out of 5),Violated,Violated
+1305.16,alto,-430.6,1.450,(3 out of 5),Violated,Violated
+1305.41,moderado,-430.71,0.250,(3 out of 5),Violated,Violated
+1306.11,baixo,-431,0.700,(3 out of 5),Violated,Violated
+1308.01,moderado,-431.77,1.900,(3 out of 5),Violated,Violated
+1308.91,alto,-432.14,0.900,(3 out of 5),Violated,Violated
+1309.66,moderado,-432.45,0.750,(3 out of 5),Violated,Violated
+1310.16,alto,-432.66,0.500,(3 out of 5),Violated,Violated
+1310.81,moderado,-432.93,0.650,(3 out of 5),Violated,Violated
+1312.81,baixo,-433.74,2.000,(3 out of 5),Violated,Violated
+1312.86,moderado,-433.77,0.050,(3 out of 5),Satisfied,Satisfied
+1315.01,alto,-434.64,2.150,(3 out of 5),Violated,Violated
+1316.16,moderado,-435.11,1.150,(3 out of 5),Violated,Violated
+1319.51,alto,-436.46,3.350,(3 out of 5),Violated,Violated
+1320.96,moderado,-437.05,1.450,(3 out of 5),Violated,Violated
+1321.56,baixo,-437.3,0.600,(3 out of 5),Violated,Violated
+1323.96,moderado,-438.27,2.400,(3 out of 5),Violated,Violated
+1328.06,baixo,-439.92,4.100,(3 out of 5),Violated,Violated
+1329.96,moderado,-440.69,1.900,(3 out of 5),Violated,Violated
+1339.91,baixo,-444.68,9.950,(3 out of 5),Violated,Violated
+1340.71,moderado,-445.01,0.800,(3 out of 5),Violated,Violated
+1345.21,alto,-446.82,4.500,(3 out of 5),Violated,Violated
+1346.86,moderado,-447.49,1.650,(3 out of 5),Violated,Violated
+1350.51,baixo,-448.96,3.650,(3 out of 5),Violated,Violated
+1350.56,moderado,-448.99,0.050,(3 out of 5),Satisfied,Satisfied
+1356.56,baixo,-451.4,6.000,(3 out of 5),Violated,Violated
+1361.21,moderado,-453.27,4.650,(3 out of 5),Violated,Violated
+1362.06,baixo,-453.62,0.850,(3 out of 5),Violated,Violated
+1362.56,moderado,-453.83,0.500,(3 out of 5),Violated,Violated
+1363.31,alto,-454.14,0.750,(3 out of 5),Violated,Violated
+1365.16,moderado,-454.89,1.850,(3 out of 5),Violated,Violated
+1366.02,baixo,-455.24,0.851,(3 out of 5),Violated,Violated
+1367.96,moderado,-456.03,1.949,(3 out of 5),Violated,Violated
+1376.76,alto,-459.56,8.800,(3 out of 5),Violated,Violated
+1376.82,moderado,-459.59,0.051,(3 out of 5),Satisfied,Satisfied
+1378.22,baixo,-460.16,1.400,(3 out of 5),Violated,Violated
+1378.76,moderado,-460.39,0.549,(3 out of 5),Violated,Violated
+1381.76,baixo,-461.6,3.000,(3 out of 5),Violated,Violated
+1382.11,moderado,-461.75,0.350,(3 out of 5),Violated,Violated
+1382.46,alto,-461.9,0.350,(3 out of 5),Violated,Violated
+1383.26,moderado,-462.23,0.800,(3 out of 5),Violated,Violated
+1386.36,baixo,-463.48,3.100,(3 out of 5),Violated,Violated
+1386.81,moderado,-463.67,0.450,(3 out of 5),Violated,Violated
+1386.92,baixo,-463.72,0.101,(3 out of 5),Violated,Satisfied
+1389.06,moderado,-464.59,2.149,(3 out of 5),Violated,Violated
+1390.46,baixo,-465.16,1.400,(3 out of 5),Violated,Violated
+1392.11,moderado,-465.83,1.650,(3 out of 5),Violated,Violated
+1395.96,baixo,-467.38,3.850,(3 out of 5),Violated,Violated
+1397.41,moderado,-467.97,1.450,(3 out of 5),Violated,Violated
+1398.56,alto,-468.44,1.150,(3 out of 5),Violated,Violated
+1398.96,moderado,-468.61,0.400,(3 out of 5),Violated,Violated
+1402.26,baixo,-469.94,3.300,(3 out of 5),Violated,Violated
+1402.56,moderado,-470.07,0.300,(3 out of 5),Violated,Violated
+1406.51,alto,-471.66,3.950,(3 out of 5),Violated,Violated
+1409.21,moderado,-472.75,2.700,(3 out of 5),Violated,Violated
+1410.21,baixo,-473.16,1.000,(3 out of 5),Violated,Violated
+1412.21,moderado,-473.97,2.000,(3 out of 5),Violated,Violated
+1412.41,alto,-474.06,0.200,(3 out of 5),Violated,Satisfied
+1412.61,moderado,-474.15,0.200,(3 out of 5),Violated,Satisfied
+1413.61,alto,-474.56,1.000,(3 out of 5),Violated,Violated
+1414.96,moderado,-475.11,1.350,(3 out of 5),Violated,Violated
+1415.51,alto,-475.34,0.550,(3 out of 5),Violated,Violated
+1415.56,moderado,-475.37,0.050,(3 out of 5),Satisfied,Satisfied
+1415.96,baixo,-475.54,0.400,(3 out of 5),Violated,Violated
+1416.51,moderado,-475.77,0.550,(3 out of 5),Violated,Violated
+1417.91,alto,-476.34,1.400,(3 out of 5),Violated,Violated
+1418.86,moderado,-476.73,0.950,(3 out of 5),Violated,Violated
+1419.16,alto,-476.86,0.300,(3 out of 5),Violated,Violated
+1420.71,moderado,-477.49,1.550,(3 out of 5),Violated,Violated
+1421.41,alto,-477.78,0.700,(3 out of 5),Violated,Violated
+1421.46,moderado,-477.81,0.050,(3 out of 5),Satisfied,Satisfied
+1424.51,baixo,-479.04,3.050,(3 out of 5),Violated,Violated
+1426.96,moderado,-480.03,2.450,(3 out of 5),Violated,Violated
+1430.71,baixo,-481.54,3.750,(3 out of 5),Violated,Violated
+1433.56,moderado,-482.69,2.850,(3 out of 5),Violated,Violated
+1433.61,baixo,-482.72,0.050,(3 out of 5),Satisfied,Satisfied
+1434.21,moderado,-482.97,0.600,(3 out of 5),Violated,Violated
+1438.86,alto,-484.84,4.650,(3 out of 5),Violated,Violated
+1439.06,moderado,-484.93,0.200,(3 out of 5),Violated,Satisfied
+1439.51,baixo,-485.12,0.450,(3 out of 5),Violated,Violated
+1439.56,moderado,-485.15,0.050,(3 out of 5),Satisfied,Satisfied
+1440.56,baixo,-485.56,1.000,(3 out of 5),Violated,Violated
+1441.76,moderado,-486.05,1.200,(3 out of 5),Violated,Violated
+1441.81,baixo,-486.08,0.050,(3 out of 5),Satisfied,Satisfied
+1441.87,moderado,-486.11,0.051,(3 out of 5),Satisfied,Satisfied
+1445.41,baixo,-487.54,3.549,(3 out of 5),Violated,Violated
+1446.66,moderado,-488.05,1.250,(3 out of 5),Violated,Violated
+1448.81,alto,-488.92,2.150,(3 out of 5),Violated,Violated
+1449.11,moderado,-489.05,0.300,(3 out of 5),Violated,Violated
+1450.31,baixo,-489.54,1.200,(3 out of 5),Violated,Violated
+1451.66,moderado,-490.09,1.350,(3 out of 5),Violated,Violated
+1451.71,baixo,-490.12,0.050,(3 out of 5),Satisfied,Satisfied
+1452.26,moderado,-490.35,0.550,(3 out of 5),Violated,Violated
+1454.01,alto,-491.06,1.750,(3 out of 5),Violated,Violated
+1454.06,moderado,-491.09,0.050,(3 out of 5),Satisfied,Satisfied
+1455.01,baixo,-491.48,0.950,(3 out of 5),Violated,Violated
+1456.66,moderado,-492.15,1.650,(3 out of 5),Violated,Violated
+1460.16,alto,-493.56,3.500,(3 out of 5),Violated,Violated
+1460.51,moderado,-493.71,0.350,(3 out of 5),Violated,Violated
+1460.91,alto,-493.88,0.400,(3 out of 5),Violated,Violated
+1461.36,moderado,-494.07,0.450,(3 out of 5),Violated,Violated
+1462.62,baixo,-494.58,1.251,(3 out of 5),Violated,Violated
+1462.81,moderado,-494.67,0.199,(3 out of 5),Violated,Satisfied
+1466.36,alto,-496.1,3.550,(3 out of 5),Violated,Violated
+1466.41,moderado,-496.13,0.050,(3 out of 5),Satisfied,Satisfied
+1467.41,baixo,-496.54,1.000,(3 out of 5),Violated,Violated
+1468.16,moderado,-496.85,0.750,(3 out of 5),Violated,Violated
+1468.66,alto,-497.06,0.500,(3 out of 5),Violated,Violated
+1469.06,moderado,-497.23,0.400,(3 out of 5),Violated,Violated
+1470.01,baixo,-497.62,0.950,(3 out of 5),Violated,Violated
+1472.01,moderado,-498.43,2.000,(3 out of 5),Violated,Violated
+1474.01,baixo,-499.24,2.000,(3 out of 5),Violated,Violated
+1474.21,moderado,-499.33,0.200,(3 out of 5),Violated,Satisfied
+1477.06,alto,-500.48,2.850,(3 out of 5),Violated,Violated
+1477.61,moderado,-500.71,0.550,(3 out of 5),Violated,Violated
+1478.01,alto,-500.88,0.400,(3 out of 5),Violated,Violated
+1482.22,baixo,-502.57,4.201,(3 out of 5),Violated,Violated
+1484.81,moderado,-503.62,2.599,(3 out of 5),Violated,Violated
+1485.41,baixo,-503.87,0.600,(3 out of 5),Violated,Violated
+1486.71,moderado,-504.4,1.300,(3 out of 5),Violated,Violated
+1491.11,baixo,-506.17,4.400,(3 out of 5),Violated,Violated
+1491.86,moderado,-506.48,0.750,(3 out of 5),Violated,Violated
+1494.31,baixo,-507.47,2.450,(3 out of 5),Violated,Violated
+1494.81,moderado,-507.68,0.500,(3 out of 5),Violated,Violated
+1494.92,alto,-507.73,0.101,(3 out of 5),Violated,Satisfied
+1495.36,moderado,-507.92,0.449,(3 out of 5),Violated,Violated
+1496.31,baixo,-508.31,0.950,(3 out of 5),Violated,Violated
+1497.87,moderado,-508.94,1.551,(3 out of 5),Violated,Violated
+1499.06,alto,-509.43,1.199,(3 out of 5),Violated,Violated
+1502.21,moderado,-510.7,3.150,(3 out of 5),Violated,Violated
+1502.26,alto,-510.73,0.050,(3 out of 5),Satisfied,Satisfied
+1502.32,moderado,-510.76,0.051,(3 out of 5),Satisfied,Satisfied
+1502.66,alto,-510.91,0.349,(3 out of 5),Violated,Violated
+1502.96,moderado,-511.04,0.300,(3 out of 5),Violated,Violated
+1505.81,alto,-512.19,2.850,(3 out of 5),Violated,Violated
+1507.01,moderado,-512.68,1.200,(3 out of 5),Violated,Violated
+1507.61,baixo,-512.93,0.600,(3 out of 5),Violated,Violated
+1509.36,moderado,-513.64,1.750,(3 out of 5),Violated,Violated
+1510.11,baixo,-513.95,0.750,(3 out of 5),Violated,Violated
+1510.86,moderado,-514.26,0.750,(3 out of 5),Violated,Violated
+1512.26,baixo,-514.83,1.400,(3 out of 5),Violated,Violated
+1516.41,moderado,-516.5,4.150,(3 out of 5),Violated,Violated
+1518.11,baixo,-517.19,1.700,(3 out of 5),Violated,Violated
+1520.01,moderado,-517.96,1.900,(3 out of 5),Violated,Violated
+1522.86,baixo,-519.11,2.850,(3 out of 5),Violated,Violated
+1523.51,moderado,-519.38,0.650,(3 out of 5),Violated,Violated
+1526.56,alto,-520.61,3.050,(3 out of 5),Violated,Violated
+1526.86,moderado,-520.74,0.300,(3 out of 5),Violated,Violated
+1532.21,baixo,-522.89,5.350,(3 out of 5),Violated,Violated
+1538.96,moderado,-525.6,6.750,(3 out of 5),Violated,Violated
+1539.26,baixo,-525.73,0.300,(3 out of 5),Violated,Violated
+1540.31,moderado,-526.16,1.050,(3 out of 5),Violated,Violated
+1541.11,baixo,-526.49,0.800,(3 out of 5),Violated,Violated
+1543.11,moderado,-527.3,2.000,(3 out of 5),Violated,Violated
+1544.16,alto,-527.73,1.050,(3 out of 5),Violated,Violated
+1544.71,moderado,-527.96,0.550,(3 out of 5),Violated,Violated
+1546.06,alto,-528.51,1.350,(3 out of 5),Violated,Violated
+1546.11,moderado,-528.54,0.050,(3 out of 5),Satisfied,Satisfied
+1548.21,baixo,-529.39,2.100,(3 out of 5),Violated,Violated
+1548.51,moderado,-529.52,0.300,(3 out of 5),Violated,Violated
+1551.31,alto,-530.65,2.800,(3 out of 5),Violated,Violated
+1552.16,moderado,-531,0.850,(3 out of 5),Violated,Violated
+1556.16,alto,-532.61,4.000,(3 out of 5),Violated,Violated
+1556.56,moderado,-532.78,0.400,(3 out of 5),Violated,Violated
+1557.56,alto,-533.19,1.000,(3 out of 5),Violated,Violated
+1557.81,moderado,-533.3,0.250,(3 out of 5),Violated,Violated
+1559.61,alto,-534.03,1.800,(3 out of 5),Violated,Violated
+1560.11,moderado,-534.24,0.500,(3 out of 5),Violated,Violated
+1562.72,alto,-535.29,2.601,(3 out of 5),Violated,Violated
+1562.76,moderado,-535.32,0.049,(3 out of 5),Satisfied,Satisfied
+1562.82,alto,-535.35,0.051,(3 out of 5),Satisfied,Satisfied
+1563.11,moderado,-535.48,0.299,(3 out of 5),Violated,Violated
+1564.51,alto,-536.05,1.400,(3 out of 5),Violated,Violated
+1565.71,moderado,-536.54,1.200,(3 out of 5),Violated,Violated
+1570.16,alto,-538.33,4.450,(3 out of 5),Violated,Violated
+1572.06,moderado,-539.1,1.900,(3 out of 5),Violated,Violated
+1572.11,alto,-539.13,0.050,(3 out of 5),Satisfied,Satisfied
+1573.11,moderado,-539.54,1.000,(3 out of 5),Violated,Violated
+1579.01,alto,-541.91,5.900,(3 out of 5),Violated,Violated
+1580.26,moderado,-542.42,1.250,(3 out of 5),Violated,Violated
+1581.56,alto,-542.95,1.300,(3 out of 5),Violated,Violated
+1583.51,baixo,-543.74,1.950,(3 out of 5),Violated,Violated
+1586.56,moderado,-544.97,3.050,(3 out of 5),Violated,Violated
+1589.11,baixo,-546,2.550,(3 out of 5),Violated,Violated
+1589.31,moderado,-546.09,0.200,(3 out of 5),Violated,Satisfied
+1589.61,baixo,-546.22,0.300,(3 out of 5),Violated,Violated
+1591.41,moderado,-546.95,1.800,(3 out of 5),Violated,Violated
+1594.06,alto,-548.02,2.650,(3 out of 5),Violated,Violated
+1594.11,moderado,-548.05,0.050,(3 out of 5),Satisfied,Satisfied
+1595.51,alto,-548.62,1.400,(3 out of 5),Violated,Violated
+1597.06,moderado,-549.25,1.550,(3 out of 5),Violated,Violated
+1597.26,alto,-549.34,0.200,(3 out of 5),Violated,Satisfied
+1598.26,moderado,-549.75,1.000,(3 out of 5),Violated,Violated
+1598.31,alto,-549.78,0.050,(3 out of 5),Satisfied,Satisfied
+1600.06,moderado,-550.49,1.750,(3 out of 5),Violated,Violated
+1605.76,alto,-552.78,5.700,(3 out of 5),Violated,Violated
+1606.66,moderado,-553.15,0.900,(3 out of 5),Violated,Violated
+1608.41,baixo,-553.86,1.750,(3 out of 5),Violated,Violated
+1610.07,moderado,-554.53,1.651,(3 out of 5),Violated,Violated
+1610.21,baixo,-554.6,0.149,(3 out of 5),Violated,Satisfied
+1610.51,moderado,-554.73,0.300,(3 out of 5),Violated,Violated
+1627.36,alto,-561.48,16.850,(3 out of 5),Violated,Violated
+1627.81,moderado,-561.67,0.450,(3 out of 5),Violated,Violated
+1627.86,alto,-561.7,0.050,(3 out of 5),Satisfied,Satisfied
+1629.36,moderado,-562.31,1.500,(3 out of 5),Violated,Violated
+1632.66,alto,-563.64,3.300,(3 out of 5),Violated,Violated
+1633.96,moderado,-564.17,1.300,(3 out of 5),Violated,Violated
+1638.66,baixo,-566.06,4.700,(3 out of 5),Violated,Violated
+1639.06,moderado,-566.23,0.400,(3 out of 5),Violated,Violated
+1639.96,alto,-566.6,0.900,(3 out of 5),Violated,Violated
+1640.66,moderado,-566.89,0.700,(3 out of 5),Violated,Violated
+1640.96,alto,-567.02,0.300,(3 out of 5),Violated,Violated
+1643.06,moderado,-567.87,2.100,(3 out of 5),Violated,Violated
+1646.16,alto,-569.12,3.100,(3 out of 5),Violated,Violated
+1647.16,moderado,-569.53,1.000,(3 out of 5),Violated,Violated
+1647.81,alto,-569.8,0.650,(3 out of 5),Violated,Violated
+1651.66,moderado,-571.35,3.850,(3 out of 5),Violated,Violated
+1652.96,alto,-571.88,1.300,(3 out of 5),Violated,Violated
+1654.66,moderado,-572.57,1.700,(3 out of 5),Violated,Violated
+1656.26,baixo,-573.22,1.600,(3 out of 5),Violated,Violated
+1658.41,moderado,-574.09,2.150,(3 out of 5),Violated,Violated
+1658.66,alto,-574.2,0.250,(3 out of 5),Violated,Violated
+1661.81,moderado,-575.47,3.150,(3 out of 5),Violated,Violated
+1664.56,baixo,-576.58,2.750,(3 out of 5),Violated,Violated
+1664.71,moderado,-576.65,0.150,(3 out of 5),Violated,Satisfied
+1666.51,baixo,-577.38,1.800,(3 out of 5),Violated,Violated
+1666.81,moderado,-577.51,0.300,(3 out of 5),Violated,Violated
+1669.26,baixo,-578.5,2.450,(3 out of 5),Violated,Violated
+1670.06,moderado,-578.83,0.800,(3 out of 5),Violated,Violated
+1672.62,alto,-579.86,2.551,(3 out of 5),Violated,Violated
+1672.66,moderado,-579.89,0.049,(3 out of 5),Satisfied,Satisfied
+1673.21,alto,-580.12,0.550,(3 out of 5),Violated,Violated
+1673.86,moderado,-580.39,0.650,(3 out of 5),Violated,Violated
+1676.86,alto,-581.6,3.000,(3 out of 5),Violated,Violated
+1680.16,moderado,-582.93,3.300,(3 out of 5),Violated,Violated
+1682.42,baixo,-583.84,2.251,(3 out of 5),Violated,Violated
+1683.62,moderado,-584.33,1.200,(3 out of 5),Violated,Violated
+1684.71,baixo,-584.78,1.099,(3 out of 5),Violated,Violated
+1684.91,moderado,-584.87,0.200,(3 out of 5),Violated,Satisfied
+1687.16,baixo,-585.78,2.250,(3 out of 5),Violated,Violated
+1689.36,moderado,-586.67,2.200,(3 out of 5),Violated,Violated
+1689.91,baixo,-586.9,0.550,(3 out of 5),Violated,Violated
+1691.31,moderado,-587.47,1.400,(3 out of 5),Violated,Violated
+1691.36,baixo,-587.5,0.050,(3 out of 5),Satisfied,Satisfied
+1691.42,moderado,-587.53,0.051,(3 out of 5),Satisfied,Satisfied
+1693.01,alto,-588.18,1.599,(3 out of 5),Violated,Violated
+1693.31,moderado,-588.31,0.300,(3 out of 5),Violated,Violated
+1693.36,alto,-588.34,0.050,(3 out of 5),Satisfied,Satisfied
+1694.16,moderado,-588.67,0.800,(3 out of 5),Violated,Violated
+1694.27,alto,-588.72,0.101,(3 out of 5),Violated,Satisfied
+1695.46,moderado,-589.21,1.199,(3 out of 5),Violated,Violated
+1700.76,alto,-591.34,5.300,(3 out of 5),Violated,Violated
+1700.81,moderado,-591.37,0.050,(3 out of 5),Satisfied,Satisfied
+1701.81,baixo,-591.78,1.000,(3 out of 5),Violated,Violated
+1702.51,moderado,-592.07,0.700,(3 out of 5),Violated,Violated
+1704.61,alto,-592.92,2.100,(3 out of 5),Violated,Violated
+1704.66,moderado,-592.95,0.050,(3 out of 5),Satisfied,Satisfied
+1705.56,alto,-593.32,0.900,(3 out of 5),Violated,Violated
+1706.01,moderado,-593.51,0.450,(3 out of 5),Violated,Violated
+1706.16,baixo,-593.58,0.150,(3 out of 5),Violated,Satisfied
+1707.96,moderado,-594.31,1.800,(3 out of 5),Violated,Violated
+1709.96,alto,-595.12,2.000,(3 out of 5),Violated,Violated
+1711.11,moderado,-595.59,1.150,(3 out of 5),Violated,Violated
+1711.41,baixo,-595.72,0.300,(3 out of 5),Violated,Violated
+1711.66,moderado,-595.83,0.250,(3 out of 5),Violated,Violated
+1714.66,alto,-597.04,3.000,(3 out of 5),Violated,Violated
+1719.41,moderado,-598.95,4.750,(3 out of 5),Violated,Violated
+1720.11,alto,-599.24,0.700,(3 out of 5),Violated,Violated
+1721.11,moderado,-599.65,1.000,(3 out of 5),Violated,Violated
+1723.66,alto,-600.68,2.550,(3 out of 5),Violated,Violated
+1724.56,moderado,-601.05,0.900,(3 out of 5),Violated,Violated
+1727.41,baixo,-602.2,2.850,(3 out of 5),Violated,Violated
+1729.21,moderado,-602.93,1.800,(3 out of 5),Violated,Violated
+1729.61,baixo,-603.1,0.400,(3 out of 5),Violated,Violated
+1731.36,moderado,-603.81,1.750,(3 out of 5),Violated,Violated
+1732.11,baixo,-604.12,0.750,(3 out of 5),Violated,Violated
+1732.16,moderado,-604.15,0.050,(3 out of 5),Satisfied,Satisfied
+32.2904,baixo,89.34,21.128,(4 out of 5),Violated,Violated
+44.3583,moderado,85.51,12.068,(4 out of 5),Violated,Violated
+59.8425,alto,80.6,15.484,(4 out of 5),Violated,Violated
+74.5828,moderado,75.95,14.740,(4 out of 5),Violated,Violated
+95.3945,baixo,69.32,20.812,(4 out of 5),Violated,Violated
+112,moderado,64.13,16.420,(4 out of 5),Violated,Violated
+153,baixo,51.14,41.112,(4 out of 5),Violated,Violated
+155,moderado,50.37,2.392,(4 out of 5),Violated,Violated
+157,baixo,49.72,2.040,(4 out of 5),Violated,Violated
+172,moderado,45.01,14.896,(4 out of 5),Violated,Violated
+176,baixo,43.78,3.868,(4 out of 5),Violated,Violated
+177,moderado,43.47,0.960,(4 out of 5),Violated,Violated
+196,baixo,37.64,18.440,(4 out of 5),Violated,Violated
+199,moderado,36.61,3.216,(4 out of 5),Violated,Violated
+207,baixo,34.1,7.876,(4 out of 5),Violated,Violated
+215,moderado,31.53,8.040,(4 out of 5),Violated,Violated
+235,baixo,25.14,20.088,(4 out of 5),Violated,Violated
+238,moderado,24.07,3.336,(4 out of 5),Violated,Violated
+281,baixo,10.48,43.040,(4 out of 5),Violated,Violated
+282.45,moderado,10.05,1.331,(4 out of 5),Violated,Violated
+291,alto,7.28,8.749,(4 out of 5),Violated,Violated
+297,moderado,5.39,5.952,(4 out of 5),Violated,Violated
+323.89,alto,-3.06,26.740,(4 out of 5),Violated,Violated
+342,moderado,-8.69,17.780,(4 out of 5),Violated,Violated
+382,alto,-21.32,39.988,(4 out of 5),Violated,Violated
+384,moderado,-21.97,2.000,(4 out of 5),Violated,Violated
+403,baixo,-28.02,19.140,(4 out of 5),Violated,Violated
+405,moderado,-28.77,2.340,(4 out of 5),Violated,Violated
+420,baixo,-33.52,14.992,(4 out of 5),Violated,Violated
+420,moderado,-33.59,0.192,(4 out of 5),Violated,Satisfied
+441,baixo,-40.12,20.564,(4 out of 5),Violated,Violated
+445,moderado,-41.57,4.564,(4 out of 5),Violated,Violated
+455,alto,-44.7,9.863,(4 out of 5),Violated,Violated
+466,moderado,-48.21,11.101,(4 out of 5),Violated,Violated
+471,baixo,-49.56,4.220,(4 out of 5),Violated,Violated
+474,moderado,-50.65,3.432,(4 out of 5),Violated,Violated
+499,baixo,-58.56,25.028,(4 out of 5),Violated,Violated
+500,moderado,-58.87,0.944,(4 out of 5),Violated,Violated
+504,baixo,-59.98,3.504,(4 out of 5),Violated,Violated
+518,moderado,-64.51,14.316,(4 out of 5),Violated,Violated
+519,alto,-64.82,0.952,(4 out of 5),Violated,Violated
+527,moderado,-67.47,8.360,(4 out of 5),Violated,Violated
+646,baixo,-105.04,119.024,(4 out of 5),Violated,Violated
+653,moderado,-107.11,6.536,(4 out of 5),Violated,Violated
+660,baixo,-109.5,7.544,(4 out of 5),Violated,Violated
+662,moderado,-110.05,1.724,(4 out of 5),Violated,Violated
+668,baixo,-112,6.176,(4 out of 5),Violated,Violated
+682,moderado,-116.53,14.260,(4 out of 5),Violated,Violated
+748,alto,-137.28,65.716,(4 out of 5),Violated,Violated
+756,moderado,-139.91,8.316,(4 out of 5),Violated,Violated
+777,alto,-146.34,20.292,(4 out of 5),Violated,Violated
+782,moderado,-147.91,4.928,(4 out of 5),Violated,Violated
+786,alto,-149.22,4.124,(4 out of 5),Violated,Violated
+802,moderado,-154.19,15.708,(4 out of 5),Violated,Violated
+853,baixo,-170.4,51.408,(4 out of 5),Violated,Violated
+864,moderado,-173.87,10.952,(4 out of 5),Violated,Violated
+874,baixo,-177.12,10.277,(4 out of 5),Violated,Violated
+876,moderado,-177.65,1.660,(4 out of 5),Violated,Violated
+882,baixo,-179.72,6.568,(4 out of 5),Violated,Violated
+899,moderado,-185.11,17.032,(4 out of 5),Violated,Violated
+909,alto,-188.26,9.972,(4 out of 5),Violated,Violated
+934,moderado,-196.09,24.780,(4 out of 5),Violated,Violated
+947,baixo,-200.12,12.752,(4 out of 5),Violated,Violated
+972,moderado,-207.93,24.720,(4 out of 5),Violated,Violated
+1004.39,baixo,-218.26,32.755,(4 out of 5),Violated,Violated
+1013.11,moderado,-221.01,8.712,(4 out of 5),Violated,Violated
+1041.84,baixo,-230.1,28.732,(4 out of 5),Violated,Violated
+1045.01,moderado,-231.11,3.172,(4 out of 5),Violated,Violated
+1073.43,baixo,-240.08,28.420,(4 out of 5),Violated,Violated
+1078.67,moderado,-241.75,5.244,(4 out of 5),Violated,Violated
+1085.32,baixo,-243.86,6.649,(4 out of 5),Violated,Violated
+1096.14,moderado,-247.29,10.820,(4 out of 5),Violated,Violated
+1103,alto,-249.46,6.856,(4 out of 5),Violated,Violated
+1104.41,moderado,-249.91,1.408,(4 out of 5),Violated,Violated
+1118.7,alto,-254.42,14.293,(4 out of 5),Violated,Violated
+1119.65,moderado,-254.73,0.952,(4 out of 5),Violated,Violated
+1149.17,baixo,-264.06,29.516,(4 out of 5),Violated,Violated
+1154.07,moderado,-265.61,4.904,(4 out of 5),Violated,Violated
+1161.79,baixo,-268.06,7.720,(4 out of 5),Violated,Violated
+1181.37,moderado,-274.25,19.580,(4 out of 5),Violated,Violated
+1185.67,baixo,-275.62,4.296,(4 out of 5),Violated,Violated
+1204.77,moderado,-281.67,19.104,(4 out of 5),Violated,Violated
+1296.43,alto,-310.62,91.656,(4 out of 5),Violated,Violated
+1307.34,moderado,-314.09,10.917,(4 out of 5),Violated,Violated
+1315.77,alto,-316.76,8.432,(4 out of 5),Violated,Violated
+1320.24,moderado,-318.17,4.464,(4 out of 5),Violated,Violated
+1326.69,baixo,-320.24,6.456,(4 out of 5),Violated,Violated
+1332.23,moderado,-321.99,5.532,(4 out of 5),Violated,Violated
+1346.33,baixo,-326.46,14.104,(4 out of 5),Violated,Violated
+1359.77,moderado,-330.71,13.436,(4 out of 5),Violated,Violated
+1372.14,baixo,-334.62,12.372,(4 out of 5),Violated,Violated
+1372.77,moderado,-334.83,0.636,(4 out of 5),Violated,Violated
+1380.81,baixo,-337.38,8.036,(4 out of 5),Violated,Violated
+1387.29,moderado,-339.43,6.484,(4 out of 5),Violated,Violated
+1401.63,alto,-343.96,14.340,(4 out of 5),Violated,Violated
+1405,moderado,-345.03,3.369,(4 out of 5),Violated,Violated
+1416.61,alto,-348.7,11.608,(4 out of 5),Violated,Violated
+1425.76,moderado,-351.61,9.152,(4 out of 5),Violated,Violated
+1431.08,alto,-353.3,5.316,(4 out of 5),Violated,Violated
+1434.87,moderado,-354.51,3.788,(4 out of 5),Violated,Violated
+1437.59,baixo,-355.38,2.728,(4 out of 5),Violated,Violated
+1452.8,moderado,-360.19,15.208,(4 out of 5),Violated,Violated
+1472.57,baixo,-366.44,19.772,(4 out of 5),Violated,Violated
+1476.44,moderado,-367.67,3.864,(4 out of 5),Violated,Violated
+1479.16,baixo,-368.54,2.720,(4 out of 5),Violated,Violated
+1486.33,moderado,-370.81,7.172,(4 out of 5),Violated,Violated
+1501.14,alto,-375.5,14.812,(4 out of 5),Violated,Violated
+1523.01,moderado,-382.43,21.864,(4 out of 5),Violated,Violated
+1562.89,baixo,-395.04,39.880,(4 out of 5),Violated,Violated
+1563.39,moderado,-395.21,0.508,(4 out of 5),Violated,Violated
+1568.1,alto,-396.7,4.704,(4 out of 5),Violated,Violated
+1569.49,moderado,-397.15,1.396,(4 out of 5),Violated,Violated
+1635.69,baixo,-418.02,66.200,(4 out of 5),Violated,Violated
+1647.66,moderado,-421.81,11.968,(4 out of 5),Violated,Violated
+1657.35,baixo,-424.88,9.688,(4 out of 5),Violated,Violated
+1693.97,moderado,-436.47,36.623,(4 out of 5),Violated,Violated
+1712.62,baixo,-442.36,18.649,(4 out of 5),Violated,Violated
+1730.12,moderado,-447.89,17.500,(4 out of 5),Violated,Violated
+1741.89,alto,-451.62,11.768,(4 out of 5),Violated,Violated
+1743.86,moderado,-452.25,1.968,(4 out of 5),Violated,Violated
+1752.21,baixo,-454.88,8.356,(4 out of 5),Violated,Violated
+1752.98,moderado,-455.13,0.764,(4 out of 5),Violated,Violated
+1765.7,alto,-459.16,12.720,(4 out of 5),Violated,Violated
+1786.65,moderado,-465.77,20.948,(4 out of 5),Violated,Violated
+1788.36,baixo,-466.32,1.712,(4 out of 5),Violated,Violated
+1790.47,moderado,-466.99,2.108,(4 out of 5),Violated,Violated
+1792.37,alto,-467.6,1.900,(4 out of 5),Violated,Violated
+1795.29,moderado,-468.53,2.924,(4 out of 5),Violated,Violated
+1798.65,baixo,-469.6,3.356,(4 out of 5),Violated,Violated
+1799.41,moderado,-469.85,0.760,(4 out of 5),Violated,Violated
+1816.46,baixo,-475.24,17.052,(4 out of 5),Violated,Violated
+1823.86,moderado,-477.59,7.400,(4 out of 5),Violated,Violated
+1860.75,baixo,-489.24,36.888,(4 out of 5),Violated,Violated
+1866.35,moderado,-491.03,5.604,(4 out of 5),Violated,Violated
+1892.07,baixo,-499.16,25.724,(4 out of 5),Violated,Violated
+1892.58,moderado,-499.33,0.508,(4 out of 5),Violated,Violated
+1922.4,alto,-508.9,29.819,(4 out of 5),Violated,Violated
+1933.7,moderado,-512.55,11.297,(4 out of 5),Violated,Violated
+2026.71,baixo,-542.44,93.016,(4 out of 5),Violated,Violated
+2029.72,moderado,-543.41,3.004,(4 out of 5),Violated,Violated
+2084.72,baixo,-560.98,55.000,(4 out of 5),Violated,Violated
+2094.19,moderado,-564.01,9.468,(4 out of 5),Violated,Violated
+2109.45,alto,-568.9,15.260,(4 out of 5),Violated,Violated
+2121.77,moderado,-572.85,12.325,(4 out of 5),Violated,Violated
+2153.66,baixo,-583.08,31.891,(4 out of 5),Violated,Violated
+2157.93,moderado,-584.45,4.268,(4 out of 5),Violated,Violated
+2239.96,alto,-610.56,82.031,(4 out of 5),Violated,Violated
+2242.73,moderado,-611.45,2.769,(4 out of 5),Violated,Violated
+2380.31,alto,-655.48,137.576,(4 out of 5),Violated,Violated
+2394.65,moderado,-660.07,14.344,(4 out of 5),Violated,Violated
+2441.89,alto,-675.3,47.240,(4 out of 5),Violated,Violated
+2444.16,moderado,-676.03,2.265,(4 out of 5),Violated,Violated
+2456.18,baixo,-679.92,12.023,(4 out of 5),Violated,Violated
+2467.63,moderado,-683.61,11.448,(4 out of 5),Violated,Violated
+2474.88,baixo,-685.94,7.255,(4 out of 5),Violated,Violated
+2502.1,moderado,-694.67,27.221,(4 out of 5),Violated,Violated
+2518.8,alto,-700.04,16.699,(4 out of 5),Violated,Violated
+2530.74,moderado,-703.89,11.937,(4 out of 5),Violated,Violated
+2543.23,baixo,-707.86,12.487,(4 out of 5),Violated,Violated
+2551.64,moderado,-710.55,8.413,(4 out of 5),Violated,Violated
+2567.21,alto,-715.52,15.576,(4 out of 5),Violated,Violated
+2567.71,moderado,-715.69,0.499,(4 out of 5),Violated,Violated
+2607.86,alto,-728.46,40.148,(4 out of 5),Violated,Violated
+2615.15,moderado,-730.77,7.292,(4 out of 5),Violated,Violated
+2619.5,baixo,-732.16,4.348,(4 out of 5),Violated,Violated
+2620.44,moderado,-732.47,0.936,(4 out of 5),Violated,Violated
+2670.02,alto,-748.3,49.584,(4 out of 5),Violated,Violated
+2670.46,moderado,-748.45,0.440,(4 out of 5),Violated,Violated
+2673.23,alto,-749.34,2.772,(4 out of 5),Violated,Violated
+2677.45,moderado,-750.69,4.216,(4 out of 5),Violated,Violated
+2759.19,baixo,-776.8,81.744,(4 out of 5),Violated,Violated
+2762.16,moderado,-777.77,2.968,(4 out of 5),Violated,Violated
+2789.84,alto,-786.68,27.680,(4 out of 5),Violated,Violated
+2790.97,moderado,-787.05,1.132,(4 out of 5),Violated,Violated
+2812.98,alto,-794.12,22.008,(4 out of 5),Violated,Violated
+2817.24,moderado,-795.49,4.260,(4 out of 5),Violated,Violated
+2841.39,alto,-803.24,24.148,(4 out of 5),Violated,Violated
+2842.4,moderado,-803.57,1.008,(4 out of 5),Violated,Violated
+2885.28,baixo,-817.3,42.884,(4 out of 5),Violated,Violated
+2889.05,moderado,-818.51,3.769,(4 out of 5),Violated,Violated
+2930.06,baixo,-831.58,41.009,(4 out of 5),Violated,Violated
+2935.31,moderado,-833.25,5.249,(4 out of 5),Violated,Violated
+2968.09,alto,-843.68,32.777,(4 out of 5),Violated,Violated
+2972.1,moderado,-844.97,4.016,(4 out of 5),Violated,Violated
+2974.84,alto,-845.86,2.736,(4 out of 5),Violated,Violated
+2981.38,moderado,-847.99,6.543,(4 out of 5),Violated,Violated
+3011.11,baixo,-857.52,29.728,(4 out of 5),Violated,Violated
+3013.69,moderado,-858.35,2.584,(4 out of 5),Violated,Violated
+3019.75,baixo,-860.3,6.061,(4 out of 5),Violated,Violated
+3023.11,moderado,-861.39,3.360,(4 out of 5),Violated,Violated
+3023.94,baixo,-861.66,0.824,(4 out of 5),Violated,Violated
+3026.38,moderado,-862.45,2.444,(4 out of 5),Violated,Violated
+3053.72,alto,-871.18,27.336,(4 out of 5),Violated,Violated
+3056.72,moderado,-872.15,3.000,(4 out of 5),Violated,Violated
+3060,alto,-873.22,3.284,(4 out of 5),Violated,Violated
+3078.73,moderado,-879.23,18.727,(4 out of 5),Violated,Violated
+3096.45,alto,-884.92,17.716,(4 out of 5),Violated,Violated
+3135.58,moderado,-897.55,39.137,(4 out of 5),Violated,Violated
+3140.41,alto,-899.12,4.827,(4 out of 5),Violated,Violated
+3149.01,moderado,-901.89,8.597,(4 out of 5),Violated,Violated
+3181.65,alto,-912.38,32.640,(4 out of 5),Violated,Violated
+3186.59,moderado,-913.97,4.941,(4 out of 5),Violated,Violated
+3189.05,alto,-914.78,2.468,(4 out of 5),Violated,Violated
+3198.4,moderado,-917.79,9.347,(4 out of 5),Violated,Violated
+3289.23,baixo,-946.94,90.833,(4 out of 5),Violated,Violated
+3307.59,moderado,-952.87,18.361,(4 out of 5),Violated,Violated
+3328.98,alto,-959.76,21.384,(4 out of 5),Violated,Violated
+3332.75,moderado,-960.97,3.776,(4 out of 5),Violated,Violated
+3374.18,alto,-974.28,41.428,(4 out of 5),Violated,Violated
+3383.46,moderado,-977.27,9.275,(4 out of 5),Violated,Violated
+3392.91,baixo,-980.34,9.457,(4 out of 5),Violated,Violated
+3394.03,moderado,-980.71,1.116,(4 out of 5),Violated,Violated
+3395.71,baixo,-981.26,1.676,(4 out of 5),Violated,Violated
+3398.38,moderado,-982.13,2.672,(4 out of 5),Violated,Violated
+3451.4,baixo,-999.12,53.024,(4 out of 5),Violated,Violated
+3467.89,moderado,-1004.41,16.487,(4 out of 5),Violated,Violated
+3479.34,alto,-1008.08,11.453,(4 out of 5),Violated,Violated
+3481.49,moderado,-1008.77,2.152,(4 out of 5),Violated,Violated
+3534.96,alto,-1025.86,53.464,(4 out of 5),Violated,Violated
+3536.59,moderado,-1026.39,1.628,(4 out of 5),Violated,Violated
+3552.77,baixo,-1031.62,16.187,(4 out of 5),Violated,Violated
+3554.7,moderado,-1032.25,1.924,(4 out of 5),Violated,Violated
+3559.95,baixo,-1033.96,5.249,(4 out of 5),Violated,Violated
+3563.96,moderado,-1035.25,4.011,(4 out of 5),Violated,Violated
+3587.49,baixo,-1042.82,23.532,(4 out of 5),Violated,Violated
+3595.74,moderado,-1045.49,8.252,(4 out of 5),Violated,Violated
+3641.5,baixo,-1060.18,45.756,(4 out of 5),Violated,Violated
+3645.26,moderado,-1061.39,3.761,(4 out of 5),Violated,Violated
+3658.42,baixo,-1065.6,13.160,(4 out of 5),Violated,Violated
+3676.21,moderado,-1071.27,17.792,(4 out of 5),Violated,Violated
+81.9808,moderado,73.65,80.900,(5 out of 5),Violated,Violated
+82.5489,alto,73.46,0.568,(5 out of 5),Violated,Violated
+149,moderado,52.27,66.642,(5 out of 5),Violated,Violated
+3.28082,alto,95.16,0.259,(Best of Five),Violated,Violated
+3.56884,moderado,94.73,0.288,(Best of Five),Violated,Violated
+3.61735,baixo,94.65,0.049,(Best of Five),Satisfied,Satisfied
+3.76544,alto,94.43,0.148,(Best of Five),Violated,Satisfied
+4.53331,moderado,93.3,0.768,(Best of Five),Violated,Violated
+4.5809,baixo,93.22,0.048,(Best of Five),Satisfied,Satisfied
+7.85292,moderado,88.45,3.272,(Best of Five),Violated,Violated
+8.0007,baixo,88.23,0.148,(Best of Five),Violated,Satisfied
+11.2174,alto,83.53,3.217,(Best of Five),Violated,Violated
+11.7934,moderado,82.68,0.576,(Best of Five),Violated,Violated
+11.8897,baixo,82.53,0.096,(Best of Five),Satisfied,Satisfied
+12.5654,alto,81.54,0.676,(Best of Five),Violated,Violated
+12.7135,moderado,81.32,0.148,(Best of Five),Violated,Satisfied
+12.7609,baixo,81.24,0.047,(Best of Five),Satisfied,Satisfied
+13.3414,alto,80.39,0.580,(Best of Five),Violated,Violated
+13.5334,moderado,80.1,0.192,(Best of Five),Violated,Satisfied
+13.6811,baixo,79.88,0.148,(Best of Five),Violated,Satisfied
+15.4134,moderado,77.35,1.732,(Best of Five),Violated,Violated
+15.4611,baixo,77.27,0.048,(Best of Five),Satisfied,Satisfied
+17.1529,moderado,74.81,1.692,(Best of Five),Violated,Violated
+17.2007,baixo,74.73,0.048,(Best of Five),Satisfied,Satisfied
+18.6493,alto,72.62,1.449,(Best of Five),Violated,Violated
+19,moderado,72.54,0.048,(Best of Five),Satisfied,Satisfied
+18.7458,baixo,72.46,0.049,(Best of Five),Satisfied,Satisfied
+20.6211,moderado,69.72,1.875,(Best of Five),Violated,Violated
+20.7185,baixo,69.57,0.097,(Best of Five),Satisfied,Satisfied
+25.9039,alto,62.42,5.185,(Best of Five),Violated,Violated
+26,moderado,62.34,0.055,(Best of Five),Satisfied,Satisfied
+26.0733,alto,62.19,0.114,(Best of Five),Violated,Satisfied
+26.9116,moderado,61.13,0.838,(Best of Five),Violated,Violated
+27.0251,baixo,60.98,0.113,(Best of Five),Violated,Satisfied
+28.3636,moderado,59.29,1.339,(Best of Five),Violated,Violated
+28.5879,alto,59,0.224,(Best of Five),Violated,Satisfied
+29,moderado,58.57,0.336,(Best of Five),Violated,Violated
+29.0924,baixo,58.35,0.168,(Best of Five),Violated,Satisfied
+34.6897,alto,53.3,5.597,(Best of Five),Violated,Violated
+35.0735,moderado,52.73,0.384,(Best of Five),Violated,Violated
+35.3168,baixo,52.37,0.243,(Best of Five),Violated,Satisfied
+35.5568,moderado,52.01,0.240,(Best of Five),Violated,Satisfied
+35.7536,baixo,51.72,0.197,(Best of Five),Violated,Satisfied
+39.3688,moderado,46.46,3.615,(Best of Five),Violated,Violated
+39.4165,baixo,46.38,0.048,(Best of Five),Satisfied,Satisfied
+40.6293,moderado,44.62,1.213,(Best of Five),Violated,Violated
+40.6772,baixo,44.54,0.048,(Best of Five),Satisfied,Satisfied
+42.0732,alto,42.5,1.396,(Best of Five),Violated,Violated
+42.4567,moderado,41.93,0.383,(Best of Five),Violated,Violated
+42.7934,baixo,41.43,0.337,(Best of Five),Violated,Violated
+43.6133,alto,40.23,0.820,(Best of Five),Violated,Violated
+44,moderado,39.1,0.768,(Best of Five),Violated,Violated
+44.5733,baixo,38.81,0.192,(Best of Five),Violated,Satisfied
+44.6213,moderado,38.73,0.048,(Best of Five),Satisfied,Satisfied
+44.6704,baixo,38.65,0.049,(Best of Five),Satisfied,Satisfied
+44.9133,alto,38.29,0.243,(Best of Five),Violated,Satisfied
+45.2016,moderado,37.86,0.288,(Best of Five),Violated,Violated
+45.2495,baixo,37.78,0.048,(Best of Five),Satisfied,Satisfied
+46.8421,moderado,35.53,1.593,(Best of Five),Violated,Violated
+46.8901,baixo,35.45,0.048,(Best of Five),Satisfied,Satisfied
+48.4453,alto,33.2,1.555,(Best of Five),Violated,Violated
+48.8334,moderado,32.63,0.388,(Best of Five),Violated,Violated
+48.9307,baixo,32.48,0.097,(Best of Five),Satisfied,Satisfied
+51.6731,alto,28.48,2.742,(Best of Five),Violated,Violated
+52.9255,moderado,26.65,1.252,(Best of Five),Violated,Violated
+53,baixo,26.22,0.291,(Best of Five),Violated,Violated
+55.4284,moderado,22.99,2.211,(Best of Five),Violated,Violated
+55,baixo,22.91,0.049,(Best of Five),Satisfied,Satisfied
+58.7534,moderado,18.14,3.276,(Best of Five),Violated,Violated
+58.8496,baixo,17.99,0.096,(Best of Five),Satisfied,Satisfied
+59.4801,alto,17.07,0.631,(Best of Five),Violated,Violated
+59.8173,moderado,16.57,0.337,(Best of Five),Violated,Violated
+59.9655,baixo,16.35,0.148,(Best of Five),Violated,Satisfied
+66.6009,alto,6.68,6.635,(Best of Five),Violated,Violated
+67.0811,moderado,5.97,0.480,(Best of Five),Violated,Violated
+67.1786,alto,5.82,0.097,(Best of Five),Satisfied,Satisfied
+67.6174,moderado,5.18,0.439,(Best of Five),Violated,Violated
+67.7146,baixo,5.03,0.097,(Best of Five),Satisfied,Satisfied
+71.3654,moderado,-0.3,3.651,(Best of Five),Violated,Violated
+71.4623,baixo,-0.45,0.097,(Best of Five),Satisfied,Satisfied
+72.6175,moderado,-2.14,1.155,(Best of Five),Violated,Violated
+72.6647,alto,-2.22,0.047,(Best of Five),Satisfied,Satisfied
+73.3854,moderado,-3.28,0.721,(Best of Five),Violated,Violated
+73.4328,baixo,-3.36,0.047,(Best of Five),Satisfied,Satisfied
+74.1614,moderado,-4.42,0.729,(Best of Five),Violated,Violated
+74.2092,baixo,-4.5,0.048,(Best of Five),Satisfied,Satisfied
+74.7446,alto,-5.28,0.535,(Best of Five),Violated,Violated
+74.9375,moderado,-5.57,0.193,(Best of Five),Violated,Satisfied
+75.0347,baixo,-5.72,0.097,(Best of Five),Satisfied,Satisfied
+75.4255,moderado,-6.29,0.391,(Best of Five),Violated,Violated
+75.5226,baixo,-6.44,0.097,(Best of Five),Satisfied,Satisfied
+76.0571,moderado,-7.22,0.534,(Best of Five),Violated,Violated
+76.1051,baixo,-7.3,0.048,(Best of Five),Satisfied,Satisfied
+77.4571,alto,-9.27,1.352,(Best of Five),Violated,Violated
+77.6054,moderado,-9.49,0.148,(Best of Five),Violated,Satisfied
+77.8014,baixo,-9.78,0.196,(Best of Five),Violated,Satisfied
+79.0056,moderado,-11.54,1.204,(Best of Five),Violated,Violated
+79.2491,baixo,-11.9,0.244,(Best of Five),Violated,Satisfied
+80,alto,-12.47,0.384,(Best of Five),Violated,Violated
+80.1132,moderado,-13.18,0.480,(Best of Five),Violated,Violated
+80.2103,baixo,-13.33,0.097,(Best of Five),Satisfied,Satisfied
+80.9815,alto,-14.46,0.771,(Best of Five),Violated,Violated
+81.1735,moderado,-14.75,0.192,(Best of Five),Violated,Satisfied
+81.2215,baixo,-14.83,0.048,(Best of Five),Satisfied,Satisfied
+81.5608,moderado,-15.33,0.339,(Best of Five),Violated,Violated
+81.7094,baixo,-15.55,0.149,(Best of Five),Violated,Satisfied
+81.7571,moderado,-15.63,0.048,(Best of Five),Satisfied,Satisfied
+81.8056,baixo,-15.71,0.048,(Best of Five),Satisfied,Satisfied
+82.1935,alto,-16.28,0.388,(Best of Five),Violated,Violated
+82.4375,moderado,-16.64,0.244,(Best of Five),Violated,Satisfied
+82.6775,baixo,-17,0.240,(Best of Five),Violated,Satisfied
+84.4089,alto,-19.53,1.731,(Best of Five),Violated,Violated
+85.3249,moderado,-20.87,0.916,(Best of Five),Violated,Violated
+85.4735,baixo,-21.09,0.149,(Best of Five),Violated,Satisfied
+92.6371,alto,-31.53,7.164,(Best of Five),Violated,Violated
+92.8292,moderado,-31.82,0.192,(Best of Five),Violated,Satisfied
+92.8768,baixo,-31.9,0.048,(Best of Five),Satisfied,Satisfied
+93.0253,moderado,-32.12,0.149,(Best of Five),Violated,Satisfied
+93.1224,baixo,-32.27,0.097,(Best of Five),Satisfied,Satisfied
+95.3853,moderado,-35.57,2.263,(Best of Five),Violated,Violated
+95.5775,baixo,-35.86,0.192,(Best of Five),Violated,Satisfied
+96.2961,moderado,-36.92,0.719,(Best of Five),Violated,Violated
+96.3447,baixo,-37,0.049,(Best of Five),Satisfied,Satisfied
+97.0255,moderado,-37.99,0.681,(Best of Five),Violated,Violated
+97.1226,baixo,-38.14,0.097,(Best of Five),Satisfied,Satisfied
+102,alto,-45.5,5.054,(Best of Five),Violated,Violated
+102,moderado,-45.65,0.098,(Best of Five),Satisfied,Satisfied
+102,baixo,-45.87,0.143,(Best of Five),Violated,Satisfied
+105,alto,-50.36,3.076,(Best of Five),Violated,Violated
+106,moderado,-50.93,0.384,(Best of Five),Violated,Violated
+106,baixo,-51.01,0.047,(Best of Five),Satisfied,Satisfied
+107,alto,-52.21,0.821,(Best of Five),Violated,Violated
+107,moderado,-52.5,0.196,(Best of Five),Violated,Satisfied
+107,baixo,-52.58,0.048,(Best of Five),Satisfied,Satisfied
+108,alto,-54.13,1.060,(Best of Five),Violated,Violated
+108,moderado,-54.7,0.388,(Best of Five),Violated,Violated
+109,baixo,-54.85,0.097,(Best of Five),Satisfied,Satisfied
+109,alto,-55.49,0.439,(Best of Five),Violated,Violated
+110,moderado,-56.27,0.531,(Best of Five),Violated,Violated
+110,baixo,-56.49,0.144,(Best of Five),Violated,Satisfied
+116,alto,-65.74,6.340,(Best of Five),Violated,Violated
+117,moderado,-66.8,0.724,(Best of Five),Violated,Violated
+117,baixo,-66.88,0.048,(Best of Five),Satisfied,Satisfied
+118,alto,-69.27,1.637,(Best of Five),Violated,Violated
+119,moderado,-70.26,0.672,(Best of Five),Violated,Violated
+119,baixo,-70.34,0.048,(Best of Five),Satisfied,Satisfied
+122,moderado,-74.62,2.936,(Best of Five),Violated,Violated
+122,baixo,-74.84,0.148,(Best of Five),Violated,Satisfied
+125,alto,-78.56,2.557,(Best of Five),Violated,Violated
+125,moderado,-78.85,0.195,(Best of Five),Violated,Satisfied
+125,baixo,-79,0.098,(Best of Five),Satisfied,Satisfied
+131,moderado,-87.76,6.006,(Best of Five),Violated,Violated
+131,baixo,-87.91,0.097,(Best of Five),Satisfied,Satisfied
+132,alto,-89.18,0.864,(Best of Five),Violated,Violated
+132,moderado,-89.82,0.436,(Best of Five),Violated,Violated
+133,baixo,-90.04,0.148,(Best of Five),Violated,Satisfied
+133,alto,-90.75,0.480,(Best of Five),Violated,Violated
+133,moderado,-91.32,0.388,(Best of Five),Violated,Violated
+134,baixo,-91.4,0.048,(Best of Five),Satisfied,Satisfied
+135,moderado,-92.95,1.061,(Best of Five),Violated,Violated
+135,baixo,-93.03,0.047,(Best of Five),Satisfied,Satisfied
+138,moderado,-97.38,2.988,(Best of Five),Violated,Violated
+138,baixo,-97.46,0.048,(Best of Five),Satisfied,Satisfied
+139,alto,-99.57,1.445,(Best of Five),Violated,Violated
+139,moderado,-100.07,0.336,(Best of Five),Violated,Violated
+139,baixo,-100.15,0.048,(Best of Five),Satisfied,Satisfied
+140.55,moderado,-101.7,1.060,(Best of Five),Violated,Violated
+141,alto,-101.85,0.097,(Best of Five),Satisfied,Satisfied
+141,moderado,-102,0.100,(Best of Five),Violated,Satisfied
+141,baixo,-102.15,0.099,(Best of Five),Satisfied,Satisfied
+145,alto,-107.97,3.984,(Best of Five),Violated,Violated
+145,moderado,-108.75,0.532,(Best of Five),Violated,Violated
+145,baixo,-108.9,0.097,(Best of Five),Satisfied,Satisfied
+146,moderado,-109.12,0.147,(Best of Five),Violated,Satisfied
+146,baixo,-109.48,0.240,(Best of Five),Violated,Satisfied
+146,moderado,-110.19,0.484,(Best of Five),Violated,Violated
+146,baixo,-110.27,0.047,(Best of Five),Satisfied,Satisfied
+147,alto,-111.89,1.109,(Best of Five),Violated,Violated
+148,moderado,-112.18,0.196,(Best of Five),Violated,Satisfied
+148,baixo,-112.26,0.047,(Best of Five),Satisfied,Satisfied
+148,alto,-112.9,0.437,(Best of Five),Violated,Violated
+148,moderado,-113.05,0.097,(Best of Five),Satisfied,Satisfied
+148,baixo,-113.2,0.100,(Best of Five),Violated,Satisfied
+156,moderado,-124.34,7.639,(Best of Five),Violated,Violated
+156,baixo,-124.42,0.048,(Best of Five),Satisfied,Satisfied
+160,moderado,-130.8,4.372,(Best of Five),Violated,Violated
+160,baixo,-130.88,0.048,(Best of Five),Satisfied,Satisfied
+161,moderado,-131.52,0.436,(Best of Five),Violated,Violated
+161,baixo,-131.67,0.097,(Best of Five),Satisfied,Satisfied
+167,alto,-140.29,5.903,(Best of Five),Violated,Violated
+167,moderado,-140.51,0.148,(Best of Five),Violated,Satisfied
+167.15,alto,-140.66,0.096,(Best of Five),Satisfied,Satisfied
+167,moderado,-140.74,0.047,(Best of Five),Satisfied,Satisfied
+167,alto,-141.1,0.240,(Best of Five),Violated,Satisfied
+168,moderado,-141.6,0.336,(Best of Five),Violated,Violated
+168,baixo,-141.75,0.097,(Best of Five),Satisfied,Satisfied
+170,alto,-144.35,1.782,(Best of Five),Violated,Violated
+170,moderado,-145.34,0.672,(Best of Five),Violated,Violated
+170,baixo,-145.42,0.048,(Best of Five),Satisfied,Satisfied
+171,alto,-146.76,0.920,(Best of Five),Violated,Violated
+171,moderado,-146.98,0.144,(Best of Five),Violated,Satisfied
+172,baixo,-147.27,0.196,(Best of Five),Violated,Satisfied
+175,alto,-152.6,3.652,(Best of Five),Violated,Violated
+176,moderado,-154.22,1.108,(Best of Five),Violated,Violated
+177,baixo,-154.44,0.144,(Best of Five),Violated,Satisfied
+177,alto,-154.52,0.048,(Best of Five),Satisfied,Satisfied
+177,moderado,-154.67,0.098,(Best of Five),Satisfied,Satisfied
+177,alto,-154.82,0.099,(Best of Five),Satisfied,Satisfied
+178,moderado,-156.16,0.912,(Best of Five),Violated,Violated
+178,baixo,-156.38,0.147,(Best of Five),Violated,Satisfied
+180,moderado,-159.47,2.112,(Best of Five),Violated,Violated
+180,alto,-159.83,0.240,(Best of Five),Violated,Satisfied
+180,moderado,-160.05,0.148,(Best of Five),Violated,Satisfied
+181,alto,-160.34,0.192,(Best of Five),Violated,Satisfied
+181,moderado,-161.47,0.772,(Best of Five),Violated,Violated
+181,baixo,-161.55,0.048,(Best of Five),Satisfied,Satisfied
+182,alto,-162.47,0.632,(Best of Five),Violated,Violated
+182,moderado,-163.04,0.388,(Best of Five),Violated,Violated
+182.47,baixo,-163.19,0.097,(Best of Five),Satisfied,Satisfied
+183,alto,-164.46,0.867,(Best of Five),Violated,Violated
+184,moderado,-165.03,0.384,(Best of Five),Violated,Violated
+184,baixo,-165.18,0.097,(Best of Five),Satisfied,Satisfied
+185,moderado,-167.01,1.255,(Best of Five),Violated,Violated
+185.17,baixo,-167.16,0.097,(Best of Five),Satisfied,Satisfied
+187,moderado,-169.97,1.919,(Best of Five),Violated,Violated
+187,baixo,-170.19,0.149,(Best of Five),Violated,Satisfied
+188,moderado,-170.83,0.431,(Best of Five),Violated,Violated
+188,baixo,-170.98,0.098,(Best of Five),Satisfied,Satisfied
+189,alto,-173.44,1.687,(Best of Five),Violated,Violated
+190,moderado,-174.36,0.624,(Best of Five),Violated,Violated
+190,baixo,-174.65,0.200,(Best of Five),Violated,Satisfied
+192,moderado,-176.76,1.440,(Best of Five),Violated,Violated
+192,baixo,-176.98,0.149,(Best of Five),Violated,Satisfied
+195,alto,-180.98,2.739,(Best of Five),Violated,Violated
+194.8,moderado,-181.27,0.195,(Best of Five),Violated,Satisfied
+195,baixo,-181.42,0.098,(Best of Five),Satisfied,Satisfied
+196,alto,-182.76,0.911,(Best of Five),Violated,Violated
+196,baixo,-183.4,0.436,(Best of Five),Violated,Violated
+196,alto,-183.62,0.148,(Best of Five),Violated,Satisfied
+196,moderado,-183.7,0.048,(Best of Five),Satisfied,Satisfied
+196.49,baixo,-183.78,0.049,(Best of Five),Satisfied,Satisfied
+197,moderado,-183.93,0.096,(Best of Five),Satisfied,Satisfied
+197,baixo,-184.22,0.196,(Best of Five),Violated,Satisfied
+197,moderado,-185.07,0.576,(Best of Five),Violated,Violated
+197,baixo,-185.15,0.048,(Best of Five),Satisfied,Satisfied
+198.47,moderado,-186.7,1.064,(Best of Five),Violated,Violated
+199,alto,-186.78,0.048,(Best of Five),Satisfied,Satisfied
+199,moderado,-187.28,0.340,(Best of Five),Violated,Violated
+199,baixo,-188.13,0.579,(Best of Five),Violated,Violated
+203,moderado,-193.39,3.601,(Best of Five),Violated,Violated
+203,alto,-193.47,0.047,(Best of Five),Satisfied,Satisfied
+204,baixo,-194.81,0.921,(Best of Five),Violated,Violated
+206,alto,-197.62,1.924,(Best of Five),Violated,Violated
+206,moderado,-197.7,0.048,(Best of Five),Satisfied,Satisfied
+206,baixo,-197.85,0.097,(Best of Five),Satisfied,Satisfied
+207,alto,-198.56,0.483,(Best of Five),Violated,Violated
+207,moderado,-199.13,0.388,(Best of Five),Violated,Violated
+207,baixo,-199.35,0.144,(Best of Five),Violated,Satisfied
+211,moderado,-204.4,3.460,(Best of Five),Violated,Violated
+211,baixo,-204.55,0.097,(Best of Five),Satisfied,Satisfied
+213,alto,-207.64,2.119,(Best of Five),Violated,Violated
+213,moderado,-208.28,0.436,(Best of Five),Violated,Violated
+213,alto,-208.43,0.098,(Best of Five),Satisfied,Satisfied
+214,moderado,-208.93,0.343,(Best of Five),Violated,Violated
+214,baixo,-209.22,0.191,(Best of Five),Violated,Satisfied
+214,moderado,-209.86,0.433,(Best of Five),Violated,Violated
+215,baixo,-210.22,0.240,(Best of Five),Violated,Satisfied
+216,alto,-212.68,1.684,(Best of Five),Violated,Violated
+217,moderado,-213.18,0.337,(Best of Five),Violated,Violated
+217,baixo,-213.26,0.048,(Best of Five),Satisfied,Satisfied
+220,alto,-218.45,3.556,(Best of Five),Violated,Violated
+220,moderado,-218.74,0.197,(Best of Five),Violated,Satisfied
+220,alto,-218.82,0.048,(Best of Five),Satisfied,Satisfied
+220.47,moderado,-218.97,0.097,(Best of Five),Satisfied,Satisfied
+221,baixo,-219.05,0.047,(Best of Five),Satisfied,Satisfied
+222,moderado,-221.93,1.968,(Best of Five),Violated,Violated
+223,baixo,-222.08,0.097,(Best of Five),Satisfied,Satisfied
+226,moderado,-226.85,3.271,(Best of Five),Violated,Violated
+226,baixo,-227,0.097,(Best of Five),Satisfied,Satisfied
+226,moderado,-227.36,0.247,(Best of Five),Violated,Satisfied
+226,baixo,-227.58,0.144,(Best of Five),Violated,Satisfied
+228,moderado,-229.83,1.536,(Best of Five),Violated,Violated
+228,baixo,-229.98,0.096,(Best of Five),Satisfied,Satisfied
+230.09,alto,-233.07,2.116,(Best of Five),Violated,Violated
+230,moderado,-233.15,0.048,(Best of Five),Satisfied,Satisfied
+230,baixo,-233.23,0.049,(Best of Five),Satisfied,Satisfied
+233,moderado,-237.79,3.119,(Best of Five),Violated,Violated
+233,baixo,-238.01,0.144,(Best of Five),Violated,Satisfied
+235,moderado,-239.84,1.252,(Best of Five),Violated,Violated
+235,baixo,-239.92,0.048,(Best of Five),Satisfied,Satisfied
+236,alto,-242.38,1.684,(Best of Five),Violated,Violated
+237,moderado,-242.53,0.098,(Best of Five),Satisfied,Satisfied
+236.63,baixo,-242.68,0.100,(Best of Five),Satisfied,Satisfied
+238,moderado,-244.72,1.399,(Best of Five),Violated,Violated
+238,baixo,-245.01,0.192,(Best of Five),Violated,Satisfied
+242,moderado,-250.2,3.556,(Best of Five),Violated,Violated
+242,baixo,-250.28,0.048,(Best of Five),Satisfied,Satisfied
+244,moderado,-253.16,1.973,(Best of Five),Violated,Violated
+244,baixo,-253.24,0.047,(Best of Five),Satisfied,Satisfied
+245,alto,-255.49,1.541,(Best of Five),Violated,Violated
+246,moderado,-256.55,0.724,(Best of Five),Violated,Violated
+246,alto,-256.77,0.144,(Best of Five),Violated,Satisfied
+247,moderado,-257.9,0.768,(Best of Five),Violated,Violated
+247,baixo,-257.98,0.047,(Best of Five),Satisfied,Satisfied
+247,moderado,-258.41,0.288,(Best of Five),Violated,Violated
+247,baixo,-258.56,0.097,(Best of Five),Satisfied,Satisfied
+248,moderado,-259.69,0.775,(Best of Five),Violated,Violated
+248,baixo,-259.77,0.048,(Best of Five),Satisfied,Satisfied
+255,moderado,-268.95,6.433,(Best of Five),Violated,Violated
+255,baixo,-269.03,0.047,(Best of Five),Satisfied,Satisfied
+256,moderado,-270.72,1.169,(Best of Five),Violated,Violated
+256,alto,-270.87,0.097,(Best of Five),Satisfied,Satisfied
+256.27,moderado,-271.23,0.247,(Best of Five),Violated,Satisfied
+257,alto,-271.66,0.292,(Best of Five),Violated,Violated
+257,moderado,-271.81,0.097,(Best of Five),Satisfied,Satisfied
+257,baixo,-271.89,0.050,(Best of Five),Satisfied,Satisfied
+259,alto,-274.63,1.877,(Best of Five),Violated,Violated
+259,moderado,-275.13,0.340,(Best of Five),Violated,Violated
+259,alto,-275.28,0.096,(Best of Five),Satisfied,Satisfied
+259,moderado,-275.64,0.243,(Best of Five),Violated,Satisfied
+259,baixo,-275.72,0.048,(Best of Five),Satisfied,Satisfied
+262,alto,-279.44,2.545,(Best of Five),Violated,Violated
+263,moderado,-281.34,1.300,(Best of Five),Violated,Violated
+263,baixo,-281.49,0.097,(Best of Five),Satisfied,Satisfied
+264,alto,-282.34,0.575,(Best of Five),Violated,Violated
+265,moderado,-283.4,0.720,(Best of Five),Violated,Violated
+265,alto,-283.55,0.096,(Best of Five),Satisfied,Satisfied
+265,moderado,-284.26,0.480,(Best of Five),Violated,Violated
+265,alto,-284.34,0.047,(Best of Five),Satisfied,Satisfied
+266,moderado,-285.47,0.768,(Best of Five),Violated,Violated
+266,baixo,-285.62,0.098,(Best of Five),Satisfied,Satisfied
+269,moderado,-289.41,2.595,(Best of Five),Violated,Violated
+269,baixo,-289.49,0.048,(Best of Five),Satisfied,Satisfied
+272,moderado,-294.89,3.704,(Best of Five),Violated,Violated
+272,baixo,-295.04,0.096,(Best of Five),Satisfied,Satisfied
+273,alto,-296.45,0.960,(Best of Five),Violated,Violated
+274,moderado,-297.23,0.532,(Best of Five),Violated,Violated
+274,baixo,-297.31,0.049,(Best of Five),Satisfied,Satisfied
+275,moderado,-299.28,1.343,(Best of Five),Violated,Violated
+275,alto,-299.36,0.048,(Best of Five),Satisfied,Satisfied
+276,baixo,-300.07,0.481,(Best of Five),Violated,Violated
+281,alto,-307.85,5.331,(Best of Five),Violated,Violated
+282,moderado,-308.63,0.532,(Best of Five),Violated,Violated
+282,baixo,-308.78,0.098,(Best of Five),Satisfied,Satisfied
+282,moderado,-309.14,0.246,(Best of Five),Violated,Satisfied
+282,baixo,-309.22,0.049,(Best of Five),Satisfied,Satisfied
+286,moderado,-314.97,3.940,(Best of Five),Violated,Violated
+286,alto,-315.05,0.048,(Best of Five),Satisfied,Satisfied
+286,moderado,-315.41,0.248,(Best of Five),Violated,Satisfied
+286,baixo,-315.56,0.097,(Best of Five),Satisfied,Satisfied
+288,alto,-317.25,1.159,(Best of Five),Violated,Violated
+288,moderado,-317.75,0.340,(Best of Five),Violated,Violated
+288,baixo,-317.83,0.048,(Best of Five),Satisfied,Satisfied
+289,alto,-319.59,1.200,(Best of Five),Violated,Violated
+290,moderado,-320.51,0.628,(Best of Five),Violated,Violated
+290,alto,-321.01,0.340,(Best of Five),Violated,Violated
+293,moderado,-325.36,2.980,(Best of Five),Violated,Violated
+293,baixo,-325.44,0.048,(Best of Five),Satisfied,Satisfied
+298,moderado,-332.38,4.756,(Best of Five),Violated,Violated
+298,alto,-332.46,0.048,(Best of Five),Satisfied,Satisfied
+298,moderado,-333.1,0.436,(Best of Five),Violated,Violated
+299,baixo,-333.39,0.196,(Best of Five),Violated,Satisfied
+299,alto,-333.47,0.048,(Best of Five),Satisfied,Satisfied
+299,moderado,-334.18,0.484,(Best of Five),Violated,Violated
+299.39,baixo,-334.47,0.196,(Best of Five),Violated,Satisfied
+300,alto,-334.76,0.192,(Best of Five),Violated,Satisfied
+300,moderado,-335.75,0.676,(Best of Five),Violated,Violated
+300,baixo,-335.9,0.098,(Best of Five),Satisfied,Satisfied
+307,alto,-345.71,6.723,(Best of Five),Violated,Violated
+307,moderado,-345.79,0.048,(Best of Five),Satisfied,Satisfied
+307,baixo,-345.87,0.049,(Best of Five),Satisfied,Satisfied
+310,alto,-349.31,2.360,(Best of Five),Violated,Violated
+310,baixo,-349.6,0.195,(Best of Five),Violated,Satisfied
+310,alto,-349.75,0.097,(Best of Five),Satisfied,Satisfied
+310,moderado,-350.11,0.240,(Best of Five),Violated,Satisfied
+310,baixo,-350.19,0.047,(Best of Five),Satisfied,Satisfied
+313,alto,-353.77,2.457,(Best of Five),Violated,Violated
+313,moderado,-354.69,0.628,(Best of Five),Violated,Violated
+313,baixo,-354.84,0.096,(Best of Five),Satisfied,Satisfied
+315,moderado,-357.37,1.727,(Best of Five),Violated,Violated
+315,baixo,-357.59,0.148,(Best of Five),Violated,Satisfied
+316,moderado,-358.72,0.772,(Best of Five),Violated,Violated
+316,baixo,-359.36,0.436,(Best of Five),Violated,Violated
+318,alto,-361.12,1.204,(Best of Five),Violated,Violated
+318,moderado,-361.2,0.048,(Best of Five),Satisfied,Satisfied
+318,baixo,-361.49,0.196,(Best of Five),Violated,Satisfied
+320,alto,-364.51,2.068,(Best of Five),Violated,Violated
+320,moderado,-365.08,0.388,(Best of Five),Violated,Violated
+320,baixo,-365.23,0.097,(Best of Five),Satisfied,Satisfied
+321,moderado,-366.08,0.583,(Best of Five),Violated,Violated
+321,baixo,-366.16,0.048,(Best of Five),Satisfied,Satisfied
+321.73,moderado,-367.22,0.720,(Best of Five),Violated,Violated
+322,baixo,-367.3,0.047,(Best of Five),Satisfied,Satisfied
+327,moderado,-374.52,4.952,(Best of Five),Violated,Violated
+327,baixo,-374.74,0.148,(Best of Five),Violated,Satisfied
+330,alto,-379.09,2.975,(Best of Five),Violated,Violated
+330,moderado,-379.87,0.529,(Best of Five),Violated,Violated
+330,baixo,-380.02,0.098,(Best of Five),Satisfied,Satisfied
+332,moderado,-381.71,1.159,(Best of Five),Violated,Violated
+332,alto,-381.79,0.048,(Best of Five),Satisfied,Satisfied
+333,moderado,-383.34,1.056,(Best of Five),Violated,Violated
+333,baixo,-383.42,0.048,(Best of Five),Satisfied,Satisfied
+334,alto,-385.32,1.300,(Best of Five),Violated,Violated
+335,moderado,-386.31,0.675,(Best of Five),Violated,Violated
+335,baixo,-386.46,0.098,(Best of Five),Satisfied,Satisfied
+337,alto,-390.04,2.455,(Best of Five),Violated,Violated
+338,moderado,-390.82,0.528,(Best of Five),Violated,Violated
+338,alto,-390.97,0.097,(Best of Five),Satisfied,Satisfied
+338,moderado,-391.4,0.287,(Best of Five),Violated,Violated
+338,alto,-391.48,0.048,(Best of Five),Satisfied,Satisfied
+338,baixo,-391.56,0.048,(Best of Five),Satisfied,Satisfied
+339,alto,-392.83,0.864,(Best of Five),Violated,Violated
+340,moderado,-393.33,0.340,(Best of Five),Violated,Violated
+340,baixo,-393.41,0.047,(Best of Five),Satisfied,Satisfied
+343,alto,-398.74,3.664,(Best of Five),Violated,Violated
+343,moderado,-398.82,0.048,(Best of Five),Satisfied,Satisfied
+343,baixo,-398.9,0.049,(Best of Five),Satisfied,Satisfied
+346,moderado,-403.32,3.024,(Best of Five),Violated,Violated
+346,baixo,-403.4,0.047,(Best of Five),Satisfied,Satisfied
+347,moderado,-404.04,0.437,(Best of Five),Violated,Violated
+347,baixo,-404.12,0.048,(Best of Five),Satisfied,Satisfied
+347,moderado,-404.83,0.488,(Best of Five),Violated,Violated
+347,alto,-404.91,0.048,(Best of Five),Satisfied,Satisfied
+347,moderado,-404.99,0.050,(Best of Five),Satisfied,Satisfied
+348,baixo,-405.14,0.099,(Best of Five),Satisfied,Satisfied
+350,moderado,-408.86,2.544,(Best of Five),Violated,Violated
+350,alto,-409.08,0.147,(Best of Five),Violated,Satisfied
+350,moderado,-409.3,0.145,(Best of Five),Violated,Satisfied
+350.61,baixo,-409.59,0.196,(Best of Five),Violated,Satisfied
+352,moderado,-411.28,1.156,(Best of Five),Violated,Violated
+352,baixo,-411.36,0.048,(Best of Five),Satisfied,Satisfied
+352,moderado,-411.51,0.097,(Best of Five),Satisfied,Satisfied
+352,baixo,-411.66,0.100,(Best of Five),Violated,Satisfied
+352,alto,-412.23,0.391,(Best of Five),Violated,Violated
+353,moderado,-413.5,0.864,(Best of Five),Violated,Violated
+353,baixo,-413.58,0.048,(Best of Five),Satisfied,Satisfied
+354.95,alto,-415.97,1.637,(Best of Five),Violated,Violated
+355,moderado,-416.19,0.148,(Best of Five),Violated,Satisfied
+355,baixo,-416.41,0.144,(Best of Five),Violated,Satisfied
+356,alto,-417.4,0.676,(Best of Five),Violated,Violated
+356,moderado,-417.62,0.144,(Best of Five),Violated,Satisfied
+356,alto,-417.84,0.148,(Best of Five),Violated,Satisfied
+356,moderado,-417.99,0.097,(Best of Five),Satisfied,Satisfied
+356,baixo,-418.14,0.100,(Best of Five),Violated,Satisfied
+360,alto,-423.33,3.559,(Best of Five),Violated,Violated
+360,moderado,-423.48,0.097,(Best of Five),Satisfied,Satisfied
+360,alto,-423.56,0.051,(Best of Five),Satisfied,Satisfied
+360.21,moderado,-423.71,0.097,(Best of Five),Satisfied,Satisfied
+360,baixo,-424.07,0.247,(Best of Five),Violated,Satisfied
+362,moderado,-425.97,1.299,(Best of Five),Violated,Violated
+362,baixo,-426.05,0.048,(Best of Five),Satisfied,Satisfied
+364,moderado,-429.98,2.691,(Best of Five),Violated,Violated
+365,baixo,-430.06,0.048,(Best of Five),Satisfied,Satisfied
+367,moderado,-433.43,2.305,(Best of Five),Violated,Violated
+367,baixo,-433.58,0.097,(Best of Five),Satisfied,Satisfied
+375,moderado,-445.49,8.164,(Best of Five),Violated,Violated
+375,alto,-445.78,0.191,(Best of Five),Violated,Satisfied
+376,moderado,-446.7,0.625,(Best of Five),Violated,Violated
+376,baixo,-446.78,0.047,(Best of Five),Satisfied,Satisfied
+378,alto,-449.59,1.921,(Best of Five),Violated,Violated
+378,moderado,-449.95,0.240,(Best of Five),Violated,Satisfied
+378,baixo,-450.1,0.097,(Best of Five),Satisfied,Satisfied
+379,moderado,-450.67,0.390,(Best of Five),Violated,Violated
+379,baixo,-450.89,0.144,(Best of Five),Violated,Satisfied
+381,moderado,-453.56,1.828,(Best of Five),Violated,Violated
+381,baixo,-453.71,0.097,(Best of Five),Satisfied,Satisfied
+380.79,alto,-453.86,0.099,(Best of Five),Satisfied,Satisfied
+381,moderado,-454.29,0.291,(Best of Five),Violated,Violated
+381,baixo,-454.37,0.048,(Best of Five),Satisfied,Satisfied
+382,alto,-455.5,0.777,(Best of Five),Violated,Violated
+383,moderado,-456.42,0.627,(Best of Five),Violated,Violated
+383,baixo,-456.57,0.098,(Best of Five),Satisfied,Satisfied
+383,moderado,-456.86,0.198,(Best of Five),Violated,Satisfied
+383,alto,-457.01,0.098,(Best of Five),Satisfied,Satisfied
+384,moderado,-458.77,1.203,(Best of Five),Violated,Violated
+384,baixo,-458.99,0.144,(Best of Five),Violated,Satisfied
+387,moderado,-463.41,3.028,(Best of Five),Violated,Violated
+387.45,alto,-463.63,0.148,(Best of Five),Violated,Satisfied
+388,moderado,-464.06,0.291,(Best of Five),Violated,Violated
+388,baixo,-464.35,0.196,(Best of Five),Violated,Satisfied
+390,moderado,-467.3,2.016,(Best of Five),Violated,Violated
+390,alto,-467.59,0.196,(Best of Five),Violated,Satisfied
+390,moderado,-467.67,0.048,(Best of Five),Satisfied,Satisfied
+390,baixo,-467.75,0.049,(Best of Five),Satisfied,Satisfied
+390,alto,-467.83,0.049,(Best of Five),Satisfied,Satisfied
+391,moderado,-468.68,0.583,(Best of Five),Violated,Violated
+391,alto,-468.76,0.047,(Best of Five),Satisfied,Satisfied
+391,moderado,-469.19,0.288,(Best of Five),Violated,Violated
+391,alto,-469.34,0.098,(Best of Five),Satisfied,Satisfied
+392,moderado,-469.7,0.247,(Best of Five),Violated,Satisfied
+392,baixo,-469.78,0.048,(Best of Five),Satisfied,Satisfied
+392,alto,-469.86,0.050,(Best of Five),Satisfied,Satisfied
+392,moderado,-470.08,0.151,(Best of Five),Violated,Satisfied
+392,alto,-470.16,0.048,(Best of Five),Satisfied,Satisfied
+392,moderado,-470.52,0.244,(Best of Five),Violated,Satisfied
+392,baixo,-471.02,0.337,(Best of Five),Violated,Violated
+397,moderado,-477.54,4.468,(Best of Five),Violated,Violated
+397,baixo,-477.76,0.148,(Best of Five),Violated,Satisfied
+400,moderado,-481.48,2.547,(Best of Five),Violated,Violated
+400,baixo,-481.63,0.097,(Best of Five),Satisfied,Satisfied
+407.33,moderado,-492.77,7.636,(Best of Five),Violated,Violated
+407,baixo,-492.92,0.097,(Best of Five),Satisfied,Satisfied
+408,moderado,-493.28,0.247,(Best of Five),Violated,Satisfied
+408,alto,-493.5,0.148,(Best of Five),Violated,Satisfied
+408,moderado,-493.79,0.195,(Best of Five),Violated,Satisfied
+408,baixo,-494.01,0.144,(Best of Five),Violated,Satisfied
+413,moderado,-501.16,4.896,(Best of Five),Violated,Violated
+413,baixo,-501.31,0.097,(Best of Five),Satisfied,Satisfied
+414,moderado,-502.72,0.959,(Best of Five),Violated,Violated
+414,baixo,-502.87,0.097,(Best of Five),Satisfied,Satisfied
+415,alto,-504,0.775,(Best of Five),Violated,Violated
+415,moderado,-504.43,0.288,(Best of Five),Violated,Violated
+415,baixo,-504.51,0.047,(Best of Five),Satisfied,Satisfied
+416,moderado,-505.57,0.725,(Best of Five),Violated,Violated
+416,baixo,-505.65,0.048,(Best of Five),Satisfied,Satisfied
+417.49,moderado,-507.69,1.396,(Best of Five),Violated,Violated
+418,baixo,-507.77,0.048,(Best of Five),Satisfied,Satisfied
+419,moderado,-509.32,1.056,(Best of Five),Violated,Violated
+419,baixo,-509.4,0.048,(Best of Five),Satisfied,Satisfied
+424,alto,-517.81,5.768,(Best of Five),Violated,Violated
+425,moderado,-518.38,0.389,(Best of Five),Violated,Violated
+425,baixo,-518.46,0.047,(Best of Five),Satisfied,Satisfied
+427.73,moderado,-522.67,2.885,(Best of Five),Violated,Violated
+428,baixo,-522.82,0.097,(Best of Five),Satisfied,Satisfied
+431,alto,-527.17,2.975,(Best of Five),Violated,Violated
+431,moderado,-527.67,0.336,(Best of Five),Violated,Violated
+431,baixo,-527.75,0.048,(Best of Five),Satisfied,Satisfied
+434,alto,-531.19,2.357,(Best of Five),Violated,Violated
+435,moderado,-533.58,1.635,(Best of Five),Violated,Violated
+435,baixo,-533.87,0.193,(Best of Five),Violated,Satisfied
+436,alto,-534.86,0.673,(Best of Five),Violated,Violated
+436,moderado,-535.01,0.097,(Best of Five),Satisfied,Satisfied
+436,baixo,-535.16,0.099,(Best of Five),Satisfied,Satisfied
+440,alto,-541.05,4.031,(Best of Five),Violated,Violated
+441,moderado,-541.55,0.337,(Best of Five),Violated,Violated
+441,baixo,-541.7,0.098,(Best of Five),Satisfied,Satisfied
+441,alto,-542.76,0.726,(Best of Five),Violated,Violated
+442,moderado,-543.33,0.389,(Best of Five),Violated,Violated
+442,baixo,-543.41,0.048,(Best of Five),Satisfied,Satisfied
+443,alto,-545.17,1.200,(Best of Five),Violated,Violated
+443,moderado,-545.32,0.097,(Best of Five),Satisfied,Satisfied
+443,baixo,-545.4,0.047,(Best of Five),Satisfied,Satisfied
+444,alto,-547.23,1.252,(Best of Five),Violated,Violated
+445,moderado,-547.87,0.436,(Best of Five),Violated,Violated
+445,baixo,-547.95,0.048,(Best of Five),Satisfied,Satisfied
+445,moderado,-548.17,0.148,(Best of Five),Violated,Satisfied
+445.19,baixo,-548.32,0.096,(Best of Five),Satisfied,Satisfied
+450,moderado,-555.33,4.800,(Best of Five),Violated,Violated
+450,baixo,-555.55,0.144,(Best of Five),Violated,Satisfied
+450,alto,-555.84,0.192,(Best of Five),Violated,Satisfied
+450,moderado,-555.99,0.096,(Best of Five),Satisfied,Satisfied
+450,baixo,-556.07,0.047,(Best of Five),Satisfied,Satisfied
+452,moderado,-558.95,1.973,(Best of Five),Violated,Violated
+453,baixo,-559.1,0.097,(Best of Five),Satisfied,Satisfied
+456,moderado,-564.57,3.751,(Best of Five),Violated,Violated
+456,baixo,-564.65,0.048,(Best of Five),Satisfied,Satisfied
+458,alto,-566.62,1.348,(Best of Five),Violated,Violated
+458.41,moderado,-567.68,0.725,(Best of Five),Violated,Violated
+458,baixo,-567.76,0.047,(Best of Five),Satisfied,Satisfied
+459,alto,-568.68,0.633,(Best of Five),Violated,Violated
+459,moderado,-568.9,0.148,(Best of Five),Violated,Satisfied
+459,baixo,-569.05,0.097,(Best of Five),Satisfied,Satisfied
+460,moderado,-569.76,0.483,(Best of Five),Violated,Violated
+460,baixo,-569.84,0.047,(Best of Five),Satisfied,Satisfied
+461,moderado,-571.67,1.252,(Best of Five),Violated,Violated
+461,baixo,-571.75,0.047,(Best of Five),Satisfied,Satisfied
+462,alto,-572.25,0.337,(Best of Five),Violated,Violated
+462,moderado,-573.1,0.576,(Best of Five),Violated,Violated
+462,baixo,-573.46,0.244,(Best of Five),Violated,Satisfied
+465,alto,-577.6,2.831,(Best of Five),Violated,Violated
+465.25,moderado,-577.75,0.098,(Best of Five),Satisfied,Satisfied
+465,baixo,-577.83,0.051,(Best of Five),Satisfied,Satisfied
+468,alto,-581.06,2.212,(Best of Five),Violated,Violated
+468,moderado,-581.28,0.144,(Best of Five),Violated,Satisfied
+467.8,baixo,-581.5,0.143,(Best of Five),Violated,Satisfied
+471,alto,-585.5,2.737,(Best of Five),Violated,Violated
+471,moderado,-586.14,0.436,(Best of Five),Violated,Violated
+471,baixo,-586.22,0.049,(Best of Five),Satisfied,Satisfied
+473,alto,-588.61,1.632,(Best of Five),Violated,Violated
+473,moderado,-589.25,0.436,(Best of Five),Violated,Violated
+473,baixo,-589.33,0.048,(Best of Five),Satisfied,Satisfied
+477,moderado,-594.24,3.365,(Best of Five),Violated,Violated
+477,baixo,-594.39,0.097,(Best of Five),Satisfied,Satisfied
+478,alto,-596.92,1.735,(Best of Five),Violated,Violated
+479,moderado,-597.28,0.244,(Best of Five),Violated,Satisfied
+479,alto,-597.43,0.097,(Best of Five),Satisfied,Satisfied
+480,moderado,-599.82,1.639,(Best of Five),Violated,Violated
+481,baixo,-600.18,0.244,(Best of Five),Violated,Satisfied
+487.47,moderado,-610.27,6.912,(Best of Five),Violated,Violated
+488,baixo,-610.7,0.292,(Best of Five),Violated,Violated
+489,moderado,-612.04,0.915,(Best of Five),Violated,Violated
+489,baixo,-612.33,0.196,(Best of Five),Violated,Satisfied
+489,moderado,-613.04,0.484,(Best of Five),Violated,Violated
+489,alto,-613.19,0.096,(Best of Five),Satisfied,Satisfied
+490,moderado,-613.55,0.240,(Best of Five),Violated,Satisfied
+490,baixo,-613.63,0.048,(Best of Five),Satisfied,Satisfied
+491,alto,-615.53,1.296,(Best of Five),Violated,Violated
+491,moderado,-616.1,0.388,(Best of Five),Violated,Violated
+492,baixo,-616.25,0.096,(Best of Five),Satisfied,Satisfied
+496,moderado,-622.84,4.520,(Best of Five),Violated,Violated
+496,baixo,-622.99,0.096,(Best of Five),Satisfied,Satisfied
+497,alto,-624.12,0.770,(Best of Five),Violated,Violated
+499,moderado,-626.86,1.873,(Best of Five),Violated,Violated
+499,alto,-627.22,0.240,(Best of Five),Violated,Satisfied
+499,moderado,-627.37,0.097,(Best of Five),Satisfied,Satisfied
+499,baixo,-627.45,0.051,(Best of Five),Satisfied,Satisfied
+500,moderado,-628.23,0.532,(Best of Five),Violated,Violated
+500,baixo,-628.31,0.048,(Best of Five),Satisfied,Satisfied
+503.83,moderado,-634.27,4.080,(Best of Five),Violated,Violated
+504,alto,-634.42,0.097,(Best of Five),Satisfied,Satisfied
+505,moderado,-635.48,0.726,(Best of Five),Violated,Violated
+505,baixo,-635.56,0.048,(Best of Five),Satisfied,Satisfied
+508,moderado,-639.7,2.837,(Best of Five),Violated,Violated
+508,baixo,-639.99,0.196,(Best of Five),Violated,Satisfied
+508,moderado,-640.77,0.528,(Best of Five),Violated,Violated
+508,baixo,-640.92,0.097,(Best of Five),Satisfied,Satisfied
+510,moderado,-643.38,1.678,(Best of Five),Violated,Violated
+510,baixo,-643.67,0.193,(Best of Five),Violated,Satisfied
+518,alto,-655.72,8.260,(Best of Five),Violated,Violated
+519,moderado,-655.94,0.143,(Best of Five),Violated,Satisfied
+519,baixo,-656.02,0.048,(Best of Five),Satisfied,Satisfied
+521,moderado,-660.09,2.796,(Best of Five),Violated,Violated
+522,baixo,-660.38,0.196,(Best of Five),Violated,Satisfied
+523,moderado,-662.07,1.152,(Best of Five),Violated,Violated
+523,alto,-662.36,0.191,(Best of Five),Violated,Satisfied
+523,moderado,-662.44,0.049,(Best of Five),Satisfied,Satisfied
+523,baixo,-662.66,0.148,(Best of Five),Violated,Satisfied
+526,moderado,-666.73,2.787,(Best of Five),Violated,Violated
+526,baixo,-667.09,0.240,(Best of Five),Violated,Satisfied
+528,moderado,-670.25,2.164,(Best of Five),Violated,Violated
+529,baixo,-670.54,0.192,(Best of Five),Violated,Satisfied
+530,moderado,-673,1.680,(Best of Five),Violated,Violated
+530,baixo,-673.08,0.048,(Best of Five),Satisfied,Satisfied
+535,moderado,-679.25,4.224,(Best of Five),Violated,Violated
+535,baixo,-679.33,0.048,(Best of Five),Satisfied,Satisfied
+536,moderado,-681.51,1.488,(Best of Five),Violated,Violated
+536,alto,-681.8,0.196,(Best of Five),Violated,Satisfied
+537,moderado,-682.23,0.292,(Best of Five),Violated,Violated
+537,baixo,-682.31,0.048,(Best of Five),Satisfied,Satisfied
+538,moderado,-683.65,0.916,(Best of Five),Violated,Violated
+538,baixo,-683.8,0.097,(Best of Five),Satisfied,Satisfied
+541,alto,-688.29,3.071,(Best of Five),Violated,Violated
+541,moderado,-688.72,0.288,(Best of Five),Violated,Violated
+541,baixo,-689.01,0.196,(Best of Five),Violated,Satisfied
+542,alto,-690.77,1.200,(Best of Five),Violated,Violated
+542,baixo,-690.92,0.097,(Best of Five),Satisfied,Satisfied
+543,alto,-691.7,0.531,(Best of Five),Violated,Violated
+544,moderado,-693.18,1.012,(Best of Five),Violated,Violated
+544,baixo,-693.26,0.047,(Best of Five),Satisfied,Satisfied
+549,alto,-701.04,5.333,(Best of Five),Violated,Violated
+549.84,moderado,-701.68,0.431,(Best of Five),Violated,Violated
+550,alto,-701.76,0.049,(Best of Five),Satisfied,Satisfied
+550,moderado,-701.84,0.049,(Best of Five),Satisfied,Satisfied
+550,baixo,-701.99,0.096,(Best of Five),Satisfied,Satisfied
+551,moderado,-702.91,0.623,(Best of Five),Violated,Violated
+551,baixo,-703.06,0.098,(Best of Five),Satisfied,Satisfied
+554,alto,-708.18,3.511,(Best of Five),Violated,Violated
+555,moderado,-708.82,0.436,(Best of Five),Violated,Violated
+555,baixo,-708.97,0.097,(Best of Five),Satisfied,Satisfied
+555,alto,-709.05,0.050,(Best of Five),Satisfied,Satisfied
+555,moderado,-709.34,0.193,(Best of Five),Violated,Satisfied
+555,baixo,-709.91,0.388,(Best of Five),Violated,Violated
+557,moderado,-712.37,1.680,(Best of Five),Violated,Violated
+557,baixo,-712.45,0.048,(Best of Five),Satisfied,Satisfied
+557,moderado,-712.67,0.148,(Best of Five),Violated,Satisfied
+557,baixo,-712.75,0.048,(Best of Five),Satisfied,Satisfied
+559,alto,-715.77,2.065,(Best of Five),Violated,Violated
+560,moderado,-716.55,0.528,(Best of Five),Violated,Violated
+560,baixo,-716.63,0.048,(Best of Five),Satisfied,Satisfied
+562,moderado,-720,2.308,(Best of Five),Violated,Violated
+562,alto,-720.08,0.047,(Best of Five),Satisfied,Satisfied
+562,moderado,-720.16,0.050,(Best of Five),Satisfied,Satisfied
+562,alto,-720.31,0.100,(Best of Five),Satisfied,Satisfied
+564,moderado,-721.86,1.059,(Best of Five),Violated,Violated
+564,baixo,-722.36,0.339,(Best of Five),Violated,Violated
+567,alto,-726.71,2.977,(Best of Five),Violated,Violated
+567,moderado,-726.79,0.048,(Best of Five),Satisfied,Satisfied
+566.97,alto,-726.87,0.049,(Best of Five),Satisfied,Satisfied
+567,moderado,-727.16,0.191,(Best of Five),Violated,Satisfied
+567,baixo,-727.45,0.192,(Best of Five),Violated,Satisfied
+569,moderado,-729.7,1.540,(Best of Five),Violated,Violated
+569,alto,-729.78,0.048,(Best of Five),Satisfied,Satisfied
+569,moderado,-729.93,0.101,(Best of Five),Violated,Satisfied
+569,baixo,-730.01,0.048,(Best of Five),Satisfied,Satisfied
+570,moderado,-731.35,0.912,(Best of Five),Violated,Violated
+570,baixo,-731.43,0.047,(Best of Five),Satisfied,Satisfied
+571,alto,-733.54,1.448,(Best of Five),Violated,Violated
+572,moderado,-734.39,0.576,(Best of Five),Violated,Violated
+572,baixo,-734.47,0.049,(Best of Five),Satisfied,Satisfied
+573,moderado,-736.16,1.156,(Best of Five),Violated,Violated
+573,baixo,-736.38,0.143,(Best of Five),Violated,Satisfied
+574,moderado,-737.51,0.772,(Best of Five),Violated,Violated
+574,baixo,-737.73,0.145,(Best of Five),Violated,Satisfied
+574,alto,-737.95,0.148,(Best of Five),Violated,Satisfied
+575,moderado,-738.1,0.098,(Best of Five),Satisfied,Satisfied
+575,baixo,-738.53,0.290,(Best of Five),Violated,Violated
+575,moderado,-739.03,0.337,(Best of Five),Violated,Violated
+575,baixo,-739.11,0.048,(Best of Five),Satisfied,Satisfied
+575,alto,-739.19,0.049,(Best of Five),Satisfied,Satisfied
+575,moderado,-739.34,0.101,(Best of Five),Violated,Satisfied
+576,baixo,-739.91,0.391,(Best of Five),Violated,Violated
+576,alto,-740.41,0.340,(Best of Five),Violated,Violated
+576,moderado,-740.49,0.048,(Best of Five),Satisfied,Satisfied
+576,baixo,-740.78,0.196,(Best of Five),Violated,Satisfied
+577,moderado,-741,0.147,(Best of Five),Violated,Satisfied
+577,baixo,-741.15,0.098,(Best of Five),Satisfied,Satisfied
+577,alto,-742.28,0.771,(Best of Five),Violated,Violated
+580,moderado,-746.28,2.740,(Best of Five),Violated,Violated
+580,baixo,-746.36,0.048,(Best of Five),Satisfied,Satisfied
+580,alto,-746.79,0.288,(Best of Five),Violated,Violated
+581,moderado,-747.57,0.532,(Best of Five),Violated,Violated
+581,alto,-747.72,0.097,(Best of Five),Satisfied,Satisfied
+581,moderado,-748.08,0.246,(Best of Five),Violated,Satisfied
+582,baixo,-748.37,0.197,(Best of Five),Violated,Satisfied
+582,moderado,-749.15,0.532,(Best of Five),Violated,Violated
+582,baixo,-749.23,0.047,(Best of Five),Satisfied,Satisfied
+584,alto,-751.55,1.589,(Best of Five),Violated,Violated
+584,moderado,-752.12,0.384,(Best of Five),Violated,Violated
+584,baixo,-752.2,0.048,(Best of Five),Satisfied,Satisfied
+588,alto,-758.09,4.032,(Best of Five),Violated,Violated
+589,moderado,-759.15,0.720,(Best of Five),Violated,Violated
+589,baixo,-759.58,0.289,(Best of Five),Violated,Violated
+590,alto,-760.71,0.772,(Best of Five),Violated,Violated
+590,moderado,-761.28,0.384,(Best of Five),Violated,Violated
+590,baixo,-761.5,0.148,(Best of Five),Violated,Satisfied
+591,moderado,-762.7,0.820,(Best of Five),Violated,Violated
+591,baixo,-762.78,0.048,(Best of Five),Satisfied,Satisfied
+592,alto,-763.91,0.772,(Best of Five),Violated,Violated
+593,moderado,-765.53,1.108,(Best of Five),Violated,Violated
+593,baixo,-765.61,0.048,(Best of Five),Satisfied,Satisfied
+594,moderado,-766.18,0.392,(Best of Five),Violated,Violated
+594,baixo,-766.26,0.048,(Best of Five),Satisfied,Satisfied
+594,moderado,-767.18,0.628,(Best of Five),Violated,Violated
+594,baixo,-767.33,0.097,(Best of Five),Satisfied,Satisfied
+595,moderado,-767.62,0.195,(Best of Five),Violated,Satisfied
+595,baixo,-768.05,0.292,(Best of Five),Violated,Violated
+596,moderado,-769.53,1.012,(Best of Five),Violated,Violated
+596,baixo,-769.82,0.196,(Best of Five),Violated,Satisfied
+597,alto,-771.3,1.008,(Best of Five),Violated,Violated
+597,moderado,-771.38,0.048,(Best of Five),Satisfied,Satisfied
+597,baixo,-771.53,0.101,(Best of Five),Violated,Satisfied
+600,moderado,-775.88,2.982,(Best of Five),Violated,Violated
+600,alto,-776.03,0.098,(Best of Five),Satisfied,Satisfied
+601,moderado,-776.25,0.151,(Best of Five),Violated,Satisfied
+600.58,alto,-776.33,0.047,(Best of Five),Satisfied,Satisfied
+601,moderado,-777.04,0.484,(Best of Five),Violated,Violated
+601,alto,-777.19,0.097,(Best of Five),Satisfied,Satisfied
+601,moderado,-777.34,0.096,(Best of Five),Satisfied,Satisfied
+601,baixo,-777.56,0.143,(Best of Five),Violated,Satisfied
+602,alto,-777.85,0.196,(Best of Five),Violated,Satisfied
+602,moderado,-779.12,0.867,(Best of Five),Violated,Violated
+603,baixo,-779.2,0.049,(Best of Five),Satisfied,Satisfied
+605,alto,-782.22,2.064,(Best of Five),Violated,Violated
+605,moderado,-782.37,0.097,(Best of Five),Satisfied,Satisfied
+605,baixo,-782.59,0.146,(Best of Five),Violated,Satisfied
+605,moderado,-783.02,0.288,(Best of Five),Violated,Violated
+605,baixo,-783.31,0.192,(Best of Five),Violated,Satisfied
+606,alto,-783.95,0.432,(Best of Five),Violated,Violated
+606,moderado,-784.17,0.144,(Best of Five),Violated,Satisfied
+606,baixo,-784.32,0.097,(Best of Five),Satisfied,Satisfied
+608,alto,-787.97,2.499,(Best of Five),Violated,Violated
+608.57,moderado,-788.12,0.097,(Best of Five),Satisfied,Satisfied
+609,baixo,-788.2,0.047,(Best of Five),Satisfied,Satisfied
+612,alto,-793.67,3.749,(Best of Five),Violated,Violated
+613,moderado,-793.89,0.144,(Best of Five),Violated,Satisfied
+613,baixo,-793.97,0.048,(Best of Five),Satisfied,Satisfied
+614,moderado,-795.38,0.964,(Best of Five),Violated,Violated
+614,baixo,-795.46,0.048,(Best of Five),Satisfied,Satisfied
+615,moderado,-797.71,1.540,(Best of Five),Violated,Violated
+615,alto,-797.93,0.144,(Best of Five),Violated,Satisfied
+616,moderado,-798.99,0.724,(Best of Five),Violated,Violated
+616,baixo,-799.14,0.097,(Best of Five),Satisfied,Satisfied
+616,moderado,-799.22,0.047,(Best of Five),Satisfied,Satisfied
+616,baixo,-799.51,0.196,(Best of Five),Violated,Satisfied
+617,alto,-799.8,0.197,(Best of Five),Violated,Satisfied
+617,moderado,-800.93,0.768,(Best of Five),Violated,Violated
+617,alto,-801.15,0.147,(Best of Five),Violated,Satisfied
+618,moderado,-802,0.580,(Best of Five),Violated,Violated
+618,alto,-802.08,0.048,(Best of Five),Satisfied,Satisfied
+618,moderado,-802.58,0.344,(Best of Five),Violated,Violated
+618,baixo,-802.66,0.048,(Best of Five),Satisfied,Satisfied
+619.36,alto,-804,0.911,(Best of Five),Violated,Violated
+620,baixo,-804.22,0.145,(Best of Five),Violated,Satisfied
+622,moderado,-807.38,2.159,(Best of Five),Violated,Violated
+622,alto,-807.46,0.048,(Best of Five),Satisfied,Satisfied
+622,moderado,-807.54,0.049,(Best of Five),Satisfied,Satisfied
+622,baixo,-807.76,0.144,(Best of Five),Violated,Satisfied
+624,alto,-810.71,2.016,(Best of Five),Violated,Violated
+624,moderado,-810.93,0.144,(Best of Five),Violated,Satisfied
+624,alto,-811.01,0.047,(Best of Five),Satisfied,Satisfied
+624,moderado,-811.3,0.196,(Best of Five),Violated,Satisfied
+624,baixo,-811.45,0.097,(Best of Five),Satisfied,Satisfied
+627,alto,-815.1,2.495,(Best of Five),Violated,Violated
+628,moderado,-816.51,0.964,(Best of Five),Violated,Violated
+628,baixo,-816.59,0.048,(Best of Five),Satisfied,Satisfied
+628,alto,-817.09,0.336,(Best of Five),Violated,Violated
+629,moderado,-818.15,0.725,(Best of Five),Violated,Violated
+629,baixo,-818.44,0.196,(Best of Five),Violated,Satisfied
+630,moderado,-819.92,1.012,(Best of Five),Violated,Violated
+630,alto,-820.07,0.096,(Best of Five),Satisfied,Satisfied
+631,moderado,-820.57,0.340,(Best of Five),Violated,Violated
+631,baixo,-820.65,0.047,(Best of Five),Satisfied,Satisfied
+632,moderado,-822.27,1.109,(Best of Five),Violated,Violated
+632,baixo,-822.35,0.047,(Best of Five),Satisfied,Satisfied
+633,alto,-823.48,0.772,(Best of Five),Violated,Violated
+633,moderado,-823.56,0.048,(Best of Five),Satisfied,Satisfied
+633,baixo,-823.78,0.153,(Best of Five),Violated,Satisfied
+634,moderado,-825.96,1.492,(Best of Five),Violated,Violated
+634,baixo,-826.04,0.048,(Best of Five),Satisfied,Satisfied
+634,alto,-826.19,0.098,(Best of Five),Satisfied,Satisfied
+635,moderado,-826.48,0.195,(Best of Five),Violated,Satisfied
+635,baixo,-826.63,0.097,(Best of Five),Satisfied,Satisfied
+636,alto,-828.67,1.399,(Best of Five),Violated,Violated
+637,moderado,-829.45,0.532,(Best of Five),Violated,Violated
+637,alto,-829.67,0.148,(Best of Five),Violated,Satisfied
+637,moderado,-830.24,0.383,(Best of Five),Violated,Violated
+637,baixo,-830.46,0.145,(Best of Five),Violated,Satisfied
+638,alto,-831.73,0.868,(Best of Five),Violated,Violated
+639,moderado,-832.23,0.339,(Best of Five),Violated,Violated
+638.97,baixo,-832.87,0.433,(Best of Five),Violated,Violated
+642,moderado,-837.29,3.028,(Best of Five),Violated,Violated
+642,baixo,-837.37,0.047,(Best of Five),Satisfied,Satisfied
+643,alto,-839.2,1.253,(Best of Five),Violated,Violated
+643.59,moderado,-839.63,0.292,(Best of Five),Violated,Violated
+644,alto,-839.99,0.244,(Best of Five),Violated,Satisfied
+643.93,moderado,-840.14,0.097,(Best of Five),Satisfied,Satisfied
+644,baixo,-840.36,0.143,(Best of Five),Violated,Satisfied
+645,alto,-841.84,1.012,(Best of Five),Violated,Violated
+645,moderado,-842.06,0.144,(Best of Five),Violated,Satisfied
+645,baixo,-842.28,0.148,(Best of Five),Violated,Satisfied
+652,moderado,-851.46,6.292,(Best of Five),Violated,Violated
+652,alto,-851.75,0.200,(Best of Five),Violated,Satisfied
+652,moderado,-852.04,0.196,(Best of Five),Violated,Satisfied
+652,baixo,-852.12,0.048,(Best of Five),Satisfied,Satisfied
+653,alto,-853.11,0.672,(Best of Five),Violated,Violated
+653,moderado,-853.82,0.480,(Best of Five),Violated,Violated
+653,alto,-854.11,0.196,(Best of Five),Violated,Satisfied
+654.57,moderado,-855.73,1.108,(Best of Five),Violated,Violated
+655,baixo,-855.81,0.048,(Best of Five),Satisfied,Satisfied
+655,moderado,-857.08,0.864,(Best of Five),Violated,Violated
+656,baixo,-857.23,0.096,(Best of Five),Satisfied,Satisfied
+656,moderado,-857.87,0.431,(Best of Five),Violated,Violated
+656,alto,-858.02,0.098,(Best of Five),Satisfied,Satisfied
+656,moderado,-858.52,0.343,(Best of Five),Violated,Violated
+657,baixo,-858.74,0.148,(Best of Five),Violated,Satisfied
+657,moderado,-859.73,0.672,(Best of Five),Violated,Violated
+658,baixo,-860.58,0.576,(Best of Five),Violated,Violated
+658,alto,-860.94,0.244,(Best of Five),Violated,Satisfied
+658,moderado,-861.37,0.292,(Best of Five),Violated,Violated
+658,baixo,-861.45,0.047,(Best of Five),Satisfied,Satisfied
+660,moderado,-863.77,1.589,(Best of Five),Violated,Violated
+660,baixo,-863.92,0.097,(Best of Five),Satisfied,Satisfied
+662,alto,-866.1,1.495,(Best of Five),Violated,Violated
+662,moderado,-866.74,0.436,(Best of Five),Violated,Violated
+662,baixo,-866.82,0.047,(Best of Five),Satisfied,Satisfied
+664,moderado,-870.12,2.257,(Best of Five),Violated,Violated
+664,baixo,-870.2,0.048,(Best of Five),Satisfied,Satisfied
+665,moderado,-871.75,1.060,(Best of Five),Violated,Violated
+666,baixo,-871.9,0.098,(Best of Five),Satisfied,Satisfied
+670,moderado,-878.21,4.322,(Best of Five),Violated,Violated
+670,baixo,-878.29,0.048,(Best of Five),Satisfied,Satisfied
+671,alto,-879.35,0.720,(Best of Five),Violated,Violated
+671,moderado,-880.06,0.480,(Best of Five),Violated,Violated
+671,baixo,-880.14,0.048,(Best of Five),Satisfied,Satisfied
+673,moderado,-882.53,1.644,(Best of Five),Violated,Violated
+673,alto,-882.61,0.048,(Best of Five),Satisfied,Satisfied
+673,moderado,-882.76,0.096,(Best of Five),Satisfied,Satisfied
+673,baixo,-882.91,0.097,(Best of Five),Satisfied,Satisfied
+675,alto,-886.35,2.354,(Best of Five),Violated,Violated
+676,baixo,-886.85,0.336,(Best of Five),Violated,Violated
+677,moderado,-888.68,1.252,(Best of Five),Violated,Violated
+677,baixo,-888.83,0.098,(Best of Five),Satisfied,Satisfied
+681,alto,-894.65,3.983,(Best of Five),Violated,Violated
+682,moderado,-896.41,1.203,(Best of Five),Violated,Violated
+683,baixo,-896.77,0.244,(Best of Five),Violated,Satisfied
+686,moderado,-901.89,3.504,(Best of Five),Violated,Violated
+686,baixo,-902.11,0.143,(Best of Five),Violated,Satisfied
+687,alto,-903.45,0.913,(Best of Five),Violated,Violated
+687,moderado,-903.88,0.292,(Best of Five),Violated,Violated
+687,baixo,-903.96,0.048,(Best of Five),Satisfied,Satisfied
+692,moderado,-910.62,4.564,(Best of Five),Violated,Violated
+692,baixo,-910.77,0.098,(Best of Five),Satisfied,Satisfied
+695,alto,-914.7,2.695,(Best of Five),Violated,Violated
+696,moderado,-915.9,0.816,(Best of Five),Violated,Violated
+696,baixo,-916.05,0.097,(Best of Five),Satisfied,Satisfied
+698,moderado,-919.14,2.119,(Best of Five),Violated,Violated
+698,alto,-919.22,0.048,(Best of Five),Satisfied,Satisfied
+699,moderado,-920.21,0.675,(Best of Five),Violated,Violated
+699,baixo,-920.29,0.049,(Best of Five),Satisfied,Satisfied
+700,moderado,-922.05,1.204,(Best of Five),Violated,Violated
+700,baixo,-922.2,0.096,(Best of Five),Satisfied,Satisfied
+702,moderado,-925.78,2.449,(Best of Five),Violated,Violated
+702,alto,-925.86,0.047,(Best of Five),Satisfied,Satisfied
+702.53,moderado,-926.08,0.145,(Best of Five),Violated,Satisfied
+703,baixo,-926.51,0.288,(Best of Five),Violated,Violated
+703,alto,-926.66,0.096,(Best of Five),Satisfied,Satisfied
+705,moderado,-929.4,1.878,(Best of Five),Violated,Violated
+704.84,baixo,-929.48,0.049,(Best of Five),Satisfied,Satisfied
+706,alto,-931.8,1.589,(Best of Five),Violated,Violated
+707,moderado,-932.93,0.768,(Best of Five),Violated,Violated
+707,alto,-933.01,0.048,(Best of Five),Satisfied,Satisfied
+708,moderado,-934,0.676,(Best of Five),Violated,Violated
+708,alto,-934.43,0.292,(Best of Five),Violated,Violated
+708,moderado,-934.51,0.047,(Best of Five),Satisfied,Satisfied
+708,baixo,-934.66,0.098,(Best of Five),Satisfied,Satisfied
+708,alto,-934.74,0.050,(Best of Five),Satisfied,Satisfied
+709,moderado,-934.96,0.148,(Best of Five),Violated,Satisfied
+709,baixo,-935.11,0.097,(Best of Five),Satisfied,Satisfied
+712,alto,-940.51,3.699,(Best of Five),Violated,Violated
+713,moderado,-940.8,0.196,(Best of Five),Violated,Satisfied
+713,baixo,-940.88,0.047,(Best of Five),Satisfied,Satisfied
+713,moderado,-941.59,0.484,(Best of Five),Violated,Violated
+713.23,baixo,-941.81,0.149,(Best of Five),Violated,Satisfied
+713,alto,-942.03,0.148,(Best of Five),Violated,Satisfied
+714,moderado,-943.3,0.864,(Best of Five),Violated,Violated
+714,baixo,-943.52,0.148,(Best of Five),Violated,Satisfied
+716,moderado,-945.98,1.683,(Best of Five),Violated,Violated
+716,baixo,-946.34,0.245,(Best of Five),Violated,Satisfied
+716,moderado,-946.56,0.148,(Best of Five),Violated,Satisfied
+717,baixo,-946.64,0.048,(Best of Five),Satisfied,Satisfied
+718,alto,-948.96,1.588,(Best of Five),Violated,Violated
+718,moderado,-949.18,0.144,(Best of Five),Violated,Satisfied
+718,baixo,-949.33,0.097,(Best of Five),Satisfied,Satisfied
+723,moderado,-955.5,4.228,(Best of Five),Violated,Violated
+723,baixo,-955.58,0.047,(Best of Five),Satisfied,Satisfied
+724,moderado,-957.48,1.305,(Best of Five),Violated,Violated
+724,baixo,-957.7,0.148,(Best of Five),Violated,Satisfied
+734,moderado,-972.83,10.372,(Best of Five),Violated,Violated
+735,baixo,-973.12,0.192,(Best of Five),Violated,Satisfied
+739,alto,-979.22,4.184,(Best of Five),Violated,Violated
+739,moderado,-979.51,0.196,(Best of Five),Violated,Satisfied
+739.21,alto,-979.8,0.197,(Best of Five),Violated,Satisfied
+739,moderado,-979.88,0.048,(Best of Five),Satisfied,Satisfied
+739,baixo,-980.1,0.143,(Best of Five),Violated,Satisfied
+743,alto,-985.43,3.653,(Best of Five),Violated,Violated
+744,moderado,-986.21,0.531,(Best of Five),Violated,Violated
+744,baixo,-986.36,0.097,(Best of Five),Satisfied,Satisfied
+746,moderado,-989.38,2.063,(Best of Five),Violated,Violated
+746,baixo,-989.6,0.148,(Best of Five),Violated,Satisfied
+748,moderado,-992.9,2.260,(Best of Five),Violated,Violated
+748,baixo,-993.05,0.097,(Best of Five),Satisfied,Satisfied
+748,alto,-993.2,0.100,(Best of Five),Violated,Satisfied
+749,moderado,-993.56,0.247,(Best of Five),Violated,Satisfied
+749,baixo,-993.71,0.097,(Best of Five),Satisfied,Satisfied
+753,alto,-1000.23,4.467,(Best of Five),Violated,Violated
+753,moderado,-1000.52,0.196,(Best of Five),Violated,Satisfied
+753,baixo,-1000.67,0.096,(Best of Five),Satisfied,Satisfied
+758,moderado,-1008.03,5.043,(Best of Five),Violated,Violated
+759,baixo,-1008.32,0.192,(Best of Five),Violated,Satisfied
+763,moderado,-1014.42,4.180,(Best of Five),Violated,Violated
+763,alto,-1014.71,0.195,(Best of Five),Violated,Satisfied
+765,baixo,-1016.96,1.541,(Best of Five),Violated,Violated
+765,moderado,-1017.04,0.048,(Best of Five),Satisfied,Satisfied
+765,baixo,-1017.12,0.049,(Best of Five),Satisfied,Satisfied
+770,moderado,-1024.9,5.331,(Best of Five),Violated,Violated
+770.13,baixo,-1025.05,0.097,(Best of Five),Satisfied,Satisfied
+771,moderado,-1025.97,0.631,(Best of Five),Violated,Violated
+771,alto,-1026.05,0.048,(Best of Five),Satisfied,Satisfied
+771,moderado,-1026.2,0.097,(Best of Five),Satisfied,Satisfied
+771,baixo,-1026.28,0.047,(Best of Five),Satisfied,Satisfied
+775,moderado,-1032.66,4.372,(Best of Five),Violated,Violated
+775,baixo,-1032.81,0.097,(Best of Five),Satisfied,Satisfied
+776,moderado,-1033.03,0.142,(Best of Five),Violated,Satisfied
+776,baixo,-1033.6,0.389,(Best of Five),Violated,Violated
+776,alto,-1034.38,0.532,(Best of Five),Violated,Violated
+777,moderado,-1035.3,0.629,(Best of Five),Violated,Violated
+777,baixo,-1035.45,0.097,(Best of Five),Satisfied,Satisfied
+778,alto,-1036.58,0.771,(Best of Five),Violated,Violated
+779,moderado,-1037.36,0.531,(Best of Five),Violated,Violated
+778.61,baixo,-1037.51,0.098,(Best of Five),Satisfied,Satisfied
+779,alto,-1038.22,0.483,(Best of Five),Violated,Violated
+779,moderado,-1038.3,0.047,(Best of Five),Satisfied,Satisfied
+779,alto,-1038.45,0.102,(Best of Five),Violated,Satisfied
+780,moderado,-1039.79,0.914,(Best of Five),Violated,Violated
+780,alto,-1040.01,0.145,(Best of Five),Violated,Satisfied
+781,moderado,-1040.79,0.532,(Best of Five),Violated,Violated
+781,baixo,-1041.08,0.192,(Best of Five),Violated,Satisfied
+782,alto,-1042.63,1.057,(Best of Five),Violated,Violated
+783,moderado,-1044.25,1.104,(Best of Five),Violated,Violated
+783,baixo,-1044.4,0.097,(Best of Five),Satisfied,Satisfied
+785,moderado,-1047.21,1.924,(Best of Five),Violated,Violated
+785,baixo,-1047.36,0.097,(Best of Five),Satisfied,Satisfied
+786,moderado,-1048.56,0.823,(Best of Five),Violated,Violated
+786,baixo,-1048.71,0.097,(Best of Five),Satisfied,Satisfied
+786,alto,-1049,0.195,(Best of Five),Violated,Satisfied
+788,moderado,-1051.04,1.392,(Best of Five),Violated,Violated
+788,baixo,-1051.75,0.484,(Best of Five),Violated,Violated
+788,moderado,-1052.04,0.196,(Best of Five),Violated,Satisfied
+789,baixo,-1052.4,0.244,(Best of Five),Violated,Satisfied
+790,alto,-1054.65,1.536,(Best of Five),Violated,Violated
+791,moderado,-1055.08,0.292,(Best of Five),Violated,Violated
+791,baixo,-1055.37,0.196,(Best of Five),Violated,Satisfied
+791,moderado,-1055.45,0.047,(Best of Five),Satisfied,Satisfied
+791,baixo,-1055.53,0.049,(Best of Five),Satisfied,Satisfied
+791,moderado,-1055.61,0.049,(Best of Five),Satisfied,Satisfied
+791,baixo,-1055.69,0.048,(Best of Five),Satisfied,Satisfied
+791,moderado,-1056.05,0.243,(Best of Five),Violated,Satisfied
+791,alto,-1056.13,0.047,(Best of Five),Satisfied,Satisfied
+791.77,moderado,-1056.91,0.529,(Best of Five),Violated,Violated
+792,baixo,-1056.99,0.048,(Best of Five),Satisfied,Satisfied
+792,moderado,-1057.63,0.432,(Best of Five),Violated,Violated
+792,baixo,-1057.71,0.047,(Best of Five),Satisfied,Satisfied
+797,alto,-1064.23,4.465,(Best of Five),Violated,Violated
+797,moderado,-1064.38,0.096,(Best of Five),Satisfied,Satisfied
+797,baixo,-1064.46,0.047,(Best of Five),Satisfied,Satisfied
+797,moderado,-1064.75,0.193,(Best of Five),Violated,Satisfied
+797,baixo,-1064.97,0.144,(Best of Five),Violated,Satisfied
+800,alto,-1069.18,2.884,(Best of Five),Violated,Violated
+801,moderado,-1069.82,0.436,(Best of Five),Violated,Violated
+801,baixo,-1070.11,0.192,(Best of Five),Violated,Satisfied
+803,alto,-1073.06,2.020,(Best of Five),Violated,Violated
+803,moderado,-1073.63,0.384,(Best of Five),Violated,Violated
+803,baixo,-1073.78,0.097,(Best of Five),Satisfied,Satisfied
+805,alto,-1077.01,2.211,(Best of Five),Violated,Violated
+806,moderado,-1077.09,0.048,(Best of Five),Satisfied,Satisfied
+806,baixo,-1077.52,0.292,(Best of Five),Violated,Violated
+807,moderado,-1078.79,0.869,(Best of Five),Violated,Violated
+807,baixo,-1078.87,0.047,(Best of Five),Satisfied,Satisfied
+807,moderado,-1079.23,0.241,(Best of Five),Violated,Satisfied
+807,alto,-1079.31,0.047,(Best of Five),Satisfied,Satisfied
+807,moderado,-1079.46,0.098,(Best of Five),Satisfied,Satisfied
+807,baixo,-1079.54,0.047,(Best of Five),Satisfied,Satisfied
+808,moderado,-1080.6,0.720,(Best of Five),Violated,Violated
+808,alto,-1080.68,0.048,(Best of Five),Satisfied,Satisfied
+809,moderado,-1082.02,0.916,(Best of Five),Violated,Violated
+809,alto,-1082.24,0.144,(Best of Five),Violated,Satisfied
+809,baixo,-1082.46,0.148,(Best of Five),Violated,Satisfied
+810,alto,-1083.03,0.384,(Best of Five),Violated,Violated
+810,moderado,-1083.46,0.292,(Best of Five),Violated,Violated
+810,alto,-1084.03,0.384,(Best of Five),Violated,Violated
+810,moderado,-1084.32,0.196,(Best of Five),Violated,Satisfied
+810,baixo,-1084.4,0.049,(Best of Five),Satisfied,Satisfied
+811,alto,-1085.95,1.056,(Best of Five),Violated,Violated
+812,moderado,-1086.45,0.340,(Best of Five),Violated,Violated
+812,baixo,-1086.6,0.097,(Best of Five),Satisfied,Satisfied
+812.6,moderado,-1087.59,0.674,(Best of Five),Violated,Violated
+813,baixo,-1087.74,0.104,(Best of Five),Violated,Satisfied
+813,alto,-1087.96,0.150,(Best of Five),Violated,Satisfied
+813,moderado,-1088.74,0.537,(Best of Five),Violated,Violated
+813,baixo,-1088.82,0.050,(Best of Five),Satisfied,Satisfied
+814,alto,-1090.16,0.933,(Best of Five),Violated,Violated
+815,moderado,-1090.8,0.434,(Best of Five),Violated,Violated
+814.91,baixo,-1090.95,0.102,(Best of Five),Violated,Satisfied
+816,alto,-1092.64,1.158,(Best of Five),Violated,Violated
+817,moderado,-1094.61,1.361,(Best of Five),Violated,Violated
+818,baixo,-1094.83,0.148,(Best of Five),Violated,Satisfied
+821,moderado,-1099.95,3.507,(Best of Five),Violated,Violated
+821,alto,-1100.03,0.049,(Best of Five),Satisfied,Satisfied
+822,moderado,-1101.65,1.105,(Best of Five),Violated,Violated
+822,alto,-1102.01,0.244,(Best of Five),Violated,Satisfied
+823,moderado,-1102.44,0.287,(Best of Five),Violated,Violated
+823,baixo,-1102.59,0.097,(Best of Five),Satisfied,Satisfied
+823,moderado,-1103.09,0.342,(Best of Five),Violated,Violated
+823,baixo,-1103.17,0.048,(Best of Five),Satisfied,Satisfied
+824,alto,-1103.74,0.388,(Best of Five),Violated,Violated
+824,moderado,-1104.1,0.245,(Best of Five),Violated,Satisfied
+824,alto,-1104.67,0.388,(Best of Five),Violated,Violated
+825,moderado,-1105.87,0.816,(Best of Five),Violated,Violated
+825,baixo,-1106.37,0.340,(Best of Five),Violated,Violated
+826,alto,-1106.52,0.096,(Best of Five),Satisfied,Satisfied
+826,moderado,-1107.23,0.480,(Best of Five),Violated,Violated
+826,baixo,-1107.59,0.241,(Best of Five),Violated,Satisfied
+827,moderado,-1109.07,1.012,(Best of Five),Violated,Violated
+827,baixo,-1109.15,0.048,(Best of Five),Satisfied,Satisfied
+828,moderado,-1109.65,0.340,(Best of Five),Violated,Violated
+828,baixo,-1109.73,0.048,(Best of Five),Satisfied,Satisfied
+830.39,moderado,-1113.66,2.692,(Best of Five),Violated,Violated
+830,baixo,-1113.74,0.047,(Best of Five),Satisfied,Satisfied
+831,alto,-1114.45,0.480,(Best of Five),Violated,Violated
+831,moderado,-1114.81,0.240,(Best of Five),Violated,Satisfied
+831,baixo,-1114.89,0.047,(Best of Five),Satisfied,Satisfied
+832,alto,-1115.67,0.533,(Best of Five),Violated,Violated
+832,moderado,-1115.82,0.097,(Best of Five),Satisfied,Satisfied
+832,baixo,-1116.04,0.146,(Best of Five),Violated,Satisfied
+834,alto,-1118.29,1.540,(Best of Five),Violated,Violated
+834,moderado,-1118.65,0.244,(Best of Five),Violated,Satisfied
+834,baixo,-1119.08,0.292,(Best of Five),Violated,Violated
+834,alto,-1119.44,0.244,(Best of Five),Violated,Satisfied
+834,moderado,-1119.52,0.048,(Best of Five),Satisfied,Satisfied
+834,baixo,-1119.74,0.148,(Best of Five),Violated,Satisfied
+836,alto,-1122.06,1.588,(Best of Five),Violated,Violated
+836,moderado,-1122.63,0.388,(Best of Five),Violated,Violated
+837,baixo,-1122.71,0.047,(Best of Five),Satisfied,Satisfied
+839,alto,-1125.87,2.164,(Best of Five),Violated,Violated
+839,moderado,-1126.02,0.098,(Best of Five),Satisfied,Satisfied
+839,baixo,-1126.31,0.199,(Best of Five),Violated,Satisfied
+839,alto,-1126.39,0.048,(Best of Five),Satisfied,Satisfied
+839,moderado,-1127.03,0.432,(Best of Five),Violated,Violated
+840,baixo,-1127.11,0.048,(Best of Five),Satisfied,Satisfied
+841,moderado,-1129.08,1.348,(Best of Five),Violated,Violated
+841,baixo,-1129.16,0.048,(Best of Five),Satisfied,Satisfied
+842,alto,-1130.78,1.112,(Best of Five),Violated,Violated
+843,moderado,-1131.7,0.625,(Best of Five),Violated,Violated
+843,baixo,-1131.85,0.096,(Best of Five),Satisfied,Satisfied
+843,alto,-1132.7,0.580,(Best of Five),Violated,Violated
+844,moderado,-1133.62,0.628,(Best of Five),Violated,Violated
+844,baixo,-1133.84,0.144,(Best of Five),Violated,Satisfied
+845,moderado,-1135.46,1.108,(Best of Five),Violated,Violated
+845,alto,-1135.75,0.196,(Best of Five),Violated,Satisfied
+846,moderado,-1136.46,0.483,(Best of Five),Violated,Violated
+846,alto,-1136.68,0.149,(Best of Five),Violated,Satisfied
+846,moderado,-1137.25,0.388,(Best of Five),Violated,Violated
+846,baixo,-1137.33,0.048,(Best of Five),Satisfied,Satisfied
+850,alto,-1141.96,3.168,(Best of Five),Violated,Violated
+850,moderado,-1142.04,0.048,(Best of Five),Satisfied,Satisfied
+850,alto,-1142.12,0.049,(Best of Five),Satisfied,Satisfied
+850,moderado,-1142.48,0.248,(Best of Five),Violated,Satisfied
+850,baixo,-1142.56,0.048,(Best of Five),Satisfied,Satisfied
+850,alto,-1142.92,0.248,(Best of Five),Violated,Satisfied
+850,moderado,-1143.07,0.097,(Best of Five),Satisfied,Satisfied
+850,baixo,-1143.15,0.050,(Best of Five),Satisfied,Satisfied
+859,alto,-1155.34,8.361,(Best of Five),Violated,Violated
+859.31,moderado,-1156.12,0.532,(Best of Five),Violated,Violated
+859,baixo,-1156.2,0.048,(Best of Five),Satisfied,Satisfied
+860,alto,-1157.33,0.772,(Best of Five),Violated,Violated
+860,moderado,-1157.76,0.292,(Best of Five),Violated,Violated
+860,baixo,-1157.84,0.048,(Best of Five),Satisfied,Satisfied
+863,moderado,-1161.91,2.788,(Best of Five),Violated,Violated
+863,baixo,-1161.99,0.048,(Best of Five),Satisfied,Satisfied
+864,alto,-1163.61,1.104,(Best of Five),Violated,Violated
+865,moderado,-1164.25,0.435,(Best of Five),Violated,Violated
+865,baixo,-1164.54,0.193,(Best of Five),Violated,Satisfied
+867,alto,-1167.28,1.873,(Best of Five),Violated,Violated
+867,moderado,-1167.36,0.048,(Best of Five),Satisfied,Satisfied
+867,alto,-1167.51,0.097,(Best of Five),Satisfied,Satisfied
+867,moderado,-1167.73,0.148,(Best of Five),Violated,Satisfied
+867,baixo,-1167.88,0.097,(Best of Five),Satisfied,Satisfied
+867,moderado,-1167.96,0.050,(Best of Five),Satisfied,Satisfied
+867,baixo,-1168.18,0.148,(Best of Five),Violated,Satisfied
+868,moderado,-1168.89,0.484,(Best of Five),Violated,Violated
+868,baixo,-1168.97,0.047,(Best of Five),Satisfied,Satisfied
+869,moderado,-1171.01,1.397,(Best of Five),Violated,Violated
+870,baixo,-1171.23,0.148,(Best of Five),Violated,Satisfied
+871,alto,-1173.06,1.252,(Best of Five),Violated,Violated
+871,moderado,-1173.14,0.048,(Best of Five),Satisfied,Satisfied
+870.97,alto,-1173.29,0.097,(Best of Five),Satisfied,Satisfied
+872,moderado,-1174.21,0.623,(Best of Five),Violated,Violated
+872,alto,-1174.36,0.098,(Best of Five),Satisfied,Satisfied
+872,moderado,-1175.07,0.482,(Best of Five),Violated,Violated
+872.27,baixo,-1175.22,0.097,(Best of Five),Satisfied,Satisfied
+874,moderado,-1177.12,1.299,(Best of Five),Violated,Violated
+874,baixo,-1177.2,0.048,(Best of Five),Satisfied,Satisfied
+881,moderado,-1187.57,7.121,(Best of Five),Violated,Violated
+881,baixo,-1187.65,0.047,(Best of Five),Satisfied,Satisfied
+881,alto,-1188.22,0.388,(Best of Five),Violated,Violated
+881,moderado,-1188.51,0.196,(Best of Five),Violated,Satisfied
+881,baixo,-1188.59,0.049,(Best of Five),Satisfied,Satisfied
+884,alto,-1191.68,2.112,(Best of Five),Violated,Violated
+884,moderado,-1192.25,0.388,(Best of Five),Violated,Violated
+884,baixo,-1192.33,0.047,(Best of Five),Satisfied,Satisfied
+891,moderado,-1202.21,6.777,(Best of Five),Violated,Violated
+891,alto,-1202.29,0.047,(Best of Five),Satisfied,Satisfied
+891,baixo,-1202.51,0.148,(Best of Five),Violated,Satisfied
+891,moderado,-1203.22,0.485,(Best of Five),Violated,Violated
+892,baixo,-1203.37,0.097,(Best of Five),Satisfied,Satisfied
+892,moderado,-1204.5,0.775,(Best of Five),Violated,Violated
+892,alto,-1204.58,0.048,(Best of Five),Satisfied,Satisfied
+893,moderado,-1206.13,1.056,(Best of Five),Violated,Violated
+893,baixo,-1206.28,0.097,(Best of Five),Satisfied,Satisfied
+896.33,moderado,-1210.42,2.836,(Best of Five),Violated,Violated
+896,baixo,-1210.57,0.096,(Best of Five),Satisfied,Satisfied
+898,moderado,-1212.47,1.295,(Best of Five),Violated,Violated
+898,baixo,-1212.55,0.048,(Best of Five),Satisfied,Satisfied
+900,alto,-1215.36,1.925,(Best of Five),Violated,Violated
+900,moderado,-1215.44,0.048,(Best of Five),Satisfied,Satisfied
+900,baixo,-1215.52,0.049,(Best of Five),Satisfied,Satisfied
+900,moderado,-1215.95,0.291,(Best of Five),Violated,Violated
+900,baixo,-1216.03,0.048,(Best of Five),Satisfied,Satisfied
+906,moderado,-1224.02,5.480,(Best of Five),Violated,Violated
+906,baixo,-1224.24,0.145,(Best of Five),Violated,Satisfied
+906,moderado,-1224.39,0.096,(Best of Five),Satisfied,Satisfied
+906,baixo,-1224.89,0.340,(Best of Five),Violated,Violated
+907,moderado,-1226.23,0.912,(Best of Five),Violated,Violated
+907,baixo,-1226.38,0.101,(Best of Five),Violated,Satisfied
+908,alto,-1228.21,1.251,(Best of Five),Violated,Violated
+909,moderado,-1228.64,0.292,(Best of Five),Violated,Violated
+909,alto,-1228.79,0.097,(Best of Five),Satisfied,Satisfied
+909,baixo,-1229.71,0.630,(Best of Five),Violated,Violated
+910,moderado,-1229.79,0.048,(Best of Five),Satisfied,Satisfied
+909.57,baixo,-1229.87,0.050,(Best of Five),Satisfied,Satisfied
+911,moderado,-1232.33,1.683,(Best of Five),Violated,Violated
+911,baixo,-1232.48,0.097,(Best of Five),Satisfied,Satisfied
+914,alto,-1236.27,2.595,(Best of Five),Violated,Violated
+914,moderado,-1236.91,0.435,(Best of Five),Violated,Violated
+914,baixo,-1237.06,0.098,(Best of Five),Satisfied,Satisfied
+921,moderado,-1246.52,6.487,(Best of Five),Violated,Violated
+921,alto,-1246.6,0.047,(Best of Five),Satisfied,Satisfied
+921,moderado,-1246.89,0.196,(Best of Five),Violated,Satisfied
+921,alto,-1247.04,0.096,(Best of Five),Satisfied,Satisfied
+922,moderado,-1247.54,0.336,(Best of Five),Violated,Violated
+922,baixo,-1247.76,0.148,(Best of Five),Violated,Satisfied
+923,alto,-1249.59,1.248,(Best of Five),Violated,Violated
+923,moderado,-1249.74,0.097,(Best of Five),Satisfied,Satisfied
+923,baixo,-1249.82,0.047,(Best of Five),Satisfied,Satisfied
+924,alto,-1250.53,0.481,(Best of Five),Violated,Violated
+925,moderado,-1252.15,1.108,(Best of Five),Violated,Violated
+925,baixo,-1252.23,0.048,(Best of Five),Satisfied,Satisfied
+925,alto,-1252.59,0.240,(Best of Five),Violated,Satisfied
+927,moderado,-1255.61,2.064,(Best of Five),Violated,Violated
+927,alto,-1255.69,0.048,(Best of Five),Satisfied,Satisfied
+927,moderado,-1255.98,0.200,(Best of Five),Violated,Satisfied
+927,baixo,-1256.13,0.097,(Best of Five),Satisfied,Satisfied
+928,alto,-1256.28,0.100,(Best of Five),Satisfied,Satisfied
+928,moderado,-1256.99,0.478,(Best of Five),Violated,Violated
+928,baixo,-1257.07,0.049,(Best of Five),Satisfied,Satisfied
+930,moderado,-1260.09,2.068,(Best of Five),Violated,Violated
+930,alto,-1260.17,0.048,(Best of Five),Satisfied,Satisfied
+930,moderado,-1260.32,0.098,(Best of Five),Satisfied,Satisfied
+931,baixo,-1260.82,0.342,(Best of Five),Violated,Violated
+932,alto,-1262.93,1.440,(Best of Five),Violated,Violated
+933,moderado,-1264.41,1.012,(Best of Five),Violated,Violated
+933,baixo,-1264.56,0.097,(Best of Five),Satisfied,Satisfied
+935,moderado,-1266.53,1.347,(Best of Five),Violated,Violated
+935,baixo,-1266.68,0.097,(Best of Five),Satisfied,Satisfied
+936,moderado,-1268.3,1.110,(Best of Five),Violated,Violated
+936,alto,-1268.87,0.385,(Best of Five),Violated,Violated
+936,moderado,-1269.09,0.148,(Best of Five),Violated,Satisfied
+936,baixo,-1269.31,0.148,(Best of Five),Violated,Satisfied
+937,alto,-1270.65,0.912,(Best of Five),Violated,Violated
+938,moderado,-1271.15,0.335,(Best of Five),Violated,Violated
+938,baixo,-1271.23,0.048,(Best of Five),Satisfied,Satisfied
+939,alto,-1273.76,1.728,(Best of Five),Violated,Violated
+940,moderado,-1274.26,0.339,(Best of Five),Violated,Violated
+940,baixo,-1274.34,0.048,(Best of Five),Satisfied,Satisfied
+941,alto,-1275.4,0.725,(Best of Five),Violated,Violated
+941,moderado,-1276.25,0.576,(Best of Five),Violated,Violated
+941,alto,-1276.61,0.244,(Best of Five),Violated,Satisfied
+942,moderado,-1277.81,0.819,(Best of Five),Violated,Violated
+942,baixo,-1278.1,0.192,(Best of Five),Violated,Satisfied
+944,moderado,-1280.77,1.824,(Best of Five),Violated,Violated
+944,baixo,-1280.92,0.097,(Best of Five),Satisfied,Satisfied
+945,alto,-1281.91,0.671,(Best of Five),Violated,Violated
+945,moderado,-1282.62,0.488,(Best of Five),Violated,Violated
+946,baixo,-1282.7,0.048,(Best of Five),Satisfied,Satisfied
+950,alto,-1289.71,4.804,(Best of Five),Violated,Violated
+951,moderado,-1290.56,0.580,(Best of Five),Violated,Violated
+951,baixo,-1290.85,0.192,(Best of Five),Violated,Satisfied
+954,alto,-1295.55,3.219,(Best of Five),Violated,Violated
+955,moderado,-1296.19,0.433,(Best of Five),Violated,Violated
+955,baixo,-1296.27,0.048,(Best of Five),Satisfied,Satisfied
+956,alto,-1297.47,0.816,(Best of Five),Violated,Violated
+956,moderado,-1297.97,0.339,(Best of Five),Violated,Violated
+956,baixo,-1298.05,0.048,(Best of Five),Satisfied,Satisfied
+957,moderado,-1299.6,1.060,(Best of Five),Violated,Violated
+957,baixo,-1299.75,0.097,(Best of Five),Satisfied,Satisfied
+961,alto,-1305.78,4.147,(Best of Five),Violated,Violated
+962,moderado,-1307.4,1.104,(Best of Five),Violated,Violated
+963,baixo,-1307.55,0.097,(Best of Five),Satisfied,Satisfied
+964.39,moderado,-1310.29,1.876,(Best of Five),Violated,Violated
+964,alto,-1310.44,0.097,(Best of Five),Satisfied,Satisfied
+965,moderado,-1311.08,0.438,(Best of Five),Violated,Violated
+965,alto,-1311.16,0.048,(Best of Five),Satisfied,Satisfied
+965,moderado,-1311.59,0.288,(Best of Five),Violated,Violated
+965,baixo,-1311.74,0.097,(Best of Five),Satisfied,Satisfied
+966,moderado,-1312.17,0.295,(Best of Five),Violated,Violated
+966,baixo,-1312.25,0.047,(Best of Five),Satisfied,Satisfied
+966,moderado,-1313.03,0.537,(Best of Five),Violated,Violated
+966,baixo,-1313.25,0.144,(Best of Five),Violated,Satisfied
+969,moderado,-1317.18,2.691,(Best of Five),Violated,Violated
+969,baixo,-1317.26,0.049,(Best of Five),Satisfied,Satisfied
+970,alto,-1317.83,0.388,(Best of Five),Violated,Violated
+970,moderado,-1318.68,0.580,(Best of Five),Violated,Violated
+970,baixo,-1318.76,0.048,(Best of Five),Satisfied,Satisfied
+973,moderado,-1323.04,2.936,(Best of Five),Violated,Violated
+973,baixo,-1323.12,0.048,(Best of Five),Satisfied,Satisfied
+976,moderado,-1326.91,2.596,(Best of Five),Violated,Violated
+976,baixo,-1327.13,0.148,(Best of Five),Violated,Satisfied
+979,alto,-1330.99,2.640,(Best of Five),Violated,Violated
+979,moderado,-1331.28,0.192,(Best of Five),Violated,Satisfied
+979,baixo,-1331.36,0.048,(Best of Five),Satisfied,Satisfied
+979,moderado,-1331.79,0.292,(Best of Five),Violated,Violated
+979,baixo,-1331.87,0.048,(Best of Five),Satisfied,Satisfied
+980,moderado,-1333,0.772,(Best of Five),Violated,Violated
+980,alto,-1333.15,0.097,(Best of Five),Satisfied,Satisfied
+980,moderado,-1333.37,0.143,(Best of Five),Violated,Satisfied
+981,alto,-1334.08,0.484,(Best of Five),Violated,Violated
+981,moderado,-1334.37,0.196,(Best of Five),Violated,Satisfied
+981.07,alto,-1334.8,0.292,(Best of Five),Violated,Violated
+981,moderado,-1334.95,0.097,(Best of Five),Satisfied,Satisfied
+981,alto,-1335.03,0.051,(Best of Five),Satisfied,Satisfied
+982,moderado,-1335.46,0.296,(Best of Five),Violated,Violated
+982,alto,-1335.54,0.048,(Best of Five),Satisfied,Satisfied
+982,moderado,-1335.69,0.098,(Best of Five),Satisfied,Satisfied
+982,baixo,-1335.98,0.199,(Best of Five),Violated,Satisfied
+983,alto,-1337.46,1.016,(Best of Five),Violated,Violated
+983,moderado,-1337.75,0.196,(Best of Five),Violated,Satisfied
+983,alto,-1337.83,0.048,(Best of Five),Satisfied,Satisfied
+984,moderado,-1339.03,0.820,(Best of Five),Violated,Violated
+984,alto,-1339.18,0.097,(Best of Five),Satisfied,Satisfied
+984,moderado,-1339.26,0.047,(Best of Five),Satisfied,Satisfied
+984,baixo,-1339.55,0.192,(Best of Five),Violated,Satisfied
+987,alto,-1342.92,2.308,(Best of Five),Violated,Violated
+988,moderado,-1344.89,1.348,(Best of Five),Violated,Violated
+988,baixo,-1345.11,0.148,(Best of Five),Violated,Satisfied
+989,alto,-1345.75,0.432,(Best of Five),Violated,Violated
+991,moderado,-1349.54,2.592,(Best of Five),Violated,Violated
+991,baixo,-1349.69,0.097,(Best of Five),Satisfied,Satisfied
+992,alto,-1350.4,0.487,(Best of Five),Violated,Violated
+992,moderado,-1350.48,0.047,(Best of Five),Satisfied,Satisfied
+992,baixo,-1350.7,0.144,(Best of Five),Violated,Satisfied
+993,moderado,-1351.76,0.724,(Best of Five),Violated,Violated
+992.65,baixo,-1351.84,0.048,(Best of Five),Satisfied,Satisfied
+993,moderado,-1352.69,0.575,(Best of Five),Violated,Violated
+993,baixo,-1352.91,0.148,(Best of Five),Violated,Satisfied
+995,alto,-1355.09,1.488,(Best of Five),Violated,Violated
+995,moderado,-1355.45,0.243,(Best of Five),Violated,Satisfied
+995,baixo,-1355.53,0.048,(Best of Five),Satisfied,Satisfied
+996,moderado,-1356.87,0.916,(Best of Five),Violated,Violated
+996,alto,-1356.95,0.048,(Best of Five),Satisfied,Satisfied
+997,moderado,-1357.52,0.388,(Best of Five),Violated,Violated
+997,baixo,-1357.74,0.147,(Best of Five),Violated,Satisfied
+999,alto,-1361.18,2.357,(Best of Five),Violated,Violated
+1.000,moderado,-1362.24,0.728,(Best of Five),Violated,Violated
+1.000,alto,-1362.39,0.096,(Best of Five),Satisfied,Satisfied
+1000.22,baixo,-1362.96,0.384,(Best of Five),Violated,Violated
+1001.18,moderado,-1364.37,0.964,(Best of Five),Violated,Violated
+1001.28,baixo,-1364.52,0.097,(Best of Five),Satisfied,Satisfied
+1002.04,alto,-1365.65,0.767,(Best of Five),Violated,Violated
+1002.24,moderado,-1365.94,0.192,(Best of Five),Violated,Satisfied
+1002.29,baixo,-1366.02,0.048,(Best of Five),Satisfied,Satisfied
+1006.27,moderado,-1371.84,3.988,(Best of Five),Violated,Violated
+1006.37,baixo,-1371.99,0.097,(Best of Five),Satisfied,Satisfied
+1009.54,moderado,-1376.62,3.171,(Best of Five),Violated,Violated
+1009.59,alto,-1376.7,0.048,(Best of Five),Satisfied,Satisfied
+1010.65,moderado,-1378.25,1.064,(Best of Five),Violated,Violated
+1010.85,baixo,-1378.54,0.196,(Best of Five),Violated,Satisfied
+1013.16,alto,-1381.91,2.308,(Best of Five),Violated,Violated
+1013.25,moderado,-1382.06,0.097,(Best of Five),Satisfied,Satisfied
+1013.69,baixo,-1382.7,0.438,(Best of Five),Violated,Violated
+1014.42,alto,-1383.76,0.724,(Best of Five),Violated,Violated
+1014.57,moderado,-1383.98,0.148,(Best of Five),Violated,Satisfied
+1014.61,baixo,-1384.06,0.048,(Best of Five),Satisfied,Satisfied
+1015.1,alto,-1384.77,0.484,(Best of Five),Violated,Violated
+1015.14,moderado,-1384.85,0.047,(Best of Five),Satisfied,Satisfied
+1015.19,baixo,-1384.93,0.050,(Best of Five),Satisfied,Satisfied
+1022.44,moderado,-1395.51,7.250,(Best of Five),Violated,Violated
+1022.49,baixo,-1395.59,0.048,(Best of Five),Satisfied,Satisfied
+1022.93,alto,-1396.23,0.436,(Best of Five),Violated,Violated
+1023.75,moderado,-1397.43,0.820,(Best of Five),Violated,Violated
+1023.9,alto,-1397.65,0.148,(Best of Five),Violated,Satisfied
+1024.04,moderado,-1397.87,0.144,(Best of Five),Violated,Satisfied
+1024.14,baixo,-1398.02,0.097,(Best of Five),Satisfied,Satisfied
+1024.48,moderado,-1398.52,0.338,(Best of Five),Violated,Violated
+1024.53,baixo,-1398.6,0.049,(Best of Five),Satisfied,Satisfied
+1028.18,moderado,-1403.93,3.652,(Best of Five),Violated,Violated
+1028.37,baixo,-1404.22,0.196,(Best of Five),Violated,Satisfied
+1030.11,alto,-1406.75,1.732,(Best of Five),Violated,Violated
+1030.4,moderado,-1407.18,0.292,(Best of Five),Violated,Violated
+1030.44,baixo,-1407.26,0.048,(Best of Five),Satisfied,Satisfied
+1031.65,moderado,-1409.02,1.209,(Best of Five),Violated,Violated
+1031.75,baixo,-1409.17,0.097,(Best of Five),Satisfied,Satisfied
+1032,moderado,-1409.53,0.246,(Best of Five),Violated,Satisfied
+1032.14,alto,-1409.75,0.148,(Best of Five),Violated,Satisfied
+1032.53,moderado,-1410.32,0.385,(Best of Five),Violated,Violated
+1032.58,baixo,-1410.4,0.048,(Best of Five),Satisfied,Satisfied
+1036.33,alto,-1415.87,3.748,(Best of Five),Violated,Violated
+1037.53,moderado,-1417.63,1.200,(Best of Five),Violated,Violated
+1037.57,baixo,-1417.71,0.048,(Best of Five),Satisfied,Satisfied
+1037.82,alto,-1418.07,0.244,(Best of Five),Violated,Satisfied
+1038.01,moderado,-1418.36,0.192,(Best of Five),Violated,Satisfied
+1038.06,baixo,-1418.44,0.048,(Best of Five),Satisfied,Satisfied
+1039.41,moderado,-1420.41,1.348,(Best of Five),Violated,Violated
+1039.45,alto,-1420.49,0.048,(Best of Five),Satisfied,Satisfied
+1039.69,moderado,-1420.85,0.240,(Best of Five),Violated,Satisfied
+1039.79,baixo,-1421,0.097,(Best of Five),Satisfied,Satisfied
+1040.13,alto,-1421.5,0.339,(Best of Five),Violated,Violated
+1041.14,moderado,-1422.98,1.012,(Best of Five),Violated,Violated
+1041.34,baixo,-1423.27,0.196,(Best of Five),Violated,Satisfied
+1042.39,alto,-1424.82,1.055,(Best of Five),Violated,Violated
+1042.54,moderado,-1425.04,0.149,(Best of Five),Violated,Satisfied
+1042.69,baixo,-1425.26,0.148,(Best of Five),Violated,Satisfied
+1046.01,alto,-1430.1,3.316,(Best of Five),Violated,Violated
+1046.05,moderado,-1430.18,0.048,(Best of Five),Satisfied,Satisfied
+1046.15,baixo,-1430.33,0.097,(Best of Five),Satisfied,Satisfied
+1049.71,alto,-1435.52,3.555,(Best of Five),Violated,Violated
+1050,moderado,-1435.95,0.292,(Best of Five),Violated,Violated
+1050.05,alto,-1436.03,0.048,(Best of Five),Satisfied,Satisfied
+1050.77,moderado,-1437.09,0.728,(Best of Five),Violated,Violated
+1050.92,baixo,-1437.31,0.148,(Best of Five),Violated,Satisfied
+1053.27,moderado,-1440.75,2.352,(Best of Five),Violated,Violated
+1053.32,baixo,-1440.83,0.048,(Best of Five),Satisfied,Satisfied
+1057.55,alto,-1447,4.232,(Best of Five),Violated,Violated
+1057.65,moderado,-1447.15,0.097,(Best of Five),Satisfied,Satisfied
+1058.03,baixo,-1447.72,0.383,(Best of Five),Violated,Violated
+1061.49,moderado,-1452.77,3.460,(Best of Five),Violated,Violated
+1061.54,baixo,-1452.85,0.048,(Best of Five),Satisfied,Satisfied
+1062.75,moderado,-1454.61,1.205,(Best of Five),Violated,Violated
+1062.84,baixo,-1454.76,0.096,(Best of Five),Satisfied,Satisfied
+1064,moderado,-1456.45,1.155,(Best of Five),Violated,Violated
+1064.39,baixo,-1457.02,0.388,(Best of Five),Violated,Violated
+1066.84,alto,-1460.6,2.452,(Best of Five),Violated,Violated
+1067.37,moderado,-1461.38,0.532,(Best of Five),Violated,Violated
+1067.42,baixo,-1461.46,0.048,(Best of Five),Satisfied,Satisfied
+1067.75,alto,-1461.96,0.336,(Best of Five),Violated,Violated
+1068.91,moderado,-1463.65,1.156,(Best of Five),Violated,Violated
+1068.96,baixo,-1463.73,0.048,(Best of Five),Satisfied,Satisfied
+1071.26,moderado,-1467.1,2.308,(Best of Five),Violated,Violated
+1071.41,baixo,-1467.32,0.143,(Best of Five),Violated,Satisfied
+1071.55,alto,-1467.54,0.145,(Best of Five),Violated,Satisfied
+1071.85,moderado,-1467.97,0.292,(Best of Five),Violated,Violated
+1071.89,baixo,-1468.05,0.047,(Best of Five),Satisfied,Satisfied
+1078.18,moderado,-1477.23,6.289,(Best of Five),Violated,Violated
+1078.28,baixo,-1477.38,0.097,(Best of Five),Satisfied,Satisfied
+1078.47,alto,-1477.67,0.195,(Best of Five),Violated,Satisfied
+1078.67,moderado,-1477.96,0.196,(Best of Five),Violated,Satisfied
+1078.72,baixo,-1478.04,0.048,(Best of Five),Satisfied,Satisfied
+1079.4,alto,-1479.03,0.680,(Best of Five),Violated,Violated
+1079.93,moderado,-1479.81,0.532,(Best of Five),Violated,Violated
+1079.98,baixo,-1479.89,0.048,(Best of Five),Satisfied,Satisfied
+1081.42,alto,-1482,1.444,(Best of Five),Violated,Violated
+1081.47,moderado,-1482.08,0.048,(Best of Five),Satisfied,Satisfied
+1081.52,baixo,-1482.16,0.050,(Best of Five),Satisfied,Satisfied
+1082.29,alto,-1483.29,0.771,(Best of Five),Violated,Violated
+1082.72,moderado,-1483.93,0.435,(Best of Five),Violated,Violated
+1082.82,baixo,-1484.08,0.098,(Best of Five),Satisfied,Satisfied
+1083.07,alto,-1484.44,0.247,(Best of Five),Violated,Satisfied
+1083.31,moderado,-1484.8,0.240,(Best of Five),Violated,Satisfied
+1083.36,baixo,-1484.88,0.047,(Best of Five),Satisfied,Satisfied
+1086.44,moderado,-1489.37,3.080,(Best of Five),Violated,Violated
+1086.53,baixo,-1489.52,0.097,(Best of Five),Satisfied,Satisfied
+1088.98,moderado,-1493.1,2.447,(Best of Five),Violated,Violated
+1089.03,alto,-1493.18,0.047,(Best of Five),Satisfied,Satisfied
+1089.33,moderado,-1493.61,0.297,(Best of Five),Violated,Violated
+1089.52,baixo,-1493.9,0.191,(Best of Five),Violated,Satisfied
+1089.56,alto,-1493.98,0.048,(Best of Five),Satisfied,Satisfied
+1090.73,moderado,-1495.67,1.161,(Best of Five),Violated,Violated
+1090.82,alto,-1495.82,0.096,(Best of Five),Satisfied,Satisfied
+1091.59,moderado,-1496.95,0.768,(Best of Five),Violated,Violated
+1091.79,baixo,-1497.24,0.196,(Best of Five),Violated,Satisfied
+1092.27,alto,-1497.95,0.480,(Best of Five),Violated,Violated
+1093.18,moderado,-1499.29,0.912,(Best of Five),Violated,Violated
+1093.22,baixo,-1499.37,0.048,(Best of Five),Satisfied,Satisfied
+1094.38,alto,-1501.06,1.152,(Best of Five),Violated,Violated
+1094.47,moderado,-1501.21,0.097,(Best of Five),Satisfied,Satisfied
+1094.63,baixo,-1501.43,0.151,(Best of Five),Violated,Satisfied
+1095.64,alto,-1502.91,1.012,(Best of Five),Violated,Violated
+1096.07,moderado,-1503.55,0.436,(Best of Five),Violated,Violated
+1096.12,baixo,-1503.63,0.048,(Best of Five),Satisfied,Satisfied
+1096.36,moderado,-1503.99,0.240,(Best of Five),Violated,Satisfied
+1096.51,baixo,-1504.21,0.145,(Best of Five),Violated,Satisfied
+1097.09,moderado,-1505.06,0.580,(Best of Five),Violated,Violated
+1097.13,baixo,-1505.14,0.048,(Best of Five),Satisfied,Satisfied
+1098.64,moderado,-1507.32,1.504,(Best of Five),Violated,Violated
+1098.89,alto,-1507.68,0.248,(Best of Five),Violated,Satisfied
+1098.93,moderado,-1507.76,0.048,(Best of Five),Satisfied,Satisfied
+1098.98,baixo,-1507.84,0.049,(Best of Five),Satisfied,Satisfied
+1099.13,alto,-1508.06,0.151,(Best of Five),Violated,Satisfied
+1099.23,moderado,-1508.21,0.097,(Best of Five),Satisfied,Satisfied
+1099.28,baixo,-1508.29,0.048,(Best of Five),Satisfied,Satisfied
+1099.57,moderado,-1508.72,0.292,(Best of Five),Violated,Violated
+1099.72,baixo,-1508.94,0.148,(Best of Five),Violated,Satisfied

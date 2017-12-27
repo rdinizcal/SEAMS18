@@ -1,0 +1,62 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.J48 -C 0.25 -M 2
+Relation:     RealTime (5 sensors)-weka.filters.unsupervised.attribute.Remove-R2-4
+Instances:    1485
+Attributes:   2
+              Sensor remetente
+               Diff (s)
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+J48 pruned tree
+------------------
+
+ Diff (s) <= 0.085333
+|    Diff (s) <= 0.079437
+|   |    Diff (s) <= 0.073483: Sensor4 (295.0)
+|   |    Diff (s) > 0.073483: Sensor3 (296.0)
+|    Diff (s) > 0.079437: Sensor2 (297.0)
+ Diff (s) > 0.085333
+|    Diff (s) <= 0.089679: Sensor1 (298.0)
+|    Diff (s) > 0.089679: Sensor0 (299.0)
+
+Number of Leaves  : 	5
+
+Size of the tree : 	9
+
+
+Time taken to build model: 0 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances        1480               99.6633 %
+Incorrectly Classified Instances         5                0.3367 %
+Kappa statistic                          0.9958
+Mean absolute error                      0.0013
+Root mean squared error                  0.0367
+Relative absolute error                  0.4209 %
+Root relative squared error              9.1747 %
+Total Number of Instances             1485     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1,000    0,001    0,997      1,000    0,998      0,998    1,000     0,997     Sensor0
+                 0,997    0,001    0,997      0,997    0,997      0,996    0,998     0,994     Sensor1
+                 0,997    0,001    0,997      0,997    0,997      0,996    0,998     0,994     Sensor2
+                 0,997    0,002    0,993      0,997    0,995      0,994    0,997     0,991     Sensor3
+                 0,993    0,000    1,000      0,993    0,997      0,996    0,997     0,995     Sensor4
+Weighted Avg.    0,997    0,001    0,997      0,997    0,997      0,996    0,998     0,994     
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   <-- classified as
+ 299   0   0   0   0 |   a = Sensor0
+   1 297   0   0   0 |   b = Sensor1
+   0   1 296   0   0 |   c = Sensor2
+   0   0   1 295   0 |   d = Sensor3
+   0   0   0   2 293 |   e = Sensor4
+
