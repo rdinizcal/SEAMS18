@@ -53,7 +53,7 @@ class SensorNodeModule : public TimeTriggeredConferenceClientModule {
          * @return booleano com autorização ou não da
          *         execução do módulo
          */
-        bool controllerFSM(int /*cycles*/);
+        bool controllerFSM(int /*cycles*/, int /* t_low */, int /* t_mod */, int /* t_high */);
 
         /**
          * Gerador de dados classificados do sensor
@@ -64,13 +64,33 @@ class SensorNodeModule : public TimeTriggeredConferenceClientModule {
         string generateData(string /*actual status*/);
 
         /**
-         * Faz a análise do novo dado gerado para garantir 
+         * Análise do novo dado gerado para garantir 
          * confiabilidade dos dados gerados.
          * 
          * @param estado atual do nó sensor 
          * @return estado que será enviado pelo nó
          */
         string statusAnalysis(string /*actual status*/);
+
+        /**
+         * Estratégia de análise dos dados gerados.
+         * O estado que possuir três das cinco posições será
+         * considerado o atual estado do nó sensor.
+         * 
+         * @param número de lows, moderates e highs, o threshold (3) e o estado atual 
+         * @return novo estado do nó
+         */
+        string threeOfFive(int /* l */, int /* m */, int /* h */, int /* threshold */, string /* actual_status */);
+
+        /**
+         * Estratégia de análise dos dados gerados.
+         * O estado que possuir mais posições será
+         * considerado o atual estado do nó sensor.
+         * 
+         * @param número de lows, moderates e highs 
+         * @return novo estado do nó
+         */
+        string bestOf(int /* l */, int /* m */, int /* h */);
 
         /**
          * Envio do dado analisado

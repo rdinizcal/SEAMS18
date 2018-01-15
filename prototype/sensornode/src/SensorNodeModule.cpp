@@ -38,15 +38,15 @@ void SensorNodeModule::setUp() {
 void SensorNodeModule::tearDown() {
 }
 
-bool SensorNodeModule::controllerFSM(int t){
+bool SensorNodeModule::controllerFSM(int t, int t_low, int t_mod, int t_high){
     bool exe = false;
     
     if(m_status=="low"){
-        exe = (t>=10)?true:false;
+        exe = (t>=t_low)? true:false;
     } else if (m_status=="moderate") {
-        exe = (t>=5)?true:false;
+        exe = (t>=t_mod)? true:false;
     } else if (m_status=="high") {
-        exe = (t>=1)?true:false;
+        exe = (t>=t_high)? true:false;
     } 
 
     return exe;
@@ -90,9 +90,7 @@ string SensorNodeModule::generateData(string actual_status){
 
 string SensorNodeModule::statusAnalysis(string actual_status) {
 
-    string new_status = actual_status;
     int l=0, m=0, h=0;
-    int threshold=3;
 
     for(uint32_t i = 0; i < m_data_queue.size(); i++) {
         if(m_data_queue[i]=="low"){
@@ -104,8 +102,19 @@ string SensorNodeModule::statusAnalysis(string actual_status) {
         }
     } 
 
-     
-    // Analisar 3 de 5
+    if(true){
+        return bestOf(l, m, h);
+    } else {
+        return threeOfFive(l, m, h, 3, actual_status);
+    }
+    
+}
+
+// Analisar 3 de 5
+string SensorNodeModule::threeOfFive(int l, int m, int h, int threshold, string actual_status){
+    
+    string new_status;
+
     if(l>=threshold){
         new_status = "low";
     } else if (m>=threshold) {
@@ -115,9 +124,13 @@ string SensorNodeModule::statusAnalysis(string actual_status) {
     } else {
         new_status = actual_status;
     }
-    
-    /*
-    // Analisar maioria entre sensores
+
+    return new_status;
+}
+
+// Analisar maioria entre sensores
+string SensorNodeModule::bestOf(int l, int m, int h){
+    string new_status;
     int max = h;
 
     if(l > max) {
@@ -127,8 +140,7 @@ string SensorNodeModule::statusAnalysis(string actual_status) {
     } else {
         new_status = "high";
     }
-    */
-
+    
     return new_status;
 }
 
@@ -174,20 +186,53 @@ odcore::data::dmcp::ModuleExitCodeMessage::ModuleExitCode SensorNodeModule::body
     bool sent=false;
     int cont=3;
 
+    int t_low; 
+    int t_mod; 
+    int t_high; 
+
+    uint32_t active_sensors;
+
     while (getModuleStateAndWaitForRemainingTimeInTimeslice() == odcore::data::dmcp::ModuleStateMessage::RUNNING) {
         
+        // Define a política de execução baseado no estado atual da bateria
+
+        //Dynamic Adaptation
+        /* if (m_battery >= 50) {
+            t_low = 10; 
+            t_mod = 5; 
+            t_high = 1;
+            active_sensors = 5;
+
+        } else if (15 <= m_battery && m_battery < 50 ) {
+            t_low = 11; 
+            t_mod = 10; 
+            t_high = 9;
+            active_sensors = 5;
+        } else {
+            t_low = 11; 
+            t_mod = 10; 
+            t_high = 9;
+            active_sensors = 3;
+        } */
+
+        // Non-Controlled
+        t_low = 1;
+        t_mod = 1;
+        t_high = 1;
+        active_sensors = 5;
+
         cycles++;
-        exe = controllerFSM(cycles);  // para execução com controlador
-        //exe = true;                     // para execuçao sem controlador
+        exe = controllerFSM(cycles, t_low, t_mod, t_high);    // controlador de execução do módulo
         consumeBattery(0.001);
 
         if(exe){
             /*GERAR DADOS*/
             
             bool flag = false;
-            //for(int i = 0; i < 5; i++){
+            string collected;
+            
+            for(uint32_t i = 0; i < active_sensors; i++){
                 
-                string collected;
                 timespec et = elapsedTime(ts, t_crab);
 
                 //cout << "DEBUG ET: " << ((double)((et.tv_sec) + (et.tv_nsec/1E9))) <<endl;
@@ -199,14 +244,12 @@ odcore::data::dmcp::ModuleExitCodeMessage::ModuleExitCode SensorNodeModule::body
                 }
                 consumeBattery(0.01);
 
-                if(m_data_queue.size()>=5){
+                while(m_data_queue.size()>=active_sensors){
                     m_data_queue.pop_front();
                 } 
 
                 m_data_queue.push_back(collected);
-            //}
-
-            cout << "COLLECTED DATA: " << collected << endl;
+            }
 
             /*CAPTURAR INSTANTE DO PROCESSADOR*/
             clock_gettime(CLOCK_REALTIME, &ts);
@@ -229,8 +272,8 @@ odcore::data::dmcp::ModuleExitCodeMessage::ModuleExitCode SensorNodeModule::body
                 }
             }
 
-
-            cout << ++c << "- Actual status: " << m_status  << " | Data sampled: " << new_status <<  " at " << TimeStamp().getYYYYMMDD_HHMMSSms() << endl;
+            cout << ++c << "- Actual status: " << m_status  << " | Data sampled: " << new_status <<  " at " << TimeStamp().getYYYYMMDD_HHMMSSms();
+            cout << "| BATERIA: " << m_battery << "\%" << endl;
 
             //ID
             m_status_log << m_id << ",";
@@ -242,7 +285,7 @@ odcore::data::dmcp::ModuleExitCodeMessage::ModuleExitCode SensorNodeModule::body
             m_status_log << m_status << ",";
 
             //Collected Sensor Risk Status
-            m_status_log << collected << ","; 
+            m_status_log << new_status << ","; 
 
             //Data Sent?
             string kk = (sent)?"true":"false";
