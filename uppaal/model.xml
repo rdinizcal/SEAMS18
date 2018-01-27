@@ -14,6 +14,10 @@ const int low = 1;
 const int moderate = 2;
 const int high = 3;
 
+// Time params for adaptation (controller)
+int t_low = 11;
+int t_mod = 10;
+int t_high = 9;
 
 // Time Constraints (ms)
 const int PD = 100;       //Scheduler period
@@ -241,20 +245,20 @@ void update() {
 			<label kind="invariant" x="-391" y="-212">i_clk&lt;=Cb</label>
 		</location>
 		<init ref="id9"/>
-		<transition color="#00ff00">
+		<transition>
 			<source ref="id8"/>
 			<target ref="id6"/>
 			<label kind="guard" x="-391" y="0">emergency</label>
 			<label kind="synchronisation" x="-382" y="17">dtc!</label>
 			<nail x="-391" y="17"/>
-			<nail x="-382" y="34"/>
+			<nail x="-391" y="34"/>
 		</transition>
 		<transition>
 			<source ref="id8"/>
 			<target ref="id6"/>
 			<label kind="guard" x="-510" y="0">!emergency</label>
 			<nail x="-425" y="17"/>
-			<nail x="-433" y="34"/>
+			<nail x="-425" y="34"/>
 		</transition>
 		<transition>
 			<source ref="id6"/>
@@ -308,17 +312,16 @@ void update() {
 clock i_clk;
 bool exe;
 
-
 /**************Temporary Variables**************/
 
 /*******************Functions*******************/
 void controller() {
     if(sn_status[id]==low) {
-        exe = (t[id]&gt;=10)?true:false;
+        exe = (t[id]&gt;=t_low)?true:false;
     } else if (sn_status[id]==moderate) {
-        exe = (t[id]&gt;=5)?true:false;
+        exe = (t[id]&gt;=t_mod)?true:false;
     } else if (sn_status[id]==high) {
-        exe = (t[id]&gt;=1)?true:false;
+        exe = (t[id]&gt;=t_high)?true:false;
     }
 }
 
