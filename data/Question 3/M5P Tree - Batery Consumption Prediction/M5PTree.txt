@@ -1,0 +1,68 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.M5P -M 4.0
+Relation:     TESTE-weka.filters.unsupervised.attribute.Remove-R1,3
+Instances:    38
+Attributes:   3
+              Delta Battery
+              Tempo no estado
+              Estado do Paciente
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+M5 pruned model tree:
+(using smoothed linear models)
+
+Estado do Paciente=high <= 0.5 : 
+|   Tempo no estado <= 10.75 : LM1 (7/0.32%)
+|   Tempo no estado >  10.75 : 
+|   |   Tempo no estado <= 16 : LM2 (8/0%)
+|   |   Tempo no estado >  16 : 
+|   |   |   Tempo no estado <= 26.46 : LM3 (2/0%)
+|   |   |   Tempo no estado >  26.46 : LM4 (3/0%)
+Estado do Paciente=high >  0.5 : LM5 (18/0.003%)
+
+LM num: 1
+Delta Battery = 
+	0.2046 * Tempo no estado 
+	+ 3.6657 * Estado do Paciente=high 
+	- 1.7654
+
+LM num: 2
+Delta Battery = 
+	0.2122 * Tempo no estado 
+	+ 3.6657 * Estado do Paciente=high 
+	- 1.9796
+
+LM num: 3
+Delta Battery = 
+	0.2181 * Tempo no estado 
+	+ 3.6657 * Estado do Paciente=high 
+	- 2.0394
+
+LM num: 4
+Delta Battery = 
+	0.2179 * Tempo no estado 
+	+ 3.6657 * Estado do Paciente=high 
+	- 2.0261
+
+LM num: 5
+Delta Battery = 
+	0.5275 * Tempo no estado 
+	+ 3.8878 * Estado do Paciente=high 
+	- 2.3255
+
+Number of Rules : 5
+
+Time taken to build model: 0 seconds
+
+=== Cross-validation ===
+=== Summary ===
+
+Correlation coefficient                  0.9813
+Mean absolute error                      1.0894
+Root mean squared error                  1.4061
+Relative absolute error                 20.1024 %
+Root relative squared error             19.2579 %
+Total Number of Instances               38
