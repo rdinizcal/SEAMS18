@@ -647,7 +647,7 @@ system scheduler, bodyhub, sensornode, generator, gen_timer, observer;    </syst
 			</comment>
 		</query>
 		<query>
-			<formula>bodyhub(0).hstatus==high --&gt; emergency==true
+			<formula>A&lt;&gt; bodyhub(0).hstatus==high imply emergency==true
 			</formula>
 			<comment>Whether the patients' health status is on high implies that eventually an emergency will be detected
 			</comment>
@@ -683,19 +683,19 @@ system scheduler, bodyhub, sensornode, generator, gen_timer, observer;    </syst
 			</comment>
 		</query>
 		<query>
-			<formula>A[] (sensornode(1).ready and sensornode(1).exe==true and sn_status[1]==high) imply t[1]==1
+			<formula>A[] (sensornode(1).ready and sensornode(1).exe==true and sn_status[1]==high) imply t[1]==t_high
 			</formula>
 			<comment>Always the fact that sensornode1 is ready to execute and its risk status is on high implies that only one scheduler cycle has passed since the last data acquisition
 			</comment>
 		</query>
 		<query>
-			<formula>A[] (sensornode(1).ready and sensornode(1).exe==true and sn_status[1]==moderate) imply t[1]==5
+			<formula>A[] (sensornode(1).ready and sensornode(1).exe==true and sn_status[1]==moderate) imply t[1]==t_mod
 			</formula>
 			<comment>Always the fact that sensornode1 is ready to execute and its risk status is on moderate implies that five scheduler cycle has passed since the last data acquisition
 			</comment>
 		</query>
 		<query>
-			<formula>A[] (sensornode(1).ready and sensornode(1).exe==true and sn_status[1]==low) imply t[1]==10
+			<formula>A[] (sensornode(1).ready and sensornode(1).exe==true and sn_status[1]==low) imply t[1]==t_low
 			</formula>
 			<comment>Always the fact that sensornode1 is ready to execute and its risk status is on low implies that ten scheduler cycle has passed since the last data acquisition
 			</comment>
